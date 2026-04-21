@@ -1,0 +1,1501 @@
+id_cliente,edad,genero,region,num_compras,ticket_promedio,categoria_principal,canal_preferido,dias_ultima_compra,meses_cliente,satisfaccion,programa_fidelidad,pct_descuento_usado,gasto_anual,cliente_activo,segmento_cliente
+CLI-00001,56,F,Metropolitana,6,132800.0,Hogar,Online,2,43.0,,0,11.4,785200.0,1,Recurrente
+CLI-00002,69,M,Biobío,10,54300.0,Hogar,Tienda física,14,27.0,2.0,1,21.0,600200.0,1,Recurrente
+CLI-00003,46,F,Valparaíso,7,74700.0,Deportes,Online,9,49.0,7.0,1,48.1,653100.0,1,Recurrente
+CLI-00004,32,F,Metropolitana,8,74500.0,Electrónica,Online,48,40.0,6.0,1,20.7,621300.0,1,Recurrente
+CLI-00005,60,F,Araucanía,7,115600.0,Deportes,Online,85,44.0,4.0,0,19.3,774000.0,0,Recurrente
+CLI-00006,25,No especifica,Valparaíso,8,23600.0,Ropa,Online,17,,6.0,1,35.5,326900.0,1,Recurrente
+CLI-00007,38,F,Araucanía,4,56600.0,Electrónica,Tienda física,39,9.0,8.0,1,,316000.0,1,Nuevo
+CLI-00008,56,M,Valparaíso,7,162700.0,Hogar,Online,59,43.0,6.0,1,11.7,1201100.0,1,Recurrente
+CLI-00009,36,F,Valparaíso,4,63300.0,Ropa,App móvil,23,3.0,8.0,1,35.9,312900.0,1,Nuevo
+CLI-00010,40,M,Metropolitana,10,151300.0,Alimentos,Tienda física,4,39.0,8.0,1,25.0,1451200.0,1,Recurrente
+CLI-00011,28,M,Metropolitana,5,121300.0,Alimentos,Tienda física,12,29.0,8.0,1,51.4,692300.0,1,Recurrente
+CLI-00012,28,F,Coquimbo,5,132600.0,Alimentos,Online,97,21.0,7.0,1,54.6,729700.0,0,Recurrente
+CLI-00013,41,M,Metropolitana,4,130300.0,Hogar,Tienda física,79,35.0,4.0,1,11.2,577700.0,0,Recurrente
+CLI-00014,70,F,Coquimbo,3,61600.0,Deportes,Tienda física,5,53.0,5.0,1,18.9,318300.0,1,Nuevo
+CLI-00015,53,M,Valparaíso,10,95800.0,Electrónica,Tienda física,12,48.0,9.0,1,3.8,1017900.0,1,Recurrente
+CLI-00016,57,F,Metropolitana,8,26200.0,Hogar,App móvil,66,10.0,7.0,1,31.1,319100.0,1,Recurrente
+CLI-00017,41,M,Metropolitana,6,95800.0,Ropa,Tienda física,30,23.0,8.0,0,28.3,558900.0,1,Recurrente
+CLI-00018,20,No especifica,Metropolitana,7,225600.0,Ropa,Tienda física,65,39.0,7.0,1,35.2,1448300.0,0,Recurrente
+CLI-00019,39,F,Coquimbo,7,113300.0,Alimentos,Tienda física,503,25.0,2.0,0,45.9,718600.0,1,Recurrente
+CLI-00020,70,M,Metropolitana,4,43800.0,Electrónica,Tienda física,138,24.0,9.0,0,,271200.0,0,Nuevo
+CLI-00021,19,F,Metropolitana,3,52500.0,Alimentos,Online,69,20.0,3.0,0,19.1,190600.0,0,Nuevo
+CLI-00022,41,No especifica,Metropolitana,5,122500.0,Ropa,Online,10,15.0,10.0,1,21.5,645400.0,1,Recurrente
+CLI-00023,61,F,Metropolitana,12,53000.0,Ropa,App móvil,37,21.0,5.0,1,55.5,627000.0,1,Recurrente
+CLI-00024,47,M,Valparaíso,4,28900.0,Deportes,Online,6,53.0,7.0,0,24.8,225600.0,0,Nuevo
+CLI-00025,55,F,Metropolitana,7,82300.0,Deportes,App móvil,21,,3.0,1,5.1,621300.0,1,Recurrente
+CLI-00026,19,F,Araucanía,7,121600.0,Deportes,Online,49,12.0,9.0,0,12.0,823000.0,0,Recurrente
+CLI-00027,38,F,Metropolitana,7,41200.0,Alimentos,Tienda física,19,18.0,10.0,1,44.1,436100.0,1,Recurrente
+CLI-00028,50,F,Metropolitana,1,63600.0,Electrónica,Tienda física,49,60.0,4.0,0,24.0,141600.0,1,Nuevo
+CLI-00029,29,M,Valparaíso,3,72900.0,Deportes,Online,13,23.0,6.0,0,13.8,253200.0,1,Nuevo
+CLI-00030,39,M,Metropolitana,8,82600.0,Hogar,Tienda física,58,55.0,1.0,1,16.5,726200.0,1,Recurrente
+CLI-00031,61,F,Coquimbo,5,40600.0,Deportes,Tienda física,21,41.0,9.0,1,31.7,310700.0,1,Recurrente
+CLI-00032,42,M,Valparaíso,4,30200.0,Alimentos,Tienda física,71,29.0,6.0,1,27.6,298700.0,0,Nuevo
+CLI-00033,66,M,Metropolitana,14,121900.0,Electrónica,Tienda física,7,41.0,8.0,1,27.4,1634800.0,1,VIP
+CLI-00034,44,No especifica,Valparaíso,5,47900.0,Deportes,Online,21,36.0,2.0,0,54.3,261400.0,1,Recurrente
+CLI-00035,59,F,Metropolitana,14,43400.0,Electrónica,Tienda física,29,5.0,8.0,1,10.0,672100.0,1,Recurrente
+CLI-00036,45,F,Metropolitana,5,81600.0,Hogar,Online,25,39.0,7.0,0,63.1,437800.0,1,Recurrente
+CLI-00037,33,F,Coquimbo,6,51800.0,Ropa,Online,26,26.0,8.0,0,30.2,302700.0,1,Recurrente
+CLI-00038,32,F,Biobío,9,82300.0,Electrónica,App móvil,27,39.0,9.0,0,20.0,697200.0,1,Recurrente
+CLI-00039,64,F,Coquimbo,4,41700.0,Deportes,Tienda física,203,11.0,3.0,1,26.5,185600.0,0,Nuevo
+CLI-00040,68,F,Valparaíso,8,43100.0,Alimentos,Tienda física,10,42.0,7.0,1,9.7,460500.0,1,Recurrente
+CLI-00041,61,M,Valparaíso,8,75400.0,Alimentos,Tienda física,66,11.0,8.0,0,24.6,582500.0,1,Recurrente
+CLI-00042,69,M,Metropolitana,5,36600.0,Alimentos,Online,37,56.0,7.0,0,35.6,252100.0,1,Recurrente
+CLI-00043,20,F,Metropolitana,6,78800.0,Alimentos,Tienda física,25,56.0,5.0,1,12.7,539400.0,1,Recurrente
+CLI-00044,54,F,Araucanía,9,35400.0,Electrónica,Tienda física,46,18.0,9.0,0,4.9,322600.0,1,Recurrente
+CLI-00045,68,M,Metropolitana,9,93000.0,Alimentos,Online,87,,10.0,1,44.7,844800.0,1,Recurrente
+CLI-00046,24,M,Araucanía,7,30300.0,Ropa,App móvil,29,57.0,10.0,1,12.4,404700.0,1,Recurrente
+CLI-00047,38,M,Biobío,8,68700.0,Hogar,Tienda física,91,,8.0,1,28.7,649300.0,1,Recurrente
+CLI-00048,26,M,Metropolitana,5,18100.0,Electrónica,Online,5,27.0,7.0,0,34.6,62200.0,1,Recurrente
+CLI-00049,56,F,Valparaíso,7,49900.0,Electrónica,Tienda física,48,36.0,6.0,1,,447700.0,1,Recurrente
+CLI-00050,35,M,Biobío,14,61900.0,Alimentos,Online,19,17.0,3.0,1,14.6,833900.0,0,Recurrente
+CLI-00051,21,F,Metropolitana,11,32900.0,Alimentos,Online,23,49.0,7.0,0,26.9,393600.0,1,Recurrente
+CLI-00052,42,F,Araucanía,5,80500.0,Electrónica,Tienda física,39,,4.0,0,35.5,412600.0,1,Recurrente
+CLI-00053,31,F,Valparaíso,6,78500.0,Alimentos,App móvil,30,55.0,5.0,0,49.6,476400.0,1,Recurrente
+CLI-00054,67,F,Metropolitana,2,59600.0,Alimentos,Tienda física,22,37.0,9.0,0,19.6,211300.0,1,Nuevo
+CLI-00055,26,M,Valparaíso,8,72100.0,Alimentos,App móvil,17,31.0,10.0,1,28.8,717200.0,1,Recurrente
+CLI-00056,43,F,Coquimbo,5,34500.0,Alimentos,App móvil,44,45.0,10.0,0,35.2,237100.0,1,Recurrente
+CLI-00057,70,M,Metropolitana,5,75900.0,Alimentos,App móvil,32,35.0,5.0,1,17.5,463100.0,1,Recurrente
+CLI-00058,19,M,Araucanía,5,129400.0,Deportes,Online,18,27.0,9.0,1,23.4,700200.0,1,Recurrente
+CLI-00059,37,No especifica,Metropolitana,4,76800.0,Deportes,Tienda física,11,23.0,,0,37.0,380300.0,1,Nuevo
+CLI-00060,45,M,Biobío,8,87600.0,Deportes,Online,68,32.0,7.0,0,16.5,654100.0,1,Recurrente
+CLI-00061,64,M,Biobío,7,122300.0,Electrónica,Tienda física,73,17.0,8.0,1,17.8,912200.0,1,Recurrente
+CLI-00062,24,F,Metropolitana,8,106100.0,Hogar,App móvil,11,11.0,7.0,1,32.1,848600.0,1,Recurrente
+CLI-00063,61,M,Metropolitana,9,129800.0,Electrónica,Online,14,,10.0,1,10.0,1129300.0,1,Recurrente
+CLI-00064,25,F,Biobío,7,187200.0,Deportes,Tienda física,13,28.0,6.0,1,23.2,1282300.0,0,Recurrente
+CLI-00065,64,M,Valparaíso,5,78100.0,Electrónica,Tienda física,98,18.0,,1,12.1,457300.0,1,Recurrente
+CLI-00066,52,No especifica,Biobío,4,62300.0,Hogar,Online,67,49.0,3.0,0,13.8,315100.0,1,Nuevo
+CLI-00067,31,F,Metropolitana,8,36800.0,Alimentos,Online,4,41.0,,1,23.0,416100.0,1,Recurrente
+CLI-00068,34,F,Araucanía,6,53300.0,Ropa,Tienda física,81,20.0,7.0,1,11.9,378800.0,1,Recurrente
+CLI-00069,53,No especifica,Biobío,5,66400.0,Deportes,Online,2,7.0,8.0,1,16.8,441100.0,1,Recurrente
+CLI-00070,67,M,Coquimbo,6,82400.0,Deportes,Tienda física,14,37.0,8.0,0,37.5,522900.0,1,Recurrente
+CLI-00071,57,No especifica,Metropolitana,5,92900.0,Hogar,Tienda física,114,16.0,8.0,1,12.7,516400.0,1,Recurrente
+CLI-00072,21,M,Valparaíso,9,52900.0,Alimentos,Tienda física,90,,7.0,1,,601100.0,1,Recurrente
+CLI-00073,19,F,Valparaíso,3,35900.0,Alimentos,Online,69,,6.0,1,32.9,226000.0,1,Nuevo
+CLI-00074,23,M,Metropolitana,5,26400.0,Ropa,Tienda física,28,45.0,8.0,1,43.6,298900.0,1,Recurrente
+CLI-00075,71,F,Valparaíso,9,121000.0,Alimentos,Online,18,,,1,30.6,1061300.0,1,Recurrente
+CLI-00076,59,M,Metropolitana,10,140400.0,Hogar,App móvil,96,23.0,9.0,0,37.7,1254300.0,1,Recurrente
+CLI-00077,21,F,Biobío,5,105500.0,Alimentos,Online,49,32.0,4.0,1,44.3,561500.0,0,Recurrente
+CLI-00078,71,F,Valparaíso,4,119800.0,Hogar,App móvil,16,49.0,2.0,0,37.7,438300.0,0,Nuevo
+CLI-00079,46,No especifica,Metropolitana,6,35700.0,Deportes,Tienda física,28,17.0,7.0,0,19.1,238200.0,1,Recurrente
+CLI-00080,35,M,Biobío,6,115700.0,Deportes,Tienda física,96,59.0,8.0,1,42.5,790800.0,1,Recurrente
+CLI-00081,43,F,Valparaíso,5,54400.0,Deportes,Online,106,19.0,6.0,1,40.1,382400.0,1,Recurrente
+CLI-00082,61,F,Metropolitana,9,121200.0,Electrónica,Online,49,,8.0,1,41.1,1097600.0,1,Recurrente
+CLI-00083,51,M,Coquimbo,8,58800.0,Deportes,Tienda física,60,34.0,,1,5.7,583600.0,1,Recurrente
+CLI-00084,27,M,Coquimbo,7,39300.0,Hogar,Online,2,14.0,7.0,1,14.6,331900.0,1,Recurrente
+CLI-00085,53,M,Valparaíso,9,27700.0,Ropa,App móvil,42,55.0,5.0,1,24.0,356500.0,1,Recurrente
+CLI-00086,31,F,Metropolitana,6,247100.0,Alimentos,Online,53,3.0,10.0,0,31.5,1313300.0,1,Recurrente
+CLI-00087,48,F,Biobío,5,93200.0,Deportes,App móvil,1,39.0,7.0,1,42.1,531600.0,1,Recurrente
+CLI-00088,65,F,Valparaíso,9,54300.0,Electrónica,Tienda física,84,25.0,,0,33.1,480600.0,0,Recurrente
+CLI-00089,32,M,Metropolitana,5,169200.0,Electrónica,Online,119,60.0,6.0,1,38.1,881600.0,0,Recurrente
+CLI-00090,25,M,Valparaíso,6,101000.0,Hogar,Tienda física,13,11.0,7.0,1,13.9,638500.0,1,Recurrente
+CLI-00091,31,M,Valparaíso,6,136900.0,Ropa,Online,85,49.0,8.0,0,30.2,747100.0,0,Recurrente
+CLI-00092,40,No especifica,Valparaíso,7,30100.0,Deportes,Online,50,15.0,7.0,0,17.5,180700.0,1,Recurrente
+CLI-00093,57,M,Metropolitana,4,133400.0,Deportes,Online,40,19.0,6.0,1,,564800.0,1,Recurrente
+CLI-00094,38,M,Valparaíso,2,63200.0,Electrónica,App móvil,84,43.0,8.0,0,21.7,159200.0,0,Nuevo
+CLI-00095,33,M,Coquimbo,6,22200.0,Hogar,Tienda física,16,15.0,,1,9.7,157500.0,1,Recurrente
+CLI-00096,62,F,Metropolitana,8,190700.0,Electrónica,Tienda física,71,15.0,5.0,1,42.2,1434200.0,0,Recurrente
+CLI-00097,35,No especifica,Biobío,5,83900.0,Electrónica,Online,17,38.0,8.0,1,36.1,551300.0,1,Recurrente
+CLI-00098,64,F,Araucanía,7,112200.0,Ropa,Tienda física,70,15.0,9.0,1,22.1,836800.0,0,Recurrente
+CLI-00099,70,F,Valparaíso,6,77200.0,Hogar,Online,27,9.0,5.0,1,30.7,505200.0,1,Recurrente
+CLI-00100,41,F,Metropolitana,7,73500.0,Ropa,Online,6,5.0,5.0,0,26.1,463400.0,1,Recurrente
+CLI-00101,43,M,Valparaíso,8,84600.0,Hogar,Online,22,19.0,8.0,1,31.8,721100.0,1,Recurrente
+CLI-00102,42,No especifica,Valparaíso,5,62400.0,Deportes,Tienda física,12,24.0,8.0,0,33.1,314400.0,1,Recurrente
+CLI-00103,62,F,Araucanía,2,40400.0,Alimentos,Tienda física,5,29.0,7.0,1,31.8,163200.0,1,Nuevo
+CLI-00104,58,F,Valparaíso,4,97200.0,Alimentos,Online,6,60.0,3.0,1,18.5,533100.0,1,Recurrente
+CLI-00105,46,F,Coquimbo,8,148600.0,Hogar,App móvil,69,5.0,3.0,0,18.2,1031900.0,0,Recurrente
+CLI-00106,32,F,Metropolitana,5,141600.0,Alimentos,Online,96,22.0,8.0,0,27.3,666800.0,0,Recurrente
+CLI-00107,62,F,Metropolitana,4,35600.0,Electrónica,Tienda física,118,13.0,7.0,1,14.7,242100.0,1,Nuevo
+CLI-00108,18,No especifica,Valparaíso,7,144300.0,Deportes,Online,87,50.0,9.0,0,8.4,981400.0,0,Recurrente
+CLI-00109,42,No especifica,Metropolitana,4,50600.0,Deportes,Online,80,52.0,7.0,0,31.4,265900.0,0,Nuevo
+CLI-00110,24,F,Metropolitana,11,44000.0,Alimentos,App móvil,4,49.0,8.0,1,,575500.0,1,Recurrente
+CLI-00111,26,F,Metropolitana,8,20200.0,Hogar,App móvil,71,47.0,10.0,0,44.4,233700.0,0,Recurrente
+CLI-00112,41,M,Metropolitana,9,69200.0,Electrónica,Tienda física,69,46.0,4.0,1,,686500.0,0,Recurrente
+CLI-00113,18,F,Metropolitana,5,69400.0,Hogar,App móvil,7,29.0,7.0,0,44.6,330200.0,1,Recurrente
+CLI-00114,61,M,Coquimbo,2,84600.0,Alimentos,App móvil,49,16.0,3.0,1,18.2,300400.0,0,Nuevo
+CLI-00115,25,F,Metropolitana,7,43400.0,Deportes,Tienda física,28,36.0,6.0,0,45.9,313200.0,0,Recurrente
+CLI-00116,41,No especifica,Biobío,9,67900.0,Deportes,App móvil,104,17.0,4.0,1,11.8,616000.0,1,Recurrente
+CLI-00117,28,F,Biobío,7,51200.0,Hogar,Online,54,20.0,5.0,1,,422300.0,1,Recurrente
+CLI-00118,68,F,Coquimbo,12,84500.0,Ropa,Tienda física,136,14.0,10.0,1,19.8,1036000.0,1,Recurrente
+CLI-00119,34,M,Metropolitana,6,127900.0,Hogar,Tienda física,5,50.0,8.0,1,12.7,824200.0,1,Recurrente
+CLI-00120,25,M,Araucanía,5,130500.0,Ropa,Online,2,6.0,9.0,0,15.5,641800.0,1,Recurrente
+CLI-00121,52,F,Valparaíso,10,139400.0,Hogar,App móvil,164,22.0,7.0,1,17.2,1316400.0,1,Recurrente
+CLI-00122,52,M,Valparaíso,5,32100.0,Ropa,Online,4,40.0,8.0,1,10.6,261800.0,1,Recurrente
+CLI-00123,50,M,Valparaíso,3,58600.0,Ropa,App móvil,22,9.0,2.0,1,17.3,225200.0,1,Nuevo
+CLI-00124,22,M,Araucanía,6,49400.0,Ropa,Online,48,32.0,7.0,1,7.5,384800.0,1,Recurrente
+CLI-00125,59,F,Metropolitana,9,23600.0,Ropa,Online,96,24.0,7.0,1,22.3,343800.0,1,Recurrente
+CLI-00126,56,F,Biobío,7,75100.0,Electrónica,Online,14,33.0,1.0,1,,557700.0,1,Recurrente
+CLI-00127,58,M,Valparaíso,8,93400.0,Ropa,App móvil,2,13.0,9.0,1,10.5,740300.0,1,Recurrente
+CLI-00128,45,F,Biobío,10,136900.0,Ropa,Online,34,35.0,6.0,1,8.3,1272200.0,1,Recurrente
+CLI-00129,24,F,Coquimbo,7,69500.0,Deportes,Tienda física,29,6.0,7.0,0,52.3,400800.0,1,Recurrente
+CLI-00130,26,F,Metropolitana,7,109800.0,Electrónica,Tienda física,17,49.0,7.0,0,47.1,826700.0,1,Recurrente
+CLI-00131,25,F,Coquimbo,7,23500.0,Ropa,Online,94,40.0,10.0,0,11.8,215300.0,1,Recurrente
+CLI-00132,29,M,Metropolitana,10,20200.0,Alimentos,App móvil,63,30.0,3.0,1,54.5,316000.0,1,Recurrente
+CLI-00133,51,F,Metropolitana,5,49600.0,Electrónica,Online,88,38.0,7.0,0,47.6,255200.0,0,Recurrente
+CLI-00134,50,F,Metropolitana,7,77100.0,Deportes,Tienda física,8,16.0,,0,49.2,549800.0,1,Recurrente
+CLI-00135,65,F,Metropolitana,4,57200.0,Hogar,Tienda física,54,1.0,3.0,0,53.1,185000.0,1,Nuevo
+CLI-00136,40,F,Valparaíso,15,110900.0,Deportes,Online,167,42.0,8.0,1,25.8,1640500.0,0,VIP
+CLI-00137,41,M,Metropolitana,4,177900.0,Deportes,Online,43,18.0,6.0,1,49.0,795600.0,1,Recurrente
+CLI-00138,54,M,Metropolitana,6,97700.0,Electrónica,Tienda física,9,22.0,4.0,1,13.7,591200.0,1,Recurrente
+CLI-00139,52,F,Coquimbo,6,56800.0,Electrónica,App móvil,247,26.0,5.0,0,39.1,383100.0,0,Recurrente
+CLI-00140,61,F,Araucanía,8,45300.0,Alimentos,Online,34,14.0,9.0,1,26.4,506200.0,1,Recurrente
+CLI-00141,57,F,Araucanía,9,29100.0,Alimentos,Online,83,56.0,4.0,0,19.2,261700.0,1,Recurrente
+CLI-00142,39,F,Araucanía,5,69100.0,Electrónica,App móvil,8,37.0,,1,33.0,408500.0,1,Recurrente
+CLI-00143,44,F,Biobío,9,177600.0,Electrónica,Online,50,49.0,5.0,0,69.7,1379700.0,1,Recurrente
+CLI-00144,52,F,Metropolitana,11,80500.0,Electrónica,Tienda física,110,14.0,,1,40.0,841300.0,1,Recurrente
+CLI-00145,18,M,Metropolitana,14,67900.0,Hogar,Tienda física,35,26.0,5.0,0,12.4,834000.0,0,Recurrente
+CLI-00146,52,F,Biobío,11,84300.0,Deportes,Online,16,50.0,7.0,1,13.2,953200.0,1,Recurrente
+CLI-00147,54,M,Metropolitana,6,95300.0,Alimentos,Tienda física,7,36.0,5.0,0,9.6,515900.0,1,Recurrente
+CLI-00148,64,F,Biobío,6,13600.0,Alimentos,App móvil,16,52.0,,0,48.7,167500.0,0,Recurrente
+CLI-00149,31,No especifica,Metropolitana,7,238700.0,Ropa,Tienda física,20,23.0,9.0,1,36.7,1573800.0,1,Recurrente
+CLI-00150,20,M,Metropolitana,7,12300.0,Hogar,Tienda física,56,2.0,7.0,0,18.0,123300.0,1,Recurrente
+CLI-00151,18,M,Valparaíso,6,61300.0,Electrónica,Tienda física,9,39.0,4.0,1,29.0,490300.0,1,Recurrente
+CLI-00152,22,M,Valparaíso,5,84900.0,Electrónica,Tienda física,6,7.0,7.0,1,10.6,492100.0,1,Recurrente
+CLI-00153,43,No especifica,Valparaíso,6,62200.0,Hogar,Online,23,39.0,3.0,1,28.6,452300.0,1,Recurrente
+CLI-00154,31,M,Biobío,6,74900.0,Alimentos,Tienda física,28,45.0,8.0,1,9.6,531300.0,1,Recurrente
+CLI-00155,56,M,Metropolitana,8,49100.0,Electrónica,Online,45,51.0,6.0,1,30.3,532000.0,1,Recurrente
+CLI-00156,44,M,Metropolitana,9,53100.0,Ropa,Online,56,22.0,4.0,1,71.8,540700.0,1,Recurrente
+CLI-00157,26,M,Araucanía,4,67500.0,Alimentos,App móvil,100,28.0,5.0,1,15.6,374700.0,1,Nuevo
+CLI-00158,32,M,Biobío,8,106000.0,Deportes,Tienda física,16,38.0,6.0,0,9.2,778200.0,1,Recurrente
+CLI-00159,32,F,Metropolitana,5,75800.0,Hogar,App móvil,34,20.0,9.0,0,36.1,400200.0,1,Recurrente
+CLI-00160,43,F,Araucanía,11,125800.0,Alimentos,Online,21,49.0,5.0,0,47.6,1236600.0,0,Recurrente
+CLI-00161,59,M,Metropolitana,3,102300.0,Deportes,App móvil,1,57.0,4.0,1,50.3,438600.0,0,Nuevo
+CLI-00162,30,M,Valparaíso,8,126900.0,Ropa,Tienda física,39,18.0,7.0,1,,991600.0,1,Recurrente
+CLI-00163,68,M,Metropolitana,9,58700.0,Hogar,App móvil,77,57.0,7.0,1,49.1,653900.0,1,Recurrente
+CLI-00164,49,M,Biobío,7,40600.0,Electrónica,App móvil,2,,3.0,1,7.7,325500.0,1,Recurrente
+CLI-00165,56,F,Biobío,8,38900.0,Electrónica,App móvil,1,33.0,6.0,1,56.3,415500.0,1,Recurrente
+CLI-00166,66,F,Metropolitana,5,83500.0,Deportes,App móvil,59,59.0,5.0,0,38.0,471800.0,1,Recurrente
+CLI-00167,69,M,Araucanía,9,32900.0,Alimentos,Online,52,55.0,5.0,1,10.0,424900.0,1,Recurrente
+CLI-00168,49,F,Metropolitana,7,143300.0,Ropa,Tienda física,24,45.0,6.0,1,17.8,974000.0,1,Recurrente
+CLI-00169,21,M,Metropolitana,7,34200.0,Deportes,Online,49,26.0,2.0,1,27.6,302400.0,1,Recurrente
+CLI-00170,47,F,Metropolitana,5,137000.0,Ropa,Tienda física,138,19.0,8.0,0,30.4,683100.0,1,Recurrente
+CLI-00171,54,F,Metropolitana,6,56300.0,Ropa,App móvil,13,48.0,10.0,1,14.1,472600.0,1,Recurrente
+CLI-00172,40,F,Metropolitana,9,79000.0,Ropa,Online,13,42.0,8.0,0,15.6,670200.0,1,Recurrente
+CLI-00173,56,M,Valparaíso,9,46400.0,Hogar,Tienda física,10,13.0,6.0,0,38.5,438200.0,1,Recurrente
+CLI-00174,62,No especifica,Araucanía,3,67600.0,Deportes,Tienda física,58,10.0,8.0,1,16.9,350900.0,1,Nuevo
+CLI-00175,32,M,Valparaíso,6,81600.0,Hogar,Online,20,14.0,,0,5.6,432600.0,1,Recurrente
+CLI-00176,60,M,Metropolitana,9,69700.0,Alimentos,Online,202,9.0,9.0,1,,653900.0,0,Recurrente
+CLI-00177,46,M,Metropolitana,10,27400.0,Alimentos,Online,57,53.0,8.0,0,34.7,326200.0,1,Recurrente
+CLI-00178,53,M,Metropolitana,7,105900.0,Electrónica,Online,21,11.0,8.0,1,12.3,779300.0,1,Recurrente
+CLI-00179,30,No especifica,Metropolitana,10,75300.0,Electrónica,Tienda física,8,3.0,5.0,1,15.9,743200.0,1,Recurrente
+CLI-00180,49,F,Biobío,6,39300.0,Electrónica,Tienda física,41,40.0,7.0,1,24.0,367100.0,1,Recurrente
+CLI-00181,24,M,Metropolitana,4,74900.0,Alimentos,Online,16,12.0,6.0,1,52.9,374700.0,1,Nuevo
+CLI-00182,68,F,Biobío,4,93800.0,Ropa,App móvil,107,35.0,1.0,1,48.0,511900.0,1,Recurrente
+CLI-00183,39,No especifica,Araucanía,9,76300.0,Ropa,Tienda física,27,39.0,6.0,1,6.9,757700.0,1,Recurrente
+CLI-00184,45,F,Valparaíso,4,148100.0,Deportes,Tienda física,16,46.0,7.0,0,56.3,584900.0,1,Recurrente
+CLI-00185,19,F,Araucanía,5,20700.0,Alimentos,Online,40,39.0,8.0,0,45.3,166400.0,1,Recurrente
+CLI-00186,59,No especifica,Valparaíso,8,44100.0,Electrónica,Tienda física,7,32.0,10.0,1,20.2,482500.0,1,Recurrente
+CLI-00187,62,No especifica,Valparaíso,5,99500.0,Alimentos,Online,38,39.0,5.0,1,16.9,546000.0,1,Recurrente
+CLI-00188,70,F,Valparaíso,10,55600.0,Ropa,Tienda física,3,14.0,4.0,1,27.6,597500.0,1,Recurrente
+CLI-00189,23,M,Valparaíso,5,25100.0,Ropa,Tienda física,43,44.0,9.0,0,37.7,209300.0,1,Recurrente
+CLI-00190,45,M,Metropolitana,4,165800.0,Hogar,Online,34,1.0,10.0,0,8.4,589000.0,1,Recurrente
+CLI-00191,45,F,Metropolitana,7,42900.0,Hogar,App móvil,34,27.0,7.0,0,27.2,253200.0,1,Recurrente
+CLI-00192,61,M,Metropolitana,6,53600.0,Deportes,Tienda física,52,37.0,4.0,1,,365700.0,1,Recurrente
+CLI-00193,61,F,Valparaíso,6,71100.0,Alimentos,Online,3,60.0,7.0,0,21.6,462700.0,0,Recurrente
+CLI-00194,37,M,Metropolitana,6,161400.0,Hogar,App móvil,28,43.0,4.0,0,30.8,922000.0,1,Recurrente
+CLI-00195,47,M,Coquimbo,10,74900.0,Hogar,Tienda física,27,1.0,9.0,0,10.6,669400.0,1,Recurrente
+CLI-00196,28,M,Biobío,7,52600.0,Alimentos,Tienda física,28,55.0,8.0,1,24.5,525000.0,1,Recurrente
+CLI-00197,45,M,Metropolitana,9,281000.0,Ropa,Tienda física,176,,5.0,1,31.3,2297600.0,1,VIP
+CLI-00198,42,No especifica,Metropolitana,6,90800.0,Deportes,Online,7,29.0,9.0,1,53.6,591300.0,1,Recurrente
+CLI-00199,56,F,Araucanía,9,80400.0,Deportes,App móvil,53,24.0,8.0,0,19.4,645500.0,1,Recurrente
+CLI-00200,50,F,Araucanía,12,26900.0,Deportes,Tienda física,24,55.0,10.0,0,13.2,362600.0,1,Recurrente
+CLI-00201,18,F,Biobío,3,93500.0,Hogar,Online,33,17.0,10.0,1,44.0,393000.0,1,Nuevo
+CLI-00202,44,M,Metropolitana,4,121700.0,Ropa,App móvil,65,35.0,1.0,1,,539400.0,1,Recurrente
+CLI-00203,69,F,Metropolitana,9,29200.0,Deportes,Tienda física,8,31.0,4.0,1,35.6,353100.0,1,Recurrente
+CLI-00204,30,F,Metropolitana,4,155600.0,Alimentos,Tienda física,65,42.0,7.0,1,27.7,688200.0,1,Recurrente
+CLI-00205,58,F,Metropolitana,4,246800.0,Deportes,App móvil,4,32.0,10.0,1,38.1,1040700.0,1,Recurrente
+CLI-00206,20,M,Biobío,5,166500.0,Electrónica,Online,30,19.0,10.0,0,43.8,836800.0,1,Recurrente
+CLI-00207,56,F,Biobío,8,46400.0,Ropa,Online,61,31.0,7.0,0,32.1,365600.0,1,Recurrente
+CLI-00208,23,F,Valparaíso,2,159100.0,Electrónica,Online,10,39.0,5.0,1,,416600.0,0,Nuevo
+CLI-00209,25,No especifica,Araucanía,7,109100.0,Ropa,App móvil,67,20.0,4.0,1,40.0,736500.0,0,Recurrente
+CLI-00210,44,F,Valparaíso,11,63500.0,Alimentos,Online,9,28.0,8.0,1,49.3,746900.0,1,Recurrente
+CLI-00211,26,F,Valparaíso,7,140500.0,Hogar,Online,73,3.0,8.0,1,52.1,950100.0,1,Recurrente
+CLI-00212,54,F,Metropolitana,10,96600.0,Hogar,Online,29,32.0,7.0,0,13.5,900900.0,1,Recurrente
+CLI-00213,50,F,Coquimbo,6,76200.0,Ropa,Online,52,,7.0,1,11.2,556400.0,1,Recurrente
+CLI-00214,68,M,Metropolitana,11,55900.0,Deportes,Tienda física,113,44.0,8.0,1,26.1,659200.0,1,Recurrente
+CLI-00215,59,F,Coquimbo,9,48100.0,Electrónica,App móvil,24,58.0,9.0,1,,556200.0,1,Recurrente
+CLI-00216,61,F,Araucanía,3,84200.0,Alimentos,Online,12,54.0,6.0,1,21.1,381200.0,1,Nuevo
+CLI-00217,41,F,Metropolitana,4,61000.0,Deportes,Tienda física,91,42.0,5.0,1,41.5,367600.0,1,Nuevo
+CLI-00218,32,M,Valparaíso,4,96500.0,Hogar,Tienda física,8,53.0,8.0,0,10.2,473700.0,0,Nuevo
+CLI-00219,71,M,Araucanía,5,141000.0,Deportes,Tienda física,45,44.0,10.0,1,43.3,762500.0,1,Recurrente
+CLI-00220,49,F,Valparaíso,4,71400.0,Electrónica,App móvil,116,15.0,6.0,0,45.8,309000.0,1,Nuevo
+CLI-00221,49,M,Coquimbo,7,53200.0,Hogar,Tienda física,51,38.0,6.0,1,39.1,522300.0,1,Recurrente
+CLI-00222,41,F,Coquimbo,5,97400.0,Ropa,Online,10,19.0,5.0,0,56.4,436400.0,1,Recurrente
+CLI-00223,58,M,Metropolitana,9,59100.0,Alimentos,App móvil,8,31.0,5.0,0,25.6,518700.0,1,Recurrente
+CLI-00224,69,M,Metropolitana,7,101000.0,Alimentos,Tienda física,14,26.0,4.0,0,24.9,656300.0,0,Recurrente
+CLI-00225,66,No especifica,Coquimbo,7,33700.0,Hogar,Online,23,5.0,8.0,0,9.4,207600.0,1,Recurrente
+CLI-00226,66,F,Biobío,4,114600.0,Ropa,Online,8,57.0,6.0,0,12.4,505400.0,1,Recurrente
+CLI-00227,69,M,Metropolitana,6,108400.0,Electrónica,App móvil,72,20.0,8.0,1,13.5,730500.0,1,Recurrente
+CLI-00228,29,M,Metropolitana,8,72600.0,Alimentos,Tienda física,20,59.0,3.0,0,41.4,559400.0,1,Recurrente
+CLI-00229,56,M,Valparaíso,4,85900.0,Hogar,Tienda física,124,2.0,4.0,1,15.0,385800.0,1,Nuevo
+CLI-00230,19,F,Coquimbo,10,108000.0,Alimentos,App móvil,84,21.0,7.0,0,41.3,925800.0,0,Recurrente
+CLI-00231,20,M,Araucanía,4,161400.0,Ropa,Tienda física,108,51.0,7.0,1,34.6,756500.0,1,Recurrente
+CLI-00232,66,F,Biobío,7,40600.0,Electrónica,Online,16,,6.0,0,41.5,369500.0,1,Recurrente
+CLI-00233,54,No especifica,Metropolitana,3,91700.0,Ropa,Tienda física,39,51.0,9.0,0,11.3,311400.0,1,Nuevo
+CLI-00234,66,M,Metropolitana,9,30100.0,Deportes,Tienda física,18,36.0,5.0,0,9.2,273200.0,1,Recurrente
+CLI-00235,34,F,Araucanía,3,39400.0,Ropa,Tienda física,14,28.0,6.0,1,16.1,232100.0,1,Nuevo
+CLI-00236,66,No especifica,Metropolitana,8,143800.0,Ropa,Online,43,20.0,7.0,0,56.6,1075600.0,1,Recurrente
+CLI-00237,19,M,Metropolitana,9,34300.0,Alimentos,Online,77,37.0,9.0,1,29.1,429600.0,1,Recurrente
+CLI-00238,19,F,Metropolitana,6,98700.0,Ropa,Tienda física,5,,7.0,1,,669700.0,1,Recurrente
+CLI-00239,45,F,Biobío,2,53400.0,Hogar,App móvil,15,36.0,6.0,1,22.3,248500.0,1,Nuevo
+CLI-00240,71,No especifica,Coquimbo,8,31300.0,Alimentos,Tienda física,11,11.0,7.0,1,71.0,382200.0,1,Recurrente
+CLI-00241,40,F,Metropolitana,6,39200.0,Alimentos,App móvil,73,55.0,6.0,1,24.5,364700.0,0,Recurrente
+CLI-00242,54,F,Valparaíso,6,45000.0,Deportes,Tienda física,122,57.0,,1,,413800.0,1,Recurrente
+CLI-00243,49,F,Valparaíso,6,126900.0,Hogar,App móvil,4,3.0,5.0,0,14.9,711000.0,1,Recurrente
+CLI-00244,50,F,Coquimbo,7,45200.0,Ropa,Online,22,37.0,9.0,1,15.4,473200.0,1,Recurrente
+CLI-00245,18,F,Metropolitana,8,53700.0,Deportes,Online,111,20.0,6.0,0,39.5,387800.0,0,Recurrente
+CLI-00246,36,F,Valparaíso,8,59600.0,Hogar,Tienda física,20,32.0,10.0,1,24.9,515300.0,1,Recurrente
+CLI-00247,19,F,Metropolitana,8,59100.0,Deportes,Online,57,,6.0,1,9.6,568100.0,1,Recurrente
+CLI-00248,70,M,Araucanía,10,135400.0,Electrónica,Tienda física,5,25.0,9.0,1,42.0,1325300.0,1,Recurrente
+CLI-00249,61,M,Valparaíso,7,23500.0,Ropa,App móvil,27,21.0,6.0,1,17.7,284500.0,1,Recurrente
+CLI-00250,43,M,Metropolitana,4,124600.0,Deportes,Tienda física,32,58.0,,0,39.2,499900.0,0,Nuevo
+CLI-00251,49,M,Valparaíso,10,71300.0,Electrónica,App móvil,64,50.0,5.0,1,5.0,827000.0,1,Recurrente
+CLI-00252,23,M,Biobío,9,104800.0,Ropa,Tienda física,16,16.0,9.0,1,77.3,913900.0,1,Recurrente
+CLI-00253,49,No especifica,Metropolitana,10,41800.0,Deportes,Tienda física,14,48.0,6.0,1,43.9,482000.0,1,Recurrente
+CLI-00254,21,M,Araucanía,4,48300.0,Deportes,Tienda física,17,42.0,6.0,0,11.2,279300.0,1,Nuevo
+CLI-00255,28,F,Metropolitana,10,70300.0,Deportes,Online,37,1.0,5.0,1,44.3,691100.0,1,Recurrente
+CLI-00256,34,M,Valparaíso,8,44100.0,Deportes,Online,94,23.0,10.0,1,22.9,508400.0,0,Recurrente
+CLI-00257,55,F,Metropolitana,12,38400.0,Alimentos,Tienda física,80,43.0,5.0,1,56.7,540800.0,0,Recurrente
+CLI-00258,41,No especifica,Biobío,6,24700.0,Deportes,App móvil,3,49.0,5.0,1,28.1,278100.0,1,Recurrente
+CLI-00259,22,F,Metropolitana,13,47800.0,Alimentos,Tienda física,96,24.0,10.0,1,11.4,701900.0,1,Recurrente
+CLI-00260,69,F,Araucanía,7,65200.0,Alimentos,Online,517,47.0,9.0,1,15.3,595000.0,1,Recurrente
+CLI-00261,51,M,Biobío,6,63900.0,Electrónica,Online,25,25.0,5.0,1,18.4,525700.0,1,Recurrente
+CLI-00262,23,F,Valparaíso,6,74300.0,Ropa,App móvil,66,7.0,9.0,1,33.6,538200.0,0,Recurrente
+CLI-00263,39,M,Biobío,5,89100.0,Alimentos,Tienda física,4,57.0,5.0,1,57.7,584200.0,1,Recurrente
+CLI-00264,28,No especifica,Biobío,5,23100.0,Hogar,App móvil,685,58.0,3.0,1,27.5,245400.0,1,Recurrente
+CLI-00265,65,M,Metropolitana,5,90900.0,Alimentos,Tienda física,19,38.0,9.0,0,21.9,505700.0,1,Recurrente
+CLI-00266,33,F,Metropolitana,10,63300.0,Hogar,Tienda física,59,47.0,8.0,1,60.5,733200.0,1,Recurrente
+CLI-00267,50,F,Coquimbo,1,108900.0,Electrónica,Tienda física,34,47.0,6.0,1,25.6,241500.0,1,Nuevo
+CLI-00268,26,M,Metropolitana,8,34500.0,Hogar,Online,25,,3.0,1,26.8,335100.0,1,Recurrente
+CLI-00269,23,M,Biobío,7,114600.0,Electrónica,Tienda física,76,35.0,,0,4.9,721800.0,0,Recurrente
+CLI-00270,33,M,Coquimbo,7,169900.0,Electrónica,Tienda física,66,14.0,8.0,1,36.5,1132200.0,1,Recurrente
+CLI-00271,46,M,Metropolitana,8,91500.0,Electrónica,Tienda física,70,9.0,10.0,1,46.7,757200.0,0,Recurrente
+CLI-00272,20,F,Biobío,4,26300.0,Hogar,App móvil,28,3.0,,1,25.6,220400.0,1,Nuevo
+CLI-00273,37,M,Valparaíso,4,45500.0,Hogar,Online,1,38.0,9.0,0,32.1,273700.0,1,Nuevo
+CLI-00274,53,M,Valparaíso,5,43700.0,Electrónica,Tienda física,9,20.0,5.0,0,44.4,287200.0,1,Recurrente
+CLI-00275,36,M,Metropolitana,4,63200.0,Electrónica,Online,61,41.0,8.0,1,20.2,396900.0,1,Nuevo
+CLI-00276,43,F,Metropolitana,6,108800.0,Ropa,Online,63,33.0,3.0,1,36.3,645900.0,1,Recurrente
+CLI-00277,20,M,Biobío,7,37200.0,Electrónica,Tienda física,162,41.0,8.0,1,20.6,363500.0,0,Recurrente
+CLI-00278,36,M,Araucanía,8,144900.0,Deportes,Online,10,44.0,5.0,1,21.7,1136200.0,0,Recurrente
+CLI-00279,37,M,Biobío,3,98800.0,Ropa,Tienda física,6,32.0,10.0,1,59.4,452500.0,1,Nuevo
+CLI-00280,49,M,Valparaíso,7,86800.0,Ropa,Online,7,36.0,6.0,1,34.8,688300.0,1,Recurrente
+CLI-00281,24,F,Metropolitana,7,34600.0,Ropa,Online,10,26.0,6.0,0,20.9,244300.0,1,Recurrente
+CLI-00282,69,M,Biobío,4,178900.0,Deportes,Online,34,48.0,9.0,0,26.6,677500.0,1,Recurrente
+CLI-00283,58,M,Metropolitana,6,180100.0,Ropa,Online,167,5.0,7.0,1,40.2,1020500.0,1,Recurrente
+CLI-00284,50,F,Coquimbo,8,46700.0,Ropa,App móvil,41,59.0,5.0,1,32.9,456200.0,0,Recurrente
+CLI-00285,57,F,Araucanía,5,42900.0,Hogar,Tienda física,34,49.0,7.0,1,35.9,352500.0,1,Recurrente
+CLI-00286,56,M,Biobío,6,57200.0,Hogar,App móvil,51,30.0,9.0,1,47.5,466100.0,1,Recurrente
+CLI-00287,35,F,Coquimbo,3,81300.0,Electrónica,Online,4,17.0,7.0,1,25.7,351600.0,1,Nuevo
+CLI-00288,57,No especifica,Metropolitana,6,25400.0,Electrónica,Tienda física,77,6.0,,1,23.1,222500.0,0,Recurrente
+CLI-00289,18,M,Biobío,8,36000.0,Alimentos,Tienda física,47,58.0,,1,44.4,425200.0,1,Recurrente
+CLI-00290,28,F,Metropolitana,6,86800.0,Deportes,Online,9,15.0,10.0,0,13.0,471500.0,1,Recurrente
+CLI-00291,45,F,Coquimbo,7,1971554.0,Hogar,Tienda física,45,,3.0,1,,771200.0,1,Recurrente
+CLI-00292,42,F,Metropolitana,9,92400.0,Electrónica,Tienda física,41,13.0,7.0,1,26.7,846800.0,1,Recurrente
+CLI-00293,67,M,Biobío,5,111000.0,Deportes,Tienda física,4,48.0,8.0,1,55.6,716800.0,1,Recurrente
+CLI-00294,40,M,Araucanía,8,116400.0,Ropa,Tienda física,14,34.0,3.0,1,17.1,967700.0,1,Recurrente
+CLI-00295,48,F,Metropolitana,7,120500.0,Deportes,Tienda física,23,30.0,6.0,1,46.2,823700.0,1,Recurrente
+CLI-00296,47,No especifica,Metropolitana,5,88700.0,Hogar,Online,13,19.0,10.0,1,42.7,555100.0,1,Recurrente
+CLI-00297,59,F,Biobío,4,52300.0,Alimentos,Tienda física,13,55.0,2.0,1,,339100.0,1,Nuevo
+CLI-00298,52,M,Valparaíso,9,19000.0,Hogar,App móvil,39,2.0,,0,30.6,193800.0,1,Recurrente
+CLI-00299,24,F,Metropolitana,6,134200.0,Electrónica,Online,29,53.0,9.0,1,39.3,949600.0,1,Recurrente
+CLI-00300,33,F,Metropolitana,11,78500.0,Electrónica,Tienda física,50,57.0,6.0,0,38.1,817800.0,1,Recurrente
+CLI-00301,43,M,Metropolitana,7,78000.0,Deportes,Tienda física,141,44.0,5.0,1,,637700.0,1,Recurrente
+CLI-00302,65,M,Araucanía,5,1601451.0,Hogar,Tienda física,49,12.0,10.0,1,31.3,675300.0,1,Recurrente
+CLI-00303,69,F,Valparaíso,9,29600.0,Electrónica,Tienda física,40,58.0,8.0,1,10.8,395200.0,1,Recurrente
+CLI-00304,66,M,Metropolitana,4,81300.0,Ropa,Online,85,40.0,,0,18.0,281600.0,0,Nuevo
+CLI-00305,19,F,Metropolitana,8,51000.0,Ropa,Tienda física,45,44.0,5.0,1,52.4,464700.0,1,Recurrente
+CLI-00306,18,M,Metropolitana,6,75100.0,Alimentos,Tienda física,9,24.0,8.0,0,34.0,459500.0,1,Recurrente
+CLI-00307,65,M,Metropolitana,8,162100.0,Deportes,Tienda física,18,11.0,7.0,0,28.8,1177400.0,1,Recurrente
+CLI-00308,29,M,Metropolitana,6,57000.0,Electrónica,Tienda física,60,,,1,23.9,424300.0,1,Recurrente
+CLI-00309,22,F,Metropolitana,4,83800.0,Alimentos,Tienda física,61,1.0,10.0,1,41.4,432000.0,1,Nuevo
+CLI-00310,54,No especifica,Metropolitana,6,76100.0,Ropa,App móvil,196,57.0,7.0,1,39.4,581500.0,1,Recurrente
+CLI-00311,49,M,Biobío,7,111800.0,Alimentos,Tienda física,45,58.0,9.0,1,72.5,835000.0,1,Recurrente
+CLI-00312,26,F,Metropolitana,9,95800.0,Alimentos,Tienda física,104,28.0,8.0,1,35.2,885600.0,0,Recurrente
+CLI-00313,58,F,Valparaíso,2,40000.0,Electrónica,Online,3,4.0,4.0,0,16.5,111600.0,0,Nuevo
+CLI-00314,52,F,Valparaíso,10,150100.0,Electrónica,Online,38,41.0,8.0,1,17.2,1459200.0,1,Recurrente
+CLI-00315,36,M,Valparaíso,7,75900.0,Electrónica,App móvil,114,59.0,7.0,1,14.3,686600.0,1,Recurrente
+CLI-00316,65,F,Biobío,5,40000.0,Deportes,Tienda física,16,30.0,5.0,1,38.5,293500.0,1,Recurrente
+CLI-00317,33,F,Valparaíso,10,32900.0,Alimentos,Tienda física,8,60.0,6.0,1,47.2,444700.0,1,Recurrente
+CLI-00318,20,M,Araucanía,2,102900.0,Alimentos,Tienda física,20,59.0,7.0,1,7.7,339700.0,1,Nuevo
+CLI-00319,37,M,Biobío,6,131700.0,Deportes,Online,71,7.0,8.0,1,40.5,718100.0,1,Recurrente
+CLI-00320,41,F,Valparaíso,6,116200.0,Ropa,App móvil,4,60.0,10.0,1,21.8,813000.0,1,Recurrente
+CLI-00321,71,No especifica,Araucanía,7,64200.0,Hogar,Tienda física,42,22.0,9.0,1,39.4,533500.0,1,Recurrente
+CLI-00322,50,M,Valparaíso,7,66700.0,Ropa,Tienda física,7,26.0,5.0,0,24.9,445800.0,1,Recurrente
+CLI-00323,41,F,Metropolitana,8,98500.0,Deportes,Online,26,29.0,8.0,1,11.8,800100.0,1,Recurrente
+CLI-00324,69,No especifica,Metropolitana,10,39600.0,Alimentos,Tienda física,153,25.0,1.0,0,48.4,388100.0,0,Recurrente
+CLI-00325,28,F,Metropolitana,8,131900.0,Alimentos,Online,10,10.0,4.0,1,,1009400.0,1,Recurrente
+CLI-00326,66,No especifica,Araucanía,6,105400.0,Electrónica,Tienda física,2,20.0,,0,47.5,632900.0,1,Recurrente
+CLI-00327,25,F,Biobío,6,48500.0,Electrónica,Tienda física,26,14.0,8.0,1,8.0,384900.0,1,Recurrente
+CLI-00328,53,M,Coquimbo,6,74000.0,Alimentos,Online,523,33.0,5.0,1,38.5,534600.0,0,Recurrente
+CLI-00329,55,M,Valparaíso,11,69600.0,Alimentos,Tienda física,16,5.0,6.0,0,28.3,733900.0,0,Recurrente
+CLI-00330,57,M,Valparaíso,5,53600.0,Electrónica,Tienda física,36,45.0,5.0,1,29.1,376900.0,1,Recurrente
+CLI-00331,37,F,Metropolitana,5,126700.0,Electrónica,App móvil,138,6.0,6.0,0,32.3,562700.0,0,Recurrente
+CLI-00332,52,F,Biobío,5,21100.0,Ropa,Tienda física,17,22.0,,1,15.0,288900.0,1,Recurrente
+CLI-00333,65,M,Valparaíso,7,110900.0,Alimentos,Online,17,60.0,10.0,1,36.5,815100.0,1,Recurrente
+CLI-00334,42,F,Coquimbo,8,124800.0,Alimentos,Online,30,17.0,8.0,0,27.2,901300.0,1,Recurrente
+CLI-00335,52,F,Metropolitana,8,74100.0,Deportes,App móvil,33,15.0,7.0,1,26.6,628400.0,1,Recurrente
+CLI-00336,42,F,Valparaíso,6,14300.0,Ropa,Tienda física,1,39.0,8.0,1,14.1,214400.0,1,Recurrente
+CLI-00337,46,F,Biobío,8,33600.0,Hogar,Tienda física,44,40.0,8.0,1,5.5,412300.0,1,Recurrente
+CLI-00338,35,F,Valparaíso,7,48500.0,Hogar,Online,268,28.0,8.0,1,12.9,425100.0,1,Recurrente
+CLI-00339,63,M,Valparaíso,6,79500.0,Hogar,Online,16,53.0,,1,32.4,567200.0,1,Recurrente
+CLI-00340,35,M,Biobío,6,120300.0,Electrónica,App móvil,45,2.0,6.0,0,2.8,617900.0,1,Recurrente
+CLI-00341,19,M,Metropolitana,5,37400.0,Hogar,Tienda física,1,18.0,6.0,1,34.5,299100.0,1,Recurrente
+CLI-00342,71,M,Biobío,6,78100.0,Deportes,Online,42,27.0,6.0,1,43.6,603100.0,1,Recurrente
+CLI-00343,52,F,Valparaíso,3,24800.0,Electrónica,Tienda física,27,21.0,6.0,1,27.0,196900.0,1,Nuevo
+CLI-00344,33,F,Araucanía,3,138800.0,Electrónica,Online,35,23.0,9.0,0,6.3,426200.0,1,Nuevo
+CLI-00345,58,M,Araucanía,3,35400.0,Hogar,App móvil,36,7.0,8.0,1,23.4,183100.0,1,Nuevo
+CLI-00346,53,F,Metropolitana,7,70200.0,Electrónica,Tienda física,9,52.0,1.0,1,52.3,590400.0,1,Recurrente
+CLI-00347,50,M,Metropolitana,12,77300.0,Ropa,Tienda física,67,59.0,6.0,1,33.6,966700.0,1,Recurrente
+CLI-00348,21,No especifica,Coquimbo,6,77500.0,Ropa,Tienda física,37,48.0,8.0,1,14.1,584600.0,1,Recurrente
+CLI-00349,50,No especifica,Valparaíso,6,35100.0,Hogar,App móvil,15,19.0,4.0,1,8.3,330300.0,1,Recurrente
+CLI-00350,31,M,Coquimbo,5,58800.0,Deportes,App móvil,125,9.0,3.0,1,25.4,350300.0,1,Recurrente
+CLI-00351,38,F,Metropolitana,2,36600.0,Electrónica,Online,1,12.0,9.0,1,7.5,232200.0,1,Nuevo
+CLI-00352,65,M,Valparaíso,7,951719.0,Alimentos,App móvil,59,46.0,7.0,1,19.5,647800.0,1,Recurrente
+CLI-00353,37,F,Araucanía,7,45600.0,Hogar,App móvil,22,30.0,9.0,1,28.9,442500.0,1,Recurrente
+CLI-00354,25,F,Coquimbo,2,67900.0,Electrónica,Online,34,7.0,9.0,1,40.5,254800.0,0,Nuevo
+CLI-00355,24,M,Metropolitana,6,85200.0,Hogar,App móvil,16,2.0,9.0,1,19.0,562800.0,1,Recurrente
+CLI-00356,20,F,Biobío,8,64700.0,Hogar,Tienda física,18,17.0,2.0,0,35.6,487200.0,1,Recurrente
+CLI-00357,34,M,Valparaíso,6,59200.0,Deportes,Tienda física,1,11.0,5.0,0,30.1,355600.0,1,Recurrente
+CLI-00358,50,M,Metropolitana,15,46900.0,Alimentos,Online,59,50.0,6.0,1,37.1,725100.0,1,Recurrente
+CLI-00359,65,F,Biobío,4,65800.0,Electrónica,Tienda física,56,12.0,4.0,1,13.3,318000.0,1,Nuevo
+CLI-00360,29,M,Biobío,9,39400.0,Hogar,Online,48,3.0,,0,54.1,368700.0,0,Recurrente
+CLI-00361,68,F,Coquimbo,5,91800.0,Hogar,App móvil,95,21.0,9.0,1,31.2,547800.0,1,Recurrente
+CLI-00362,39,M,Valparaíso,3,77600.0,Electrónica,App móvil,105,14.0,10.0,1,17.2,338200.0,1,Nuevo
+CLI-00363,39,No especifica,Metropolitana,4,71100.0,Hogar,Tienda física,37,15.0,9.0,1,35.1,437600.0,1,Nuevo
+CLI-00364,63,M,Metropolitana,9,168100.0,Hogar,Tienda física,52,,7.0,1,36.1,1486500.0,1,Recurrente
+CLI-00365,47,F,Metropolitana,6,146500.0,Hogar,Tienda física,1,42.0,8.0,1,45.6,949900.0,1,Recurrente
+CLI-00366,55,F,Metropolitana,9,32000.0,Ropa,Online,85,41.0,5.0,0,33.7,312400.0,1,Recurrente
+CLI-00367,55,M,Biobío,4,91900.0,Ropa,Tienda física,77,10.0,7.0,1,45.0,451000.0,1,Nuevo
+CLI-00368,62,No especifica,Metropolitana,11,64200.0,Alimentos,Tienda física,1,52.0,9.0,1,47.4,785200.0,1,Recurrente
+CLI-00369,68,F,Coquimbo,5,82000.0,Deportes,Online,36,55.0,2.0,1,45.9,473400.0,1,Recurrente
+CLI-00370,71,F,Coquimbo,8,52200.0,Electrónica,Online,107,36.0,7.0,1,33.6,519100.0,1,Recurrente
+CLI-00371,25,F,Valparaíso,9,65200.0,Deportes,Tienda física,10,51.0,9.0,0,,603300.0,1,Recurrente
+CLI-00372,44,No especifica,Coquimbo,10,51100.0,Deportes,Tienda física,20,10.0,4.0,1,27.7,544100.0,1,Recurrente
+CLI-00373,44,No especifica,Biobío,9,32100.0,Ropa,App móvil,19,17.0,10.0,1,45.8,425700.0,1,Recurrente
+CLI-00374,51,F,Valparaíso,10,151900.0,Alimentos,Online,20,,1.0,1,,1425600.0,1,Recurrente
+CLI-00375,38,F,Metropolitana,9,19800.0,Deportes,Online,2,25.0,9.0,0,30.1,228600.0,1,Recurrente
+CLI-00376,47,M,Valparaíso,6,28300.0,Deportes,Tienda física,15,27.0,6.0,1,22.7,290300.0,1,Recurrente
+CLI-00377,50,M,Valparaíso,9,34700.0,Hogar,Tienda física,16,33.0,4.0,0,42.6,340100.0,1,Recurrente
+CLI-00378,45,F,Araucanía,7,129700.0,Electrónica,Tienda física,91,11.0,4.0,1,23.7,893900.0,0,Recurrente
+CLI-00379,64,M,Valparaíso,5,68800.0,Alimentos,Tienda física,20,13.0,8.0,1,12.7,448600.0,1,Recurrente
+CLI-00380,50,F,Araucanía,10,36800.0,Electrónica,Tienda física,27,1.0,9.0,1,49.3,400500.0,1,Recurrente
+CLI-00381,22,M,Biobío,7,60200.0,Ropa,Tienda física,22,31.0,8.0,1,17.2,519700.0,1,Recurrente
+CLI-00382,65,M,Metropolitana,3,146700.0,Deportes,Online,6,33.0,10.0,1,33.6,540300.0,1,Recurrente
+CLI-00383,36,F,Coquimbo,9,68400.0,Deportes,Online,209,21.0,9.0,0,32.9,554000.0,1,Recurrente
+CLI-00384,21,No especifica,Valparaíso,9,63000.0,Electrónica,Online,79,16.0,1.0,1,32.0,542900.0,0,Recurrente
+CLI-00385,52,M,Metropolitana,13,56500.0,Ropa,Online,36,39.0,8.0,1,17.6,772300.0,1,Recurrente
+CLI-00386,66,F,Biobío,6,33100.0,Hogar,Online,30,23.0,6.0,0,17.7,206900.0,1,Recurrente
+CLI-00387,34,F,Metropolitana,7,81000.0,Hogar,Online,48,10.0,7.0,0,52.1,521800.0,1,Recurrente
+CLI-00388,61,M,Valparaíso,8,41600.0,Deportes,App móvil,18,48.0,3.0,1,21.6,439300.0,1,Recurrente
+CLI-00389,45,F,Valparaíso,7,47500.0,Deportes,Online,3,,6.0,1,23.9,447000.0,1,Recurrente
+CLI-00390,47,M,Metropolitana,8,108000.0,Alimentos,Online,24,22.0,8.0,1,18.9,843700.0,1,Recurrente
+CLI-00391,46,M,Coquimbo,10,117800.0,Electrónica,App móvil,187,41.0,5.0,1,32.6,1128400.0,0,Recurrente
+CLI-00392,63,No especifica,Valparaíso,7,20700.0,Deportes,Tienda física,10,6.0,8.0,1,32.8,224300.0,1,Recurrente
+CLI-00393,70,M,Metropolitana,13,101300.0,Ropa,Tienda física,34,,10.0,1,17.0,1302200.0,1,Recurrente
+CLI-00394,23,F,Valparaíso,4,78100.0,Electrónica,Tienda física,1,36.0,1.0,0,28.2,314600.0,1,Nuevo
+CLI-00395,52,F,Coquimbo,3,118500.0,Alimentos,Tienda física,6,47.0,9.0,1,86.5,513500.0,1,Recurrente
+CLI-00396,58,M,Metropolitana,9,69700.0,Hogar,Online,40,10.0,8.0,1,52.4,637700.0,1,Recurrente
+CLI-00397,54,F,Metropolitana,10,61800.0,Alimentos,Online,16,57.0,2.0,1,37.5,707000.0,1,Recurrente
+CLI-00398,41,No especifica,Metropolitana,11,79600.0,Electrónica,App móvil,107,16.0,9.0,1,37.4,844000.0,1,Recurrente
+CLI-00399,46,M,Metropolitana,7,31500.0,Hogar,Online,24,13.0,5.0,0,3.5,228600.0,0,Recurrente
+CLI-00400,66,F,Araucanía,8,103000.0,Ropa,Online,11,51.0,5.0,1,73.9,883100.0,1,Recurrente
+CLI-00401,63,F,Biobío,8,57700.0,Hogar,Tienda física,36,58.0,3.0,1,39.0,576000.0,1,Recurrente
+CLI-00402,70,F,Metropolitana,7,47800.0,Hogar,Online,72,20.0,7.0,1,62.4,474200.0,1,Recurrente
+CLI-00403,48,F,Biobío,9,40000.0,Ropa,Tienda física,1,4.0,7.0,0,55.8,417100.0,1,Recurrente
+CLI-00404,52,M,Metropolitana,9,91000.0,Deportes,App móvil,32,20.0,6.0,1,35.5,842300.0,1,Recurrente
+CLI-00405,50,No especifica,Coquimbo,8,124200.0,Deportes,App móvil,67,22.0,4.0,0,2.8,851400.0,0,Recurrente
+CLI-00406,69,No especifica,Coquimbo,7,93600.0,Hogar,Tienda física,5,29.0,9.0,0,,751000.0,1,Recurrente
+CLI-00407,38,F,Metropolitana,7,70200.0,Hogar,Online,105,16.0,9.0,0,27.8,516200.0,0,Recurrente
+CLI-00408,49,F,Araucanía,8,72800.0,Alimentos,App móvil,14,43.0,7.0,1,34.0,692500.0,1,Recurrente
+CLI-00409,40,F,Biobío,7,59900.0,Deportes,Online,9,47.0,,1,29.3,505000.0,1,Recurrente
+CLI-00410,50,F,Metropolitana,7,123000.0,Ropa,Online,41,43.0,3.0,0,20.9,794800.0,1,Recurrente
+CLI-00411,20,F,Metropolitana,6,64000.0,Hogar,Tienda física,9,23.0,9.0,0,52.9,374200.0,1,Recurrente
+CLI-00412,35,F,Valparaíso,8,116600.0,Hogar,Tienda física,52,30.0,3.0,0,27.3,864100.0,1,Recurrente
+CLI-00413,42,F,Biobío,7,49800.0,Alimentos,Online,31,57.0,1.0,0,26.7,355800.0,1,Recurrente
+CLI-00414,59,F,Coquimbo,2,166000.0,Alimentos,Tienda física,6,30.0,7.0,1,59.1,454800.0,0,Nuevo
+CLI-00415,48,F,Biobío,7,66200.0,Alimentos,App móvil,110,43.0,8.0,0,7.2,463300.0,1,Recurrente
+CLI-00416,71,M,Araucanía,5,91700.0,Electrónica,Online,51,3.0,7.0,0,13.5,456800.0,1,Recurrente
+CLI-00417,20,M,Valparaíso,9,22900.0,Ropa,Tienda física,36,56.0,3.0,1,17.5,345900.0,1,Recurrente
+CLI-00418,57,M,Araucanía,6,109200.0,Electrónica,Online,22,24.0,8.0,0,36.6,663900.0,1,Recurrente
+CLI-00419,63,F,Biobío,2,35100.0,Hogar,Tienda física,7,49.0,8.0,0,63.6,221800.0,1,Nuevo
+CLI-00420,41,F,Metropolitana,7,1236167.0,Alimentos,Online,56,37.0,8.0,1,35.8,1052300.0,1,Recurrente
+CLI-00421,67,F,Valparaíso,12,71500.0,Alimentos,Tienda física,76,13.0,,1,,890900.0,1,Recurrente
+CLI-00422,49,F,Araucanía,6,36300.0,Alimentos,Online,7,42.0,9.0,1,26.4,401600.0,1,Recurrente
+CLI-00423,64,F,Metropolitana,6,64500.0,Deportes,App móvil,31,32.0,7.0,1,18.7,481700.0,1,Recurrente
+CLI-00424,39,M,Araucanía,10,91000.0,Ropa,App móvil,30,37.0,7.0,1,10.5,940700.0,1,Recurrente
+CLI-00425,40,F,Metropolitana,4,110900.0,Electrónica,App móvil,20,12.0,7.0,0,23.3,434600.0,1,Nuevo
+CLI-00426,19,F,Valparaíso,7,102400.0,Ropa,Online,71,8.0,6.0,1,12.2,715800.0,0,Recurrente
+CLI-00427,44,F,Araucanía,8,106300.0,Alimentos,Online,5,24.0,5.0,1,37.1,843800.0,1,Recurrente
+CLI-00428,59,M,Metropolitana,6,47100.0,Hogar,Tienda física,11,44.0,1.0,1,13.3,414800.0,1,Recurrente
+CLI-00429,19,M,Metropolitana,5,36600.0,Deportes,Tienda física,1,,6.0,1,7.3,263400.0,1,Recurrente
+CLI-00430,43,M,Metropolitana,9,54000.0,Ropa,App móvil,22,32.0,7.0,1,28.0,562000.0,1,Recurrente
+CLI-00431,34,M,Araucanía,11,30000.0,Hogar,Tienda física,16,34.0,8.0,1,26.2,431500.0,1,Recurrente
+CLI-00432,57,F,Metropolitana,5,25200.0,Alimentos,Tienda física,91,35.0,3.0,1,19.9,257900.0,1,Recurrente
+CLI-00433,50,M,Coquimbo,9,49500.0,Alimentos,Online,62,32.0,10.0,1,25.5,616100.0,1,Recurrente
+CLI-00434,26,F,Metropolitana,10,153800.0,Alimentos,App móvil,4,50.0,5.0,1,17.7,1466600.0,0,Recurrente
+CLI-00435,60,F,Coquimbo,8,137900.0,Alimentos,Online,61,17.0,6.0,1,46.8,1024900.0,1,Recurrente
+CLI-00436,71,M,Coquimbo,10,30800.0,Deportes,Online,51,2.0,2.0,0,23.1,277400.0,1,Recurrente
+CLI-00437,65,M,Valparaíso,6,54800.0,Deportes,App móvil,15,26.0,8.0,0,,321500.0,1,Recurrente
+CLI-00438,56,M,Valparaíso,6,99900.0,Ropa,Tienda física,1,54.0,8.0,0,4.3,622000.0,1,Recurrente
+CLI-00439,46,M,Valparaíso,4,67700.0,Alimentos,Online,6,44.0,10.0,0,5.2,310100.0,1,Nuevo
+CLI-00440,59,M,Valparaíso,4,85000.0,Deportes,Online,13,17.0,6.0,0,14.8,344300.0,1,Nuevo
+CLI-00441,43,F,Metropolitana,10,18200.0,Hogar,Online,77,,5.0,1,47.5,269500.0,1,Recurrente
+CLI-00442,52,M,Metropolitana,6,101400.0,Deportes,Tienda física,29,49.0,8.0,1,30.7,688000.0,1,Recurrente
+CLI-00443,67,No especifica,Metropolitana,10,95300.0,Deportes,Online,113,2.0,8.0,0,50.6,822700.0,0,Recurrente
+CLI-00444,42,M,Metropolitana,8,18600.0,Ropa,App móvil,71,8.0,10.0,1,12.9,303700.0,1,Recurrente
+CLI-00445,41,F,Metropolitana,11,39400.0,Deportes,Online,16,46.0,5.0,1,17.4,506900.0,1,Recurrente
+CLI-00446,30,F,Valparaíso,5,38200.0,Hogar,Tienda física,85,6.0,8.0,1,14.7,306200.0,1,Recurrente
+CLI-00447,24,F,Coquimbo,6,30500.0,Alimentos,Online,6,9.0,,0,32.0,186700.0,1,Recurrente
+CLI-00448,53,F,Metropolitana,3,23100.0,Electrónica,Online,2,1.0,7.0,1,51.5,181100.0,1,Nuevo
+CLI-00449,62,F,Valparaíso,9,32800.0,Ropa,Tienda física,43,5.0,4.0,1,39.6,368100.0,1,Recurrente
+CLI-00450,37,F,Metropolitana,8,51300.0,Hogar,Tienda física,19,39.0,8.0,0,33.2,453700.0,1,Recurrente
+CLI-00451,18,F,Araucanía,10,73200.0,Ropa,Online,18,9.0,8.0,1,31.4,792200.0,1,Recurrente
+CLI-00452,25,F,Coquimbo,7,57400.0,Alimentos,Tienda física,53,14.0,2.0,1,16.8,476300.0,1,Recurrente
+CLI-00453,63,M,Araucanía,7,132700.0,Deportes,App móvil,86,27.0,6.0,0,29.8,897700.0,1,Recurrente
+CLI-00454,33,M,Coquimbo,8,29200.0,Deportes,Online,18,9.0,6.0,1,25.9,287400.0,1,Recurrente
+CLI-00455,31,F,Metropolitana,8,18900.0,Hogar,Online,18,36.0,5.0,1,36.5,236500.0,0,Recurrente
+CLI-00456,29,F,Araucanía,7,57000.0,Alimentos,Tienda física,35,29.0,,0,19.7,433700.0,1,Recurrente
+CLI-00457,68,F,Biobío,4,19800.0,Electrónica,Tienda física,48,20.0,,0,23.7,138200.0,0,Nuevo
+CLI-00458,40,F,Metropolitana,4,41000.0,Electrónica,Online,11,15.0,9.0,1,38.8,250500.0,1,Nuevo
+CLI-00459,32,No especifica,Coquimbo,8,74500.0,Deportes,Online,110,36.0,,1,,651400.0,1,Recurrente
+CLI-00460,45,M,Metropolitana,5,82700.0,Alimentos,Tienda física,48,3.0,6.0,0,26.0,401200.0,1,Recurrente
+CLI-00461,51,M,Biobío,3,42500.0,Alimentos,App móvil,45,,10.0,1,53.1,304200.0,1,Nuevo
+CLI-00462,19,M,Metropolitana,10,89400.0,Hogar,Tienda física,106,53.0,2.0,0,44.4,851900.0,1,Recurrente
+CLI-00463,49,F,Metropolitana,3,27700.0,Electrónica,Online,108,23.0,8.0,1,1.9,183000.0,1,Nuevo
+CLI-00464,40,F,Biobío,9,78600.0,Hogar,Tienda física,7,58.0,7.0,1,20.5,785000.0,1,Recurrente
+CLI-00465,39,M,Valparaíso,7,22600.0,Ropa,Online,8,54.0,10.0,1,16.2,332800.0,1,Recurrente
+CLI-00466,68,F,Metropolitana,7,249500.0,Alimentos,Online,65,46.0,6.0,1,37.1,1628500.0,0,Recurrente
+CLI-00467,42,M,Metropolitana,4,115900.0,Electrónica,Tienda física,142,9.0,8.0,1,8.3,516400.0,1,Recurrente
+CLI-00468,39,F,Araucanía,8,40100.0,Hogar,App móvil,50,30.0,3.0,1,14.4,389800.0,1,Recurrente
+CLI-00469,39,F,Metropolitana,5,68100.0,Deportes,App móvil,24,19.0,10.0,1,12.2,408900.0,1,Recurrente
+CLI-00470,66,M,Metropolitana,6,34300.0,Ropa,Online,52,38.0,6.0,0,24.3,232000.0,1,Recurrente
+CLI-00471,69,F,Coquimbo,5,91200.0,Hogar,Tienda física,12,3.0,7.0,1,33.7,511900.0,1,Recurrente
+CLI-00472,59,M,Araucanía,10,122800.0,Deportes,Online,279,50.0,4.0,1,25.6,1174600.0,1,Recurrente
+CLI-00473,23,M,Metropolitana,8,127500.0,Electrónica,Online,26,,10.0,1,33.6,1034400.0,1,Recurrente
+CLI-00474,32,M,Biobío,4,123000.0,Electrónica,App móvil,121,3.0,8.0,1,37.6,490700.0,0,Nuevo
+CLI-00475,71,M,Araucanía,7,113600.0,Ropa,App móvil,26,34.0,3.0,1,11.5,854900.0,1,Recurrente
+CLI-00476,60,M,Araucanía,7,79400.0,Deportes,Online,119,2.0,,1,18.8,602600.0,0,Recurrente
+CLI-00477,54,F,Valparaíso,3,67900.0,Alimentos,Online,19,58.0,6.0,0,44.6,308900.0,1,Nuevo
+CLI-00478,50,F,Metropolitana,9,58500.0,Electrónica,Online,65,27.0,5.0,0,13.4,515800.0,0,Recurrente
+CLI-00479,25,F,Metropolitana,8,42700.0,Alimentos,Tienda física,136,23.0,6.0,1,,436800.0,0,Recurrente
+CLI-00480,70,M,Metropolitana,9,55600.0,Alimentos,App móvil,47,42.0,10.0,1,5.9,599400.0,1,Recurrente
+CLI-00481,61,F,Valparaíso,8,52300.0,Hogar,Online,51,32.0,8.0,1,51.1,553000.0,1,Recurrente
+CLI-00482,61,M,Metropolitana,9,29300.0,Hogar,Tienda física,5,47.0,10.0,1,35.3,411300.0,1,Recurrente
+CLI-00483,22,M,Valparaíso,7,58300.0,Electrónica,Online,29,35.0,,1,29.7,445100.0,1,Recurrente
+CLI-00484,56,F,Metropolitana,6,61600.0,Alimentos,Online,99,40.0,8.0,1,21.8,424200.0,0,Recurrente
+CLI-00485,21,M,Metropolitana,9,33500.0,Hogar,Tienda física,13,,7.0,1,3.7,403800.0,1,Recurrente
+CLI-00486,23,F,Araucanía,8,103900.0,Deportes,App móvil,70,27.0,6.0,0,7.9,740100.0,0,Recurrente
+CLI-00487,62,F,Valparaíso,8,77100.0,Deportes,Online,51,11.0,7.0,1,31.9,655400.0,1,Recurrente
+CLI-00488,49,M,Metropolitana,3,31200.0,Deportes,Online,12,39.0,7.0,1,20.2,264100.0,1,Nuevo
+CLI-00489,69,M,Araucanía,11,74900.0,Deportes,Online,15,19.0,10.0,1,11.0,828200.0,1,Recurrente
+CLI-00490,47,M,Metropolitana,6,49400.0,Alimentos,Tienda física,26,25.0,7.0,1,27.5,388000.0,1,Recurrente
+CLI-00491,64,F,Biobío,6,57600.0,Deportes,Online,7,7.0,9.0,1,51.8,419300.0,1,Recurrente
+CLI-00492,52,M,Biobío,7,66700.0,Alimentos,Tienda física,111,31.0,8.0,1,,528100.0,1,Recurrente
+CLI-00493,57,M,Metropolitana,12,130900.0,Electrónica,Online,61,57.0,7.0,1,11.2,1475700.0,0,Recurrente
+CLI-00494,69,M,Araucanía,6,50200.0,Electrónica,Online,21,2.0,7.0,1,31.0,340600.0,1,Recurrente
+CLI-00495,33,F,Valparaíso,6,81300.0,Deportes,Tienda física,17,38.0,6.0,1,44.9,525400.0,1,Recurrente
+CLI-00496,30,M,Valparaíso,2,44800.0,Deportes,Online,53,5.0,4.0,0,39.1,96800.0,1,Nuevo
+CLI-00497,67,M,Metropolitana,7,101500.0,Deportes,Tienda física,25,14.0,,1,16.5,735000.0,1,Recurrente
+CLI-00498,59,F,Metropolitana,11,82700.0,Electrónica,Tienda física,12,18.0,10.0,1,33.1,909000.0,1,Recurrente
+CLI-00499,47,No especifica,Coquimbo,12,60500.0,Hogar,App móvil,26,36.0,5.0,1,46.9,722700.0,1,Recurrente
+CLI-00500,36,M,Metropolitana,6,120800.0,Electrónica,Online,93,4.0,10.0,1,30.4,784000.0,1,Recurrente
+CLI-00501,34,M,Valparaíso,3,183400.0,Deportes,Tienda física,4,24.0,5.0,1,,582800.0,1,Recurrente
+CLI-00502,36,M,Valparaíso,8,60600.0,Hogar,Online,21,13.0,,1,30.9,619700.0,1,Recurrente
+CLI-00503,45,F,Valparaíso,7,82300.0,Hogar,App móvil,148,55.0,6.0,1,24.7,691600.0,1,Recurrente
+CLI-00504,43,M,Metropolitana,5,67900.0,Ropa,Tienda física,1,21.0,4.0,0,19.1,271900.0,1,Recurrente
+CLI-00505,54,F,Metropolitana,10,259600.0,Alimentos,Online,100,57.0,3.0,1,23.4,2407000.0,0,VIP
+CLI-00506,43,F,Biobío,7,61200.0,Deportes,Online,22,33.0,6.0,1,56.6,492700.0,1,Recurrente
+CLI-00507,70,F,Metropolitana,2,47800.0,Alimentos,App móvil,10,20.0,2.0,1,30.5,167500.0,1,Nuevo
+CLI-00508,40,M,Metropolitana,7,50600.0,Ropa,App móvil,1,5.0,4.0,1,,398900.0,1,Recurrente
+CLI-00509,26,F,Metropolitana,6,121600.0,Alimentos,App móvil,4,24.0,4.0,1,15.7,783000.0,1,Recurrente
+CLI-00510,29,F,Metropolitana,7,107700.0,Deportes,App móvil,9,,1.0,1,5.5,783500.0,1,Recurrente
+CLI-00511,70,F,Araucanía,5,103300.0,Ropa,App móvil,2,,4.0,1,50.3,580500.0,1,Recurrente
+CLI-00512,18,M,Metropolitana,10,108900.0,Alimentos,Tienda física,19,28.0,7.0,1,18.4,1049600.0,1,Recurrente
+CLI-00513,18,No especifica,Metropolitana,5,108900.0,Electrónica,Online,3,53.0,9.0,1,,679700.0,1,Recurrente
+CLI-00514,64,M,Metropolitana,5,80700.0,Hogar,Online,54,51.0,,1,29.8,479700.0,1,Recurrente
+CLI-00515,51,M,Biobío,8,81000.0,Ropa,Tienda física,77,45.0,3.0,1,53.4,731100.0,1,Recurrente
+CLI-00516,49,M,Valparaíso,4,49800.0,Electrónica,Tienda física,99,7.0,8.0,1,29.5,307700.0,1,Nuevo
+CLI-00517,71,F,Metropolitana,8,59000.0,Deportes,Tienda física,36,42.0,1.0,1,43.9,518700.0,1,Recurrente
+CLI-00518,65,M,Biobío,6,110400.0,Hogar,Online,132,35.0,8.0,0,12.9,708800.0,1,Recurrente
+CLI-00519,42,M,Valparaíso,7,41600.0,Ropa,Tienda física,1,55.0,4.0,0,34.1,360900.0,1,Recurrente
+CLI-00520,57,M,Araucanía,7,70700.0,Hogar,Online,7,30.0,5.0,1,49.1,578400.0,1,Recurrente
+CLI-00521,62,M,Araucanía,10,52100.0,Ropa,Tienda física,16,,4.0,1,19.2,586800.0,1,Recurrente
+CLI-00522,70,F,Metropolitana,7,38400.0,Ropa,Tienda física,71,39.0,5.0,0,40.1,266000.0,1,Recurrente
+CLI-00523,18,F,Metropolitana,8,177800.0,Alimentos,Online,98,9.0,9.0,1,25.9,1346000.0,1,Recurrente
+CLI-00524,33,M,Metropolitana,10,87400.0,Hogar,App móvil,44,60.0,4.0,0,,883000.0,1,Recurrente
+CLI-00525,56,F,Metropolitana,6,45800.0,Hogar,Tienda física,22,53.0,10.0,1,38.9,385900.0,1,Recurrente
+CLI-00526,22,F,Coquimbo,4,209600.0,Electrónica,App móvil,50,12.0,6.0,0,41.3,774100.0,1,Recurrente
+CLI-00527,39,M,Metropolitana,12,34400.0,Deportes,Online,9,54.0,10.0,1,53.1,587500.0,1,Recurrente
+CLI-00528,46,M,Metropolitana,10,184400.0,Electrónica,Online,28,29.0,5.0,1,11.6,1750500.0,1,VIP
+CLI-00529,20,No especifica,Biobío,7,1185736.0,Alimentos,Online,32,,5.0,1,17.6,554100.0,1,Recurrente
+CLI-00530,29,F,Valparaíso,15,46300.0,Ropa,Online,5,27.0,7.0,1,25.2,721400.0,1,Recurrente
+CLI-00531,43,M,Metropolitana,7,33100.0,Alimentos,Online,2,19.0,3.0,1,43.7,317800.0,1,Recurrente
+CLI-00532,33,F,Metropolitana,5,103200.0,Alimentos,Online,63,13.0,9.0,1,24.2,592800.0,0,Recurrente
+CLI-00533,68,M,Metropolitana,11,142300.0,Electrónica,App móvil,35,42.0,7.0,0,18.8,1454400.0,1,Recurrente
+CLI-00534,54,F,Biobío,9,29900.0,Ropa,App móvil,19,37.0,8.0,1,25.2,387100.0,1,Recurrente
+CLI-00535,39,M,Metropolitana,5,21400.0,Deportes,App móvil,26,32.0,5.0,1,32.3,262700.0,1,Recurrente
+CLI-00536,46,M,Metropolitana,6,82100.0,Alimentos,App móvil,143,15.0,8.0,1,12.5,479800.0,1,Recurrente
+CLI-00537,31,M,Valparaíso,10,59800.0,Deportes,Tienda física,22,21.0,8.0,0,26.0,565500.0,1,Recurrente
+CLI-00538,45,No especifica,Metropolitana,10,77900.0,Ropa,Tienda física,5,3.0,8.0,1,34.5,814100.0,1,Recurrente
+CLI-00539,22,F,Valparaíso,8,51900.0,Ropa,Online,29,8.0,6.0,1,20.8,497500.0,1,Recurrente
+CLI-00540,64,M,Valparaíso,12,30000.0,Electrónica,Online,636,6.0,10.0,1,43.0,414500.0,1,Recurrente
+CLI-00541,66,M,Metropolitana,7,63100.0,Hogar,Tienda física,1,29.0,10.0,0,17.7,491000.0,1,Recurrente
+CLI-00542,47,F,Coquimbo,8,150100.0,Electrónica,App móvil,19,19.0,9.0,1,,1125900.0,1,Recurrente
+CLI-00543,63,M,Valparaíso,5,78300.0,Deportes,Tienda física,23,17.0,7.0,1,,504100.0,1,Recurrente
+CLI-00544,69,M,Metropolitana,7,121600.0,Electrónica,App móvil,29,10.0,7.0,0,21.5,764400.0,1,Recurrente
+CLI-00545,22,No especifica,Valparaíso,6,36500.0,Ropa,Online,17,33.0,3.0,1,47.8,307200.0,1,Recurrente
+CLI-00546,29,M,Biobío,8,35100.0,Alimentos,Tienda física,50,13.0,10.0,0,14.1,295300.0,1,Recurrente
+CLI-00547,33,F,Biobío,8,151700.0,Hogar,Tienda física,131,27.0,10.0,0,34.1,1125300.0,1,Recurrente
+CLI-00548,43,No especifica,Metropolitana,7,43800.0,Ropa,App móvil,111,42.0,1.0,1,34.1,458400.0,1,Recurrente
+CLI-00549,43,M,Coquimbo,12,109900.0,Alimentos,App móvil,50,12.0,6.0,1,9.6,1281900.0,1,Recurrente
+CLI-00550,65,M,Metropolitana,8,150500.0,Deportes,Tienda física,32,2.0,9.0,1,16.8,1116400.0,1,Recurrente
+CLI-00551,38,M,Metropolitana,8,57100.0,Deportes,Online,79,10.0,3.0,1,20.0,464000.0,1,Recurrente
+CLI-00552,56,F,Metropolitana,7,110400.0,Deportes,Online,82,21.0,5.0,1,24.8,729900.0,1,Recurrente
+CLI-00553,53,F,Metropolitana,6,101800.0,Electrónica,Online,80,23.0,10.0,0,17.3,606000.0,0,Recurrente
+CLI-00554,50,F,Araucanía,3,30000.0,Deportes,App móvil,8,1.0,9.0,0,16.2,117600.0,1,Nuevo
+CLI-00555,47,M,Metropolitana,5,70700.0,Deportes,Online,2,33.0,10.0,1,24.6,488900.0,1,Recurrente
+CLI-00556,54,F,Metropolitana,5,65800.0,Electrónica,Online,184,52.0,4.0,1,35.0,427000.0,0,Recurrente
+CLI-00557,40,No especifica,Araucanía,6,64600.0,Alimentos,Online,145,26.0,5.0,0,21.6,373800.0,0,Recurrente
+CLI-00558,27,F,Metropolitana,9,60900.0,Ropa,App móvil,38,15.0,8.0,1,23.1,560300.0,1,Recurrente
+CLI-00559,71,No especifica,Metropolitana,7,78100.0,Hogar,Tienda física,224,22.0,7.0,1,23.5,639200.0,0,Recurrente
+CLI-00560,22,F,Metropolitana,6,85200.0,Deportes,Tienda física,67,25.0,6.0,0,29.5,476500.0,1,Recurrente
+CLI-00561,53,F,Metropolitana,11,76200.0,Deportes,Online,33,1.0,9.0,0,23.8,733600.0,1,Recurrente
+CLI-00562,51,F,Metropolitana,2,71600.0,Deportes,Online,23,59.0,9.0,0,10.9,266500.0,1,Nuevo
+CLI-00563,69,M,Biobío,14,48600.0,Electrónica,Online,41,26.0,6.0,1,9.5,675300.0,0,Recurrente
+CLI-00564,48,M,Metropolitana,10,165300.0,Electrónica,App móvil,33,,4.0,0,39.3,1466700.0,1,Recurrente
+CLI-00565,27,F,Metropolitana,10,32300.0,Electrónica,App móvil,229,41.0,,0,6.3,320700.0,1,Recurrente
+CLI-00566,36,M,Biobío,7,8300.0,Hogar,Tienda física,31,24.0,,1,7.3,189700.0,1,Recurrente
+CLI-00567,49,F,Biobío,8,83200.0,Ropa,Online,82,39.0,4.0,1,47.0,654500.0,1,Recurrente
+CLI-00568,18,No especifica,Metropolitana,9,48700.0,Deportes,App móvil,76,16.0,7.0,1,11.7,524100.0,1,Recurrente
+CLI-00569,22,F,Valparaíso,11,78500.0,Alimentos,Tienda física,4,,7.0,1,22.5,948900.0,1,Recurrente
+CLI-00570,62,M,Metropolitana,4,32900.0,Deportes,Online,5,16.0,9.0,1,12.7,218200.0,1,Nuevo
+CLI-00571,21,M,Valparaíso,9,183900.0,Deportes,Online,49,13.0,6.0,1,15.9,1567100.0,1,VIP
+CLI-00572,33,M,Valparaíso,7,182500.0,Deportes,Tienda física,14,42.0,,0,6.4,1169900.0,0,Recurrente
+CLI-00573,41,F,Metropolitana,7,112200.0,Deportes,Tienda física,49,32.0,8.0,0,22.4,762000.0,1,Recurrente
+CLI-00574,33,F,Coquimbo,5,73600.0,Ropa,App móvil,8,50.0,8.0,1,50.4,457400.0,1,Recurrente
+CLI-00575,19,No especifica,Metropolitana,7,50200.0,Alimentos,App móvil,23,41.0,10.0,1,9.3,446900.0,1,Recurrente
+CLI-00576,66,M,Biobío,7,57700.0,Electrónica,Online,5,44.0,,1,29.3,518700.0,1,Recurrente
+CLI-00577,45,No especifica,Metropolitana,6,209600.0,Alimentos,Tienda física,15,,9.0,0,29.6,1136300.0,1,Recurrente
+CLI-00578,49,F,Biobío,10,112300.0,Deportes,Online,5,13.0,5.0,1,38.5,1079600.0,1,Recurrente
+CLI-00579,44,M,Valparaíso,8,15800.0,Alimentos,Tienda física,159,11.0,,1,13.9,191700.0,0,Recurrente
+CLI-00580,37,F,Araucanía,6,182800.0,Deportes,Tienda física,23,15.0,7.0,1,30.4,1083600.0,1,Recurrente
+CLI-00581,41,M,Metropolitana,8,22700.0,Alimentos,Tienda física,105,10.0,10.0,1,32.9,308000.0,1,Recurrente
+CLI-00582,29,M,Valparaíso,9,82100.0,Hogar,App móvil,160,42.0,5.0,0,42.7,736600.0,1,Recurrente
+CLI-00583,67,F,Valparaíso,6,68100.0,Alimentos,Tienda física,109,41.0,4.0,1,29.5,506000.0,1,Recurrente
+CLI-00584,52,M,Biobío,5,135200.0,Electrónica,App móvil,28,57.0,8.0,0,31.8,750700.0,1,Recurrente
+CLI-00585,50,F,Valparaíso,6,70400.0,Electrónica,Online,68,57.0,5.0,1,17.1,592700.0,1,Recurrente
+CLI-00586,50,F,Valparaíso,10,221500.0,Alimentos,Online,8,3.0,8.0,1,6.2,2006900.0,1,VIP
+CLI-00587,68,F,Metropolitana,9,70300.0,Alimentos,Tienda física,5,55.0,10.0,1,35.3,733100.0,1,Recurrente
+CLI-00588,60,M,Metropolitana,7,38400.0,Ropa,App móvil,95,16.0,10.0,1,8.8,352800.0,1,Recurrente
+CLI-00589,54,F,Valparaíso,6,105800.0,Alimentos,Online,2,44.0,5.0,0,28.3,576700.0,0,Recurrente
+CLI-00590,29,F,Metropolitana,2,30600.0,Electrónica,Online,162,17.0,5.0,0,13.7,90600.0,0,Nuevo
+CLI-00591,20,F,Coquimbo,4,36200.0,Hogar,Tienda física,51,25.0,7.0,0,51.6,168800.0,1,Nuevo
+CLI-00592,18,M,Biobío,8,99600.0,Electrónica,Tienda física,25,30.0,8.0,1,41.6,809700.0,1,Recurrente
+CLI-00593,50,M,Coquimbo,11,180200.0,Ropa,App móvil,7,47.0,8.0,1,29.7,1871800.0,1,VIP
+CLI-00594,57,F,Metropolitana,7,147000.0,Alimentos,Tienda física,58,57.0,8.0,0,4.6,935800.0,1,Recurrente
+CLI-00595,27,M,Araucanía,4,54600.0,Hogar,App móvil,38,35.0,8.0,1,14.6,312200.0,1,Nuevo
+CLI-00596,60,F,Araucanía,7,67700.0,Electrónica,Tienda física,56,37.0,4.0,0,28.5,408100.0,0,Recurrente
+CLI-00597,61,F,Biobío,6,50900.0,Hogar,Online,25,60.0,9.0,1,6.5,416000.0,1,Recurrente
+CLI-00598,46,F,Valparaíso,6,50800.0,Deportes,Tienda física,4,13.0,3.0,1,15.6,351600.0,1,Recurrente
+CLI-00599,30,F,Metropolitana,10,52700.0,Electrónica,Tienda física,18,24.0,1.0,1,11.5,586000.0,1,Recurrente
+CLI-00600,29,No especifica,Araucanía,7,130100.0,Deportes,App móvil,18,38.0,8.0,0,2.4,917700.0,0,Recurrente
+CLI-00601,48,F,Valparaíso,8,158700.0,Hogar,Online,1,26.0,,1,22.5,1173500.0,1,Recurrente
+CLI-00602,63,No especifica,Metropolitana,9,104700.0,Alimentos,Online,1,58.0,8.0,0,19.6,936900.0,1,Recurrente
+CLI-00603,19,F,Metropolitana,5,34600.0,Alimentos,Online,19,9.0,6.0,0,33.8,159000.0,0,Recurrente
+CLI-00604,68,M,Coquimbo,5,74000.0,Alimentos,Tienda física,59,19.0,1.0,1,34.6,427200.0,1,Recurrente
+CLI-00605,67,M,Araucanía,6,65400.0,Deportes,Online,45,28.0,6.0,1,33.5,494400.0,1,Recurrente
+CLI-00606,52,F,Coquimbo,12,101200.0,Alimentos,Tienda física,13,7.0,8.0,0,13.9,1122800.0,1,Recurrente
+CLI-00607,40,M,Valparaíso,5,93700.0,Ropa,App móvil,42,45.0,5.0,1,23.1,629100.0,1,Recurrente
+CLI-00608,34,F,Metropolitana,7,103400.0,Electrónica,Tienda física,47,22.0,8.0,1,28.8,792900.0,1,Recurrente
+CLI-00609,43,M,Metropolitana,10,56100.0,Electrónica,Tienda física,34,30.0,9.0,1,38.0,623600.0,1,Recurrente
+CLI-00610,25,F,Metropolitana,4,34700.0,Hogar,App móvil,34,37.0,7.0,1,24.4,231200.0,1,Nuevo
+CLI-00611,46,F,Metropolitana,9,85100.0,Deportes,Tienda física,21,16.0,9.0,0,15.4,722200.0,1,Recurrente
+CLI-00612,43,F,Metropolitana,5,35300.0,Electrónica,Online,6,36.0,9.0,1,31.2,337600.0,1,Recurrente
+CLI-00613,27,F,Metropolitana,8,85800.0,Deportes,Online,22,5.0,9.0,1,31.4,679800.0,1,Recurrente
+CLI-00614,43,F,Metropolitana,6,150800.0,Hogar,Tienda física,20,29.0,8.0,0,15.7,867200.0,1,Recurrente
+CLI-00615,51,M,Coquimbo,7,82600.0,Alimentos,Online,41,52.0,6.0,1,32.3,651000.0,1,Recurrente
+CLI-00616,68,F,Metropolitana,8,103600.0,Hogar,Tienda física,88,51.0,7.0,0,9.7,766800.0,1,Recurrente
+CLI-00617,58,M,Araucanía,8,24500.0,Ropa,App móvil,22,23.0,8.0,1,5.7,318300.0,1,Recurrente
+CLI-00618,24,No especifica,Valparaíso,7,61000.0,Alimentos,Tienda física,56,6.0,5.0,1,28.2,448100.0,1,Recurrente
+CLI-00619,21,F,Metropolitana,6,72800.0,Alimentos,Online,76,36.0,8.0,1,,499800.0,0,Recurrente
+CLI-00620,70,M,Metropolitana,3,105000.0,Alimentos,Online,11,57.0,7.0,1,25.6,459800.0,1,Nuevo
+CLI-00621,67,M,Metropolitana,7,69000.0,Hogar,App móvil,105,33.0,3.0,0,17.9,477600.0,1,Recurrente
+CLI-00622,62,F,Metropolitana,3,67800.0,Ropa,App móvil,4,49.0,7.0,0,35.8,255700.0,0,Nuevo
+CLI-00623,28,M,Biobío,7,39200.0,Deportes,Tienda física,105,,3.0,1,50.1,385700.0,1,Recurrente
+CLI-00624,46,M,Metropolitana,2,87900.0,Hogar,Online,9,,1.0,1,68.8,287900.0,1,Nuevo
+CLI-00625,53,F,Metropolitana,14,238000.0,Electrónica,Tienda física,19,55.0,9.0,1,56.5,3048200.0,1,VIP
+CLI-00626,42,F,Metropolitana,8,129900.0,Electrónica,Online,42,34.0,7.0,1,37.3,1014300.0,1,Recurrente
+CLI-00627,38,F,Coquimbo,7,122700.0,Hogar,Online,107,43.0,7.0,1,26.3,897500.0,1,Recurrente
+CLI-00628,53,No especifica,Biobío,6,130200.0,Deportes,Online,14,26.0,6.0,1,17.1,784300.0,1,Recurrente
+CLI-00629,27,F,Biobío,4,76700.0,Electrónica,Tienda física,65,37.0,7.0,0,21.3,298200.0,1,Nuevo
+CLI-00630,54,F,Metropolitana,8,50500.0,Deportes,Online,56,13.0,4.0,1,34.3,478300.0,1,Recurrente
+CLI-00631,26,M,Biobío,8,75700.0,Alimentos,Online,8,52.0,8.0,0,,647200.0,1,Recurrente
+CLI-00632,41,F,Biobío,4,31900.0,Hogar,Online,30,17.0,9.0,1,54.0,239600.0,1,Nuevo
+CLI-00633,52,M,Valparaíso,5,26400.0,Alimentos,Tienda física,30,32.0,9.0,1,20.4,282600.0,1,Recurrente
+CLI-00634,66,No especifica,Coquimbo,8,52600.0,Electrónica,Tienda física,17,32.0,4.0,1,27.2,542500.0,1,Recurrente
+CLI-00635,52,F,Metropolitana,5,75000.0,Deportes,Online,69,28.0,7.0,1,47.0,498100.0,0,Recurrente
+CLI-00636,65,F,Coquimbo,4,37000.0,Alimentos,App móvil,118,29.0,9.0,1,37.3,268000.0,0,Nuevo
+CLI-00637,53,M,Coquimbo,11,53200.0,Electrónica,Tienda física,57,25.0,4.0,0,9.1,545000.0,1,Recurrente
+CLI-00638,35,F,Metropolitana,7,120600.0,Ropa,Online,662,47.0,3.0,0,32.4,767700.0,1,Recurrente
+CLI-00639,66,F,Valparaíso,9,158800.0,Alimentos,Online,3,22.0,9.0,0,8.2,1293100.0,1,Recurrente
+CLI-00640,56,M,Coquimbo,9,28600.0,Ropa,Tienda física,2,27.0,9.0,1,24.5,377400.0,1,Recurrente
+CLI-00641,49,M,Metropolitana,3,57200.0,Ropa,Online,101,44.0,7.0,0,26.5,199100.0,0,Nuevo
+CLI-00642,41,F,Valparaíso,9,156700.0,Electrónica,Online,103,38.0,,1,12.3,1330700.0,1,Recurrente
+CLI-00643,40,M,Coquimbo,5,127600.0,Hogar,Tienda física,6,20.0,7.0,0,37.5,539400.0,1,Recurrente
+CLI-00644,49,No especifica,Valparaíso,6,120500.0,Deportes,Tienda física,20,45.0,6.0,0,43.2,667400.0,1,Recurrente
+CLI-00645,54,M,Metropolitana,3,67000.0,Electrónica,Tienda física,82,50.0,7.0,0,28.8,278200.0,0,Nuevo
+CLI-00646,29,M,Valparaíso,6,86300.0,Alimentos,Tienda física,7,24.0,7.0,0,7.1,508200.0,1,Recurrente
+CLI-00647,66,F,Metropolitana,13,108500.0,Deportes,App móvil,15,47.0,7.0,1,30.0,1398700.0,1,Recurrente
+CLI-00648,30,M,Valparaíso,9,191200.0,Hogar,Online,52,,8.0,1,23.6,1640700.0,1,VIP
+CLI-00649,40,F,Metropolitana,7,48300.0,Electrónica,Online,181,8.0,8.0,0,44.9,331100.0,0,Recurrente
+CLI-00650,42,M,Valparaíso,6,75100.0,Hogar,App móvil,72,51.0,8.0,1,42.8,619900.0,1,Recurrente
+CLI-00651,52,M,Valparaíso,10,66700.0,Alimentos,Tienda física,68,55.0,5.0,0,40.9,647800.0,0,Recurrente
+CLI-00652,58,F,Biobío,9,61900.0,Electrónica,Tienda física,19,14.0,6.0,1,9.6,588800.0,1,Recurrente
+CLI-00653,47,F,Valparaíso,5,103400.0,Alimentos,Online,49,39.0,3.0,1,10.3,582700.0,1,Recurrente
+CLI-00654,34,F,Valparaíso,11,102600.0,Deportes,Online,6,14.0,7.0,1,6.9,1067800.0,1,Recurrente
+CLI-00655,66,F,Biobío,8,75500.0,Deportes,Online,219,5.0,10.0,1,2.6,657100.0,0,Recurrente
+CLI-00656,37,F,Metropolitana,4,146300.0,Hogar,Tienda física,30,47.0,8.0,1,38.6,652100.0,1,Recurrente
+CLI-00657,65,M,Valparaíso,7,108000.0,Hogar,Online,46,21.0,4.0,1,14.6,754900.0,0,Recurrente
+CLI-00658,42,M,Metropolitana,4,125600.0,Deportes,Tienda física,94,15.0,5.0,1,27.8,527700.0,1,Recurrente
+CLI-00659,39,No especifica,Coquimbo,7,48500.0,Ropa,Tienda física,1,56.0,3.0,1,20.1,397400.0,1,Recurrente
+CLI-00660,30,F,Metropolitana,13,77200.0,Deportes,Online,168,36.0,5.0,1,9.7,928800.0,0,Recurrente
+CLI-00661,36,F,Metropolitana,7,123100.0,Electrónica,Online,561,33.0,,0,31.8,764300.0,1,Recurrente
+CLI-00662,66,M,Biobío,2,37800.0,Alimentos,Online,19,17.0,6.0,0,35.6,148900.0,1,Nuevo
+CLI-00663,53,M,Valparaíso,7,104800.0,Deportes,Online,8,57.0,5.0,1,48.8,799200.0,1,Recurrente
+CLI-00664,29,F,Metropolitana,6,37300.0,Deportes,Online,88,20.0,4.0,1,11.7,299800.0,1,Recurrente
+CLI-00665,58,F,Valparaíso,3,110400.0,Alimentos,Online,93,1.0,8.0,1,26.0,371500.0,1,Nuevo
+CLI-00666,36,F,Valparaíso,9,55300.0,Alimentos,Tienda física,1,16.0,7.0,0,8.4,515100.0,1,Recurrente
+CLI-00667,29,F,Biobío,4,91100.0,Electrónica,Tienda física,3,45.0,9.0,1,8.8,469500.0,1,Nuevo
+CLI-00668,26,F,Metropolitana,13,52100.0,Alimentos,Online,113,18.0,5.0,0,16.6,597000.0,0,Recurrente
+CLI-00669,24,M,Valparaíso,6,40700.0,Hogar,Tienda física,6,10.0,9.0,0,15.6,207800.0,1,Recurrente
+CLI-00670,45,M,Valparaíso,8,139600.0,Deportes,App móvil,44,23.0,7.0,1,26.3,1024900.0,1,Recurrente
+CLI-00671,31,M,Biobío,7,33100.0,Alimentos,Tienda física,44,18.0,5.0,0,14.8,257400.0,0,Recurrente
+CLI-00672,48,M,Valparaíso,7,43100.0,Electrónica,Online,92,49.0,6.0,0,35.5,395800.0,1,Recurrente
+CLI-00673,69,F,Valparaíso,11,152700.0,Alimentos,Tienda física,39,58.0,6.0,0,16.5,1536200.0,1,VIP
+CLI-00674,36,F,Metropolitana,6,51600.0,Deportes,Tienda física,26,9.0,7.0,1,31.8,397500.0,1,Recurrente
+CLI-00675,64,F,Metropolitana,8,33800.0,Ropa,App móvil,165,46.0,3.0,1,30.3,433900.0,0,Recurrente
+CLI-00676,33,M,Metropolitana,6,81800.0,Alimentos,App móvil,12,53.0,9.0,1,39.8,620800.0,1,Recurrente
+CLI-00677,70,M,Metropolitana,7,60900.0,Hogar,Online,14,30.0,,1,19.5,498100.0,1,Recurrente
+CLI-00678,22,M,Metropolitana,4,47500.0,Deportes,Tienda física,4,13.0,7.0,1,44.5,308900.0,1,Nuevo
+CLI-00679,52,M,Valparaíso,7,97300.0,Electrónica,App móvil,167,52.0,6.0,0,25.8,698400.0,0,Recurrente
+CLI-00680,29,F,Metropolitana,5,24500.0,Deportes,App móvil,56,52.0,7.0,0,19.0,216800.0,1,Recurrente
+CLI-00681,42,M,Coquimbo,4,71200.0,Ropa,Tienda física,1,31.0,9.0,1,27.7,389700.0,1,Nuevo
+CLI-00682,69,F,Metropolitana,9,28500.0,Electrónica,Online,55,46.0,10.0,1,17.1,415400.0,1,Recurrente
+CLI-00683,38,M,Biobío,11,136600.0,Ropa,Online,24,43.0,,0,19.3,1318000.0,1,Recurrente
+CLI-00684,53,M,Valparaíso,11,217500.0,Ropa,Tienda física,155,13.0,6.0,0,46.1,2078300.0,0,VIP
+CLI-00685,70,M,Metropolitana,13,43200.0,Hogar,Tienda física,15,32.0,9.0,0,40.3,572700.0,1,Recurrente
+CLI-00686,40,F,Metropolitana,10,82200.0,Alimentos,App móvil,56,17.0,6.0,1,20.6,884300.0,1,Recurrente
+CLI-00687,33,F,Valparaíso,8,22200.0,Hogar,App móvil,45,3.0,8.0,0,27.5,207700.0,1,Recurrente
+CLI-00688,56,M,Metropolitana,5,27200.0,Hogar,Online,1,1.0,10.0,0,,167300.0,1,Recurrente
+CLI-00689,62,M,Coquimbo,3,51700.0,Hogar,Tienda física,98,53.0,8.0,0,30.6,223400.0,1,Nuevo
+CLI-00690,70,F,Valparaíso,4,58400.0,Electrónica,Online,7,5.0,4.0,1,38.9,287000.0,1,Nuevo
+CLI-00691,59,M,Coquimbo,9,47900.0,Alimentos,Tienda física,50,32.0,9.0,0,30.5,438200.0,1,Recurrente
+CLI-00692,56,M,Metropolitana,8,65500.0,Alimentos,Tienda física,68,25.0,,1,12.0,606600.0,1,Recurrente
+CLI-00693,31,F,Biobío,4,101000.0,Electrónica,Online,45,45.0,8.0,1,4.7,544900.0,1,Recurrente
+CLI-00694,48,F,Valparaíso,6,71900.0,Hogar,Online,5,56.0,7.0,1,13.8,510700.0,1,Recurrente
+CLI-00695,22,M,Biobío,15,92400.0,Hogar,Online,167,5.0,10.0,0,10.1,1257100.0,0,Recurrente
+CLI-00696,52,No especifica,Metropolitana,7,32900.0,Ropa,Online,13,37.0,10.0,1,19.7,353200.0,1,Recurrente
+CLI-00697,40,F,Biobío,9,65600.0,Ropa,App móvil,45,23.0,10.0,0,17.5,558400.0,1,Recurrente
+CLI-00698,46,M,Valparaíso,7,171800.0,Deportes,Online,72,12.0,7.0,0,54.1,1086900.0,0,Recurrente
+CLI-00699,60,F,Biobío,5,44700.0,Ropa,Online,127,34.0,9.0,1,43.7,344500.0,1,Recurrente
+CLI-00700,28,F,Metropolitana,8,80200.0,Alimentos,Online,42,23.0,8.0,1,44.6,707300.0,1,Recurrente
+CLI-00701,35,M,Araucanía,9,82900.0,Electrónica,App móvil,14,16.0,5.0,0,20.7,690000.0,0,Recurrente
+CLI-00702,64,M,Metropolitana,5,40600.0,Hogar,Online,82,49.0,7.0,1,24.3,370500.0,1,Recurrente
+CLI-00703,29,M,Araucanía,6,31200.0,Deportes,Online,9,5.0,8.0,1,44.5,324700.0,1,Recurrente
+CLI-00704,26,F,Araucanía,5,68200.0,Ropa,Tienda física,2,44.0,9.0,1,28.1,416000.0,1,Recurrente
+CLI-00705,27,M,Araucanía,7,67900.0,Deportes,Online,108,47.0,9.0,1,14.8,591500.0,0,Recurrente
+CLI-00706,61,F,Valparaíso,3,57300.0,Electrónica,Online,39,28.0,4.0,0,10.2,177500.0,1,Nuevo
+CLI-00707,34,F,Metropolitana,6,240300.0,Electrónica,Tienda física,4,6.0,7.0,0,3.7,1280300.0,1,Recurrente
+CLI-00708,55,M,Coquimbo,4,38200.0,Deportes,Online,40,13.0,7.0,1,26.2,218300.0,1,Nuevo
+CLI-00709,24,F,Metropolitana,6,64000.0,Deportes,App móvil,8,43.0,9.0,1,26.2,504500.0,1,Recurrente
+CLI-00710,63,M,Valparaíso,6,146700.0,Deportes,Tienda física,2,30.0,1.0,1,27.2,812700.0,1,Recurrente
+CLI-00711,30,F,Biobío,4,28300.0,Hogar,Tienda física,6,26.0,8.0,1,5.8,248700.0,1,Nuevo
+CLI-00712,57,F,Biobío,6,78100.0,Alimentos,Online,68,17.0,8.0,1,35.6,538900.0,1,Recurrente
+CLI-00713,59,M,Metropolitana,7,51900.0,Ropa,App móvil,64,9.0,10.0,1,49.3,429400.0,1,Recurrente
+CLI-00714,26,F,Biobío,7,69700.0,Ropa,Tienda física,42,57.0,7.0,1,20.9,586300.0,1,Recurrente
+CLI-00715,67,M,Araucanía,9,98600.0,Ropa,Online,11,16.0,8.0,0,35.5,802400.0,1,Recurrente
+CLI-00716,44,M,Metropolitana,2,22500.0,Deportes,Online,61,49.0,10.0,1,22.3,180600.0,1,Nuevo
+CLI-00717,19,M,Coquimbo,6,113700.0,Deportes,Tienda física,24,52.0,8.0,1,17.4,723400.0,1,Recurrente
+CLI-00718,22,M,Metropolitana,9,82600.0,Deportes,Tienda física,33,56.0,3.0,1,10.1,799700.0,1,Recurrente
+CLI-00719,46,No especifica,Metropolitana,10,42800.0,Hogar,App móvil,103,18.0,4.0,1,7.3,517400.0,1,Recurrente
+CLI-00720,54,M,Metropolitana,7,47600.0,Hogar,Tienda física,28,,9.0,0,6.9,367400.0,1,Recurrente
+CLI-00721,55,M,Metropolitana,10,24500.0,Hogar,Tienda física,45,29.0,6.0,1,46.9,292200.0,1,Recurrente
+CLI-00722,36,F,Coquimbo,4,70400.0,Hogar,Online,147,43.0,8.0,1,6.1,448200.0,1,Nuevo
+CLI-00723,25,M,Metropolitana,7,69000.0,Electrónica,Tienda física,28,45.0,,1,22.8,623600.0,1,Recurrente
+CLI-00724,65,No especifica,Metropolitana,6,56600.0,Hogar,App móvil,38,24.0,10.0,0,30.2,345000.0,1,Recurrente
+CLI-00725,62,F,Metropolitana,6,50000.0,Hogar,Tienda física,40,58.0,7.0,0,34.3,337800.0,1,Recurrente
+CLI-00726,18,F,Valparaíso,3,171700.0,Hogar,Online,13,45.0,8.0,0,19.4,516300.0,1,Recurrente
+CLI-00727,39,M,Valparaíso,4,97500.0,Ropa,Online,61,44.0,2.0,0,25.2,404300.0,1,Nuevo
+CLI-00728,69,M,Metropolitana,10,45100.0,Ropa,Online,59,46.0,7.0,1,17.5,544400.0,1,Recurrente
+CLI-00729,34,M,Metropolitana,7,59400.0,Ropa,Tienda física,11,13.0,5.0,1,45.2,485700.0,1,Recurrente
+CLI-00730,24,F,Araucanía,4,55700.0,Alimentos,App móvil,1,25.0,,1,19.0,305300.0,1,Nuevo
+CLI-00731,42,M,Metropolitana,8,46800.0,Electrónica,Online,309,41.0,9.0,0,21.8,380300.0,1,Recurrente
+CLI-00732,62,M,Valparaíso,7,81200.0,Deportes,Online,40,46.0,5.0,0,6.6,537100.0,1,Recurrente
+CLI-00733,21,No especifica,Metropolitana,6,90900.0,Hogar,Tienda física,9,1.0,6.0,1,17.9,550300.0,1,Recurrente
+CLI-00734,53,F,Biobío,10,60100.0,Ropa,App móvil,16,9.0,8.0,0,8.2,574500.0,1,Recurrente
+CLI-00735,23,M,Metropolitana,7,27800.0,Electrónica,Tienda física,44,4.0,8.0,1,14.0,297600.0,1,Recurrente
+CLI-00736,48,M,Valparaíso,10,113300.0,Hogar,Online,7,28.0,8.0,0,9.5,1056400.0,0,Recurrente
+CLI-00737,36,No especifica,Metropolitana,10,24800.0,Alimentos,Online,2,12.0,10.0,1,12.8,387600.0,1,Recurrente
+CLI-00738,61,M,Coquimbo,6,56600.0,Deportes,Tienda física,73,24.0,,1,47.2,454300.0,1,Recurrente
+CLI-00739,71,F,Metropolitana,8,67800.0,Hogar,App móvil,57,46.0,7.0,1,25.6,577800.0,1,Recurrente
+CLI-00740,56,F,Biobío,10,38300.0,Deportes,Online,17,9.0,6.0,1,24.0,433800.0,1,Recurrente
+CLI-00741,44,M,Metropolitana,7,34100.0,Hogar,Tienda física,3,35.0,8.0,1,53.9,356400.0,1,Recurrente
+CLI-00742,27,F,Metropolitana,4,56300.0,Alimentos,Tienda física,30,38.0,9.0,1,27.7,369800.0,1,Nuevo
+CLI-00743,43,M,Biobío,4,119700.0,Electrónica,Tienda física,15,35.0,7.0,1,20.9,535700.0,1,Recurrente
+CLI-00744,36,M,Metropolitana,9,91000.0,Deportes,Online,23,33.0,,0,24.0,820100.0,1,Recurrente
+CLI-00745,56,F,Araucanía,9,159700.0,Deportes,App móvil,15,58.0,1.0,1,35.1,1364300.0,1,Recurrente
+CLI-00746,20,F,Coquimbo,13,79500.0,Electrónica,Tienda física,9,54.0,10.0,1,8.5,1063400.0,1,Recurrente
+CLI-00747,62,F,Araucanía,8,176900.0,Deportes,Tienda física,23,53.0,8.0,1,16.9,1380700.0,1,Recurrente
+CLI-00748,30,F,Metropolitana,11,141500.0,Ropa,Tienda física,151,35.0,6.0,1,26.3,1459600.0,0,Recurrente
+CLI-00749,67,M,Biobío,7,73700.0,Electrónica,App móvil,14,46.0,6.0,0,12.8,471700.0,1,Recurrente
+CLI-00750,45,M,Metropolitana,7,122600.0,Alimentos,Tienda física,19,20.0,4.0,1,47.0,890700.0,1,Recurrente
+CLI-00751,37,M,Araucanía,6,187800.0,Hogar,Tienda física,18,2.0,9.0,0,15.2,986100.0,1,Recurrente
+CLI-00752,45,M,Valparaíso,9,106800.0,Hogar,Online,30,44.0,8.0,1,15.9,1008700.0,1,Recurrente
+CLI-00753,25,M,Araucanía,6,41100.0,Electrónica,Online,84,26.0,8.0,0,27.4,268000.0,0,Recurrente
+CLI-00754,58,M,Valparaíso,11,49300.0,Ropa,Online,24,42.0,4.0,1,19.2,592500.0,1,Recurrente
+CLI-00755,56,M,Valparaíso,11,1297452.0,Alimentos,App móvil,74,13.0,5.0,1,40.5,1247300.0,0,Recurrente
+CLI-00756,18,M,Metropolitana,4,33700.0,Hogar,App móvil,6,30.0,,1,29.0,212100.0,1,Nuevo
+CLI-00757,20,F,Biobío,6,121500.0,Hogar,Online,102,52.0,5.0,1,35.9,773700.0,1,Recurrente
+CLI-00758,30,F,Metropolitana,8,101000.0,Ropa,Online,10,32.0,7.0,1,34.2,825600.0,1,Recurrente
+CLI-00759,45,M,Valparaíso,6,53200.0,Deportes,Online,2,36.0,5.0,1,63.4,462600.0,1,Recurrente
+CLI-00760,66,No especifica,Biobío,5,148200.0,Electrónica,App móvil,8,19.0,6.0,0,65.7,684800.0,1,Recurrente
+CLI-00761,42,F,Valparaíso,6,20000.0,Ropa,Online,10,22.0,8.0,1,19.9,282600.0,1,Recurrente
+CLI-00762,50,M,Metropolitana,4,136700.0,Ropa,Tienda física,32,1.0,9.0,1,9.9,545900.0,1,Recurrente
+CLI-00763,55,F,Valparaíso,5,140600.0,Ropa,App móvil,27,57.0,6.0,1,60.4,777500.0,1,Recurrente
+CLI-00764,70,F,Metropolitana,10,67000.0,Ropa,Tienda física,57,11.0,8.0,1,44.6,719200.0,1,Recurrente
+CLI-00765,23,F,Valparaíso,7,46500.0,Deportes,App móvil,3,26.0,4.0,1,19.5,411200.0,1,Recurrente
+CLI-00766,61,M,Metropolitana,8,26200.0,Alimentos,Tienda física,31,48.0,7.0,1,29.8,355300.0,1,Recurrente
+CLI-00767,62,F,Metropolitana,3,40700.0,Ropa,Tienda física,19,19.0,10.0,1,56.5,249100.0,1,Nuevo
+CLI-00768,49,M,Metropolitana,9,34000.0,Ropa,Tienda física,45,,2.0,1,17.0,337100.0,1,Recurrente
+CLI-00769,62,F,Biobío,8,80800.0,Electrónica,Online,3,12.0,5.0,1,52.0,627800.0,1,Recurrente
+CLI-00770,64,F,Metropolitana,4,114000.0,Hogar,App móvil,2,3.0,4.0,1,7.0,512400.0,1,Recurrente
+CLI-00771,38,F,Metropolitana,6,36700.0,Deportes,Tienda física,26,55.0,7.0,1,13.9,348400.0,1,Recurrente
+CLI-00772,33,F,Coquimbo,4,105500.0,Ropa,Online,76,56.0,8.0,0,52.5,453100.0,0,Nuevo
+CLI-00773,71,F,Metropolitana,6,60700.0,Alimentos,Online,51,18.0,3.0,0,26.1,326300.0,1,Recurrente
+CLI-00774,38,M,Valparaíso,10,55200.0,Alimentos,Online,1,49.0,3.0,0,23.9,516200.0,1,Recurrente
+CLI-00775,28,M,Biobío,9,130000.0,Alimentos,Tienda física,9,5.0,9.0,0,3.2,1001600.0,1,Recurrente
+CLI-00776,54,F,Coquimbo,5,174500.0,Electrónica,Online,12,48.0,7.0,0,43.8,880300.0,1,Recurrente
+CLI-00777,53,M,Biobío,18,102300.0,Alimentos,App móvil,25,24.0,7.0,1,30.1,1647800.0,1,VIP
+CLI-00778,52,M,Biobío,5,28500.0,Electrónica,Online,40,,10.0,1,39.7,288600.0,1,Recurrente
+CLI-00779,36,M,Araucanía,3,80700.0,Deportes,Online,11,51.0,6.0,1,27.5,409700.0,1,Nuevo
+CLI-00780,37,M,Metropolitana,5,46000.0,Alimentos,Tienda física,22,38.0,9.0,1,20.7,370300.0,1,Recurrente
+CLI-00781,35,No especifica,Araucanía,11,195200.0,Hogar,Tienda física,40,3.0,10.0,1,33.3,1953500.0,1,VIP
+CLI-00782,64,F,Metropolitana,9,107700.0,Ropa,App móvil,22,6.0,5.0,0,9.6,863100.0,1,Recurrente
+CLI-00783,58,No especifica,Coquimbo,9,41500.0,Deportes,Tienda física,7,12.0,7.0,0,5.7,354900.0,1,Recurrente
+CLI-00784,66,F,Metropolitana,9,59200.0,Hogar,Online,31,52.0,7.0,1,42.8,659800.0,1,Recurrente
+CLI-00785,31,F,Valparaíso,8,69300.0,Deportes,Tienda física,18,11.0,9.0,1,40.8,643000.0,1,Recurrente
+CLI-00786,32,M,Metropolitana,7,34600.0,Alimentos,Online,90,39.0,6.0,1,28.0,378900.0,0,Recurrente
+CLI-00787,48,F,Biobío,6,76800.0,Deportes,Online,68,59.0,9.0,1,47.1,538000.0,1,Recurrente
+CLI-00788,18,M,Metropolitana,7,126400.0,Deportes,Online,10,26.0,10.0,0,,853500.0,1,Recurrente
+CLI-00789,70,F,Araucanía,8,22900.0,Deportes,Tienda física,8,1.0,9.0,1,4.9,320400.0,1,Recurrente
+CLI-00790,71,F,Araucanía,5,53300.0,Electrónica,Online,20,16.0,9.0,1,68.2,389000.0,1,Recurrente
+CLI-00791,71,M,Metropolitana,6,148200.0,Hogar,Online,24,48.0,8.0,1,38.3,963000.0,1,Recurrente
+CLI-00792,20,No especifica,Araucanía,8,187100.0,Alimentos,Online,121,49.0,9.0,0,42.7,1354200.0,1,Recurrente
+CLI-00793,33,F,Biobío,5,93600.0,Ropa,Online,17,47.0,4.0,1,30.8,540000.0,1,Recurrente
+CLI-00794,40,F,Valparaíso,3,39000.0,Alimentos,Online,91,53.0,8.0,0,50.7,242400.0,1,Nuevo
+CLI-00795,28,M,Metropolitana,4,106000.0,Alimentos,Online,32,9.0,8.0,1,17.8,511200.0,1,Recurrente
+CLI-00796,29,F,Metropolitana,3,115700.0,Electrónica,Online,98,5.0,7.0,1,29.7,408600.0,1,Nuevo
+CLI-00797,27,F,Metropolitana,7,79200.0,Electrónica,Online,55,52.0,3.0,1,11.8,620500.0,1,Recurrente
+CLI-00798,49,M,Metropolitana,5,53200.0,Deportes,Online,56,8.0,8.0,1,43.1,356300.0,1,Recurrente
+CLI-00799,33,M,Coquimbo,7,102000.0,Alimentos,App móvil,33,21.0,3.0,0,30.9,638200.0,0,Recurrente
+CLI-00800,25,F,Metropolitana,7,64400.0,Hogar,Tienda física,83,33.0,6.0,1,27.6,532900.0,0,Recurrente
+CLI-00801,55,M,Araucanía,6,106700.0,Electrónica,Tienda física,14,39.0,6.0,0,20.8,715300.0,1,Recurrente
+CLI-00802,29,F,Metropolitana,7,39000.0,Electrónica,App móvil,108,43.0,10.0,0,32.3,312500.0,1,Recurrente
+CLI-00803,41,No especifica,Valparaíso,6,41300.0,Hogar,Online,46,20.0,6.0,0,15.2,210800.0,1,Recurrente
+CLI-00804,45,F,Biobío,7,102900.0,Electrónica,Online,26,58.0,9.0,1,25.2,787000.0,1,Recurrente
+CLI-00805,70,M,Araucanía,8,39100.0,Hogar,App móvil,182,53.0,3.0,0,28.3,361100.0,0,Recurrente
+CLI-00806,25,F,Metropolitana,6,66800.0,Ropa,Tienda física,90,45.0,7.0,0,34.9,447700.0,1,Recurrente
+CLI-00807,45,M,Valparaíso,4,62100.0,Hogar,App móvil,67,22.0,7.0,1,14.6,320300.0,1,Nuevo
+CLI-00808,53,M,Metropolitana,4,35600.0,Ropa,App móvil,15,,8.0,1,37.0,245300.0,1,Nuevo
+CLI-00809,43,F,Metropolitana,8,46200.0,Deportes,Online,164,39.0,9.0,1,22.1,511900.0,0,Recurrente
+CLI-00810,25,M,Metropolitana,6,18900.0,Deportes,App móvil,62,11.0,8.0,1,31.3,226400.0,0,Recurrente
+CLI-00811,67,M,Valparaíso,6,77000.0,Electrónica,App móvil,42,18.0,8.0,1,41.7,503600.0,1,Recurrente
+CLI-00812,45,F,Metropolitana,3,33300.0,Hogar,Online,115,30.0,7.0,1,48.3,211500.0,0,Nuevo
+CLI-00813,45,M,Biobío,6,44200.0,Electrónica,App móvil,8,33.0,8.0,1,8.7,427300.0,1,Recurrente
+CLI-00814,54,M,Metropolitana,8,92700.0,Hogar,Online,7,44.0,7.0,0,24.8,704600.0,1,Recurrente
+CLI-00815,58,F,Valparaíso,8,150300.0,Electrónica,Tienda física,38,3.0,3.0,0,10.7,1042200.0,1,Recurrente
+CLI-00816,53,F,Metropolitana,3,58300.0,Deportes,Online,3,58.0,9.0,0,9.8,215300.0,1,Nuevo
+CLI-00817,44,F,Biobío,5,40400.0,Deportes,Online,50,60.0,9.0,0,2.0,281600.0,1,Recurrente
+CLI-00818,71,M,Araucanía,5,54000.0,Electrónica,Tienda física,13,,6.0,1,45.0,425400.0,1,Recurrente
+CLI-00819,34,M,Valparaíso,7,32300.0,Hogar,Online,6,36.0,10.0,1,58.7,419100.0,1,Recurrente
+CLI-00820,26,M,Biobío,10,101200.0,Alimentos,Tienda física,24,6.0,8.0,0,13.4,915000.0,1,Recurrente
+CLI-00821,50,M,Metropolitana,4,20900.0,Hogar,Tienda física,29,37.0,7.0,1,,278900.0,1,Nuevo
+CLI-00822,70,F,Valparaíso,7,87500.0,Electrónica,Online,9,29.0,6.0,1,20.5,683500.0,1,Recurrente
+CLI-00823,37,M,Metropolitana,6,85200.0,Hogar,Online,2,11.0,10.0,1,51.1,647500.0,1,Recurrente
+CLI-00824,30,M,Metropolitana,4,135700.0,Ropa,Tienda física,25,,8.0,1,28.9,663800.0,1,Recurrente
+CLI-00825,45,F,Biobío,4,1563017.0,Hogar,App móvil,65,55.0,6.0,0,14.3,358900.0,1,Nuevo
+CLI-00826,65,F,Araucanía,8,31000.0,Deportes,Tienda física,94,13.0,8.0,1,10.4,283000.0,0,Recurrente
+CLI-00827,46,F,Metropolitana,4,86900.0,Deportes,Tienda física,5,11.0,7.0,1,72.9,435200.0,1,Nuevo
+CLI-00828,30,M,Valparaíso,8,105500.0,Ropa,Tienda física,34,59.0,7.0,1,28.4,884800.0,1,Recurrente
+CLI-00829,63,M,Valparaíso,8,128000.0,Hogar,Online,14,,8.0,1,43.9,1052800.0,1,Recurrente
+CLI-00830,52,M,Metropolitana,7,56900.0,Alimentos,Tienda física,22,51.0,7.0,1,44.1,530400.0,1,Recurrente
+CLI-00831,23,M,Metropolitana,12,102700.0,Hogar,App móvil,122,25.0,8.0,0,48.4,1159100.0,0,Recurrente
+CLI-00832,35,F,Metropolitana,9,84400.0,Deportes,Tienda física,20,15.0,9.0,0,65.9,740000.0,1,Recurrente
+CLI-00833,68,F,Metropolitana,8,56300.0,Deportes,Tienda física,21,53.0,10.0,0,26.2,454200.0,1,Recurrente
+CLI-00834,22,F,Metropolitana,13,39900.0,Electrónica,Tienda física,11,13.0,8.0,1,58.0,521000.0,1,Recurrente
+CLI-00835,64,F,Metropolitana,4,50400.0,Deportes,Tienda física,145,42.0,10.0,0,11.5,265600.0,0,Nuevo
+CLI-00836,42,M,Metropolitana,8,58000.0,Electrónica,Tienda física,28,33.0,9.0,0,79.1,501500.0,1,Recurrente
+CLI-00837,19,F,Biobío,7,28000.0,Deportes,Tienda física,39,13.0,6.0,1,22.5,311200.0,1,Recurrente
+CLI-00838,27,M,Valparaíso,5,103600.0,Deportes,Tienda física,28,38.0,10.0,0,16.8,537900.0,1,Recurrente
+CLI-00839,47,F,Coquimbo,3,127200.0,Alimentos,Online,14,53.0,3.0,1,34.7,501400.0,1,Recurrente
+CLI-00840,67,F,Metropolitana,7,212700.0,Electrónica,Tienda física,75,58.0,,0,30.0,1389800.0,1,Recurrente
+CLI-00841,62,M,Biobío,9,39700.0,Electrónica,App móvil,2,24.0,8.0,0,3.9,374600.0,1,Recurrente
+CLI-00842,22,M,Araucanía,7,82900.0,Deportes,Online,53,20.0,7.0,0,22.2,570900.0,1,Recurrente
+CLI-00843,50,No especifica,Biobío,4,115300.0,Electrónica,App móvil,41,44.0,,1,55.8,581100.0,1,Recurrente
+CLI-00844,71,M,Metropolitana,7,154500.0,Deportes,Online,8,17.0,9.0,1,37.0,1063600.0,1,Recurrente
+CLI-00845,18,M,Biobío,6,43600.0,Deportes,Online,9,59.0,5.0,0,6.5,362500.0,1,Recurrente
+CLI-00846,35,M,Metropolitana,11,105600.0,Hogar,Tienda física,49,50.0,10.0,1,62.5,1141400.0,1,Recurrente
+CLI-00847,49,F,Metropolitana,14,69800.0,Electrónica,Tienda física,17,24.0,7.0,1,38.9,1023900.0,1,Recurrente
+CLI-00848,64,F,Valparaíso,5,25200.0,Ropa,Tienda física,14,26.0,10.0,0,17.6,219700.0,0,Recurrente
+CLI-00849,66,F,Valparaíso,8,124400.0,Electrónica,Online,3,40.0,6.0,1,30.0,1068700.0,1,Recurrente
+CLI-00850,28,M,Metropolitana,8,94900.0,Electrónica,Online,66,32.0,8.0,0,52.4,678100.0,1,Recurrente
+CLI-00851,38,F,Coquimbo,3,43100.0,Alimentos,Tienda física,97,29.0,7.0,0,33.6,169200.0,0,Nuevo
+CLI-00852,43,M,Biobío,4,79100.0,Ropa,Online,78,14.0,8.0,1,14.8,420200.0,1,Nuevo
+CLI-00853,42,F,Valparaíso,4,54300.0,Ropa,Tienda física,29,37.0,5.0,0,,261800.0,1,Nuevo
+CLI-00854,39,F,Coquimbo,1,36000.0,Alimentos,Tienda física,35,22.0,7.0,1,39.4,159000.0,0,Nuevo
+CLI-00855,44,M,Metropolitana,4,56000.0,Alimentos,Tienda física,13,34.0,3.0,0,30.6,255400.0,1,Nuevo
+CLI-00856,66,M,Coquimbo,8,24500.0,Electrónica,Online,9,27.0,8.0,1,34.6,356400.0,1,Recurrente
+CLI-00857,30,M,Valparaíso,8,151500.0,Hogar,Online,78,28.0,10.0,0,40.0,1118000.0,1,Recurrente
+CLI-00858,50,M,Metropolitana,4,146800.0,Alimentos,Online,73,57.0,,1,1.6,616600.0,0,Recurrente
+CLI-00859,51,M,Biobío,5,38500.0,Ropa,Online,68,22.0,8.0,0,40.7,291700.0,1,Recurrente
+CLI-00860,58,F,Biobío,12,129100.0,Ropa,Tienda física,29,60.0,8.0,1,26.0,1480100.0,1,Recurrente
+CLI-00861,52,F,Biobío,6,43500.0,Electrónica,App móvil,90,57.0,5.0,0,,278700.0,1,Recurrente
+CLI-00862,18,M,Coquimbo,11,126400.0,Hogar,Online,118,43.0,6.0,1,30.3,1321700.0,1,Recurrente
+CLI-00863,38,M,Biobío,3,139300.0,Deportes,Online,18,58.0,5.0,1,23.8,511400.0,1,Recurrente
+CLI-00864,65,M,Valparaíso,10,122500.0,Alimentos,Online,12,3.0,6.0,1,22.8,1163100.0,1,Recurrente
+CLI-00865,23,F,Araucanía,8,18800.0,Alimentos,App móvil,29,,4.0,0,41.5,252500.0,1,Recurrente
+CLI-00866,45,M,Biobío,7,53600.0,Electrónica,Online,9,58.0,6.0,1,9.2,471700.0,1,Recurrente
+CLI-00867,34,F,Metropolitana,11,123600.0,Hogar,App móvil,97,,6.0,0,53.0,1276100.0,1,Recurrente
+CLI-00868,22,F,Araucanía,5,117200.0,Ropa,Online,19,21.0,9.0,1,31.0,706800.0,1,Recurrente
+CLI-00869,48,F,Metropolitana,14,42000.0,Ropa,Online,39,16.0,,1,30.9,631300.0,1,Recurrente
+CLI-00870,22,F,Biobío,6,77300.0,Deportes,Online,41,9.0,9.0,1,15.1,527000.0,1,Recurrente
+CLI-00871,55,M,Araucanía,5,121500.0,Ropa,Tienda física,33,13.0,7.0,1,4.9,656100.0,1,Recurrente
+CLI-00872,20,No especifica,Biobío,6,120800.0,Alimentos,Tienda física,8,10.0,6.0,0,25.2,644400.0,0,Recurrente
+CLI-00873,70,M,Biobío,11,126700.0,Deportes,Tienda física,212,49.0,7.0,1,33.1,1304000.0,1,Recurrente
+CLI-00874,40,M,Biobío,8,102200.0,Hogar,Online,9,57.0,6.0,0,34.6,833900.0,1,Recurrente
+CLI-00875,54,F,Valparaíso,4,117500.0,Deportes,Online,63,21.0,8.0,0,43.6,469400.0,1,Nuevo
+CLI-00876,70,No especifica,Araucanía,8,113700.0,Hogar,Online,71,49.0,10.0,0,4.6,865000.0,0,Recurrente
+CLI-00877,54,F,Metropolitana,11,107600.0,Ropa,Tienda física,8,42.0,6.0,1,,1165200.0,1,Recurrente
+CLI-00878,27,M,Metropolitana,7,62000.0,Electrónica,Online,122,40.0,7.0,1,33.0,522400.0,1,Recurrente
+CLI-00879,27,M,Metropolitana,10,56300.0,Deportes,Tienda física,31,7.0,8.0,0,45.5,544700.0,1,Recurrente
+CLI-00880,36,No especifica,Valparaíso,9,129600.0,Deportes,Online,45,46.0,9.0,1,7.5,1144700.0,1,Recurrente
+CLI-00881,34,M,Valparaíso,9,37300.0,Alimentos,Online,47,22.0,5.0,0,28.3,325400.0,1,Recurrente
+CLI-00882,38,F,Araucanía,10,58000.0,Alimentos,Tienda física,32,18.0,6.0,0,32.6,548900.0,1,Recurrente
+CLI-00883,31,F,Metropolitana,7,61700.0,Hogar,Online,7,21.0,9.0,0,60.2,378300.0,1,Recurrente
+CLI-00884,26,F,Valparaíso,8,89400.0,Electrónica,Tienda física,63,51.0,3.0,1,29.2,756700.0,1,Recurrente
+CLI-00885,63,M,Metropolitana,5,86000.0,Alimentos,Online,40,50.0,8.0,1,19.0,524900.0,1,Recurrente
+CLI-00886,18,F,Metropolitana,11,207100.0,Alimentos,Online,6,14.0,9.0,0,46.7,2016400.0,1,VIP
+CLI-00887,68,M,Valparaíso,4,75000.0,Ropa,App móvil,55,10.0,10.0,0,5.9,324400.0,1,Nuevo
+CLI-00888,62,F,Metropolitana,4,59400.0,Ropa,Online,55,33.0,1.0,0,33.1,284600.0,1,Nuevo
+CLI-00889,30,F,Metropolitana,9,71500.0,Alimentos,Tienda física,36,9.0,6.0,1,40.0,607300.0,1,Recurrente
+CLI-00890,21,F,Metropolitana,9,49700.0,Hogar,App móvil,5,18.0,5.0,0,32.0,408300.0,0,Recurrente
+CLI-00891,18,M,Metropolitana,9,41600.0,Electrónica,Online,20,13.0,7.0,1,29.8,454700.0,1,Recurrente
+CLI-00892,66,No especifica,Valparaíso,6,61100.0,Alimentos,App móvil,3,59.0,8.0,1,12.0,541200.0,1,Recurrente
+CLI-00893,57,M,Metropolitana,5,150600.0,Hogar,Online,30,17.0,10.0,0,34.0,677300.0,0,Recurrente
+CLI-00894,49,M,Biobío,5,108200.0,Hogar,Tienda física,614,23.0,7.0,1,14.2,578300.0,1,Recurrente
+CLI-00895,51,M,Araucanía,8,76000.0,Alimentos,Tienda física,1,25.0,7.0,0,35.5,621200.0,1,Recurrente
+CLI-00896,45,F,Valparaíso,7,102200.0,Hogar,App móvil,14,54.0,7.0,1,14.6,857000.0,1,Recurrente
+CLI-00897,48,F,Coquimbo,7,59000.0,Deportes,Tienda física,73,16.0,4.0,0,20.9,441400.0,1,Recurrente
+CLI-00898,25,F,Valparaíso,7,30700.0,Hogar,Tienda física,1,24.0,6.0,1,25.0,372900.0,0,Recurrente
+CLI-00899,56,M,Valparaíso,6,163500.0,Alimentos,Tienda física,1,31.0,5.0,1,63.9,989000.0,1,Recurrente
+CLI-00900,43,M,Coquimbo,5,63000.0,Hogar,Online,43,11.0,9.0,1,24.4,409900.0,1,Recurrente
+CLI-00901,51,F,Metropolitana,5,174300.0,Alimentos,Tienda física,71,23.0,7.0,1,19.5,940400.0,1,Recurrente
+CLI-00902,71,M,Coquimbo,8,41600.0,Ropa,Online,68,41.0,6.0,1,25.7,432300.0,0,Recurrente
+CLI-00903,71,F,Metropolitana,8,21800.0,Alimentos,Tienda física,516,39.0,7.0,0,17.0,199700.0,1,Recurrente
+CLI-00904,20,No especifica,Metropolitana,7,49100.0,Hogar,Tienda física,21,22.0,5.0,0,,352000.0,1,Recurrente
+CLI-00905,67,No especifica,Metropolitana,6,54000.0,Alimentos,App móvil,97,33.0,5.0,0,17.5,329200.0,0,Recurrente
+CLI-00906,29,No especifica,Biobío,6,61100.0,Electrónica,Tienda física,1,41.0,,1,8.3,462800.0,1,Recurrente
+CLI-00907,18,F,Valparaíso,9,68000.0,Alimentos,Tienda física,17,42.0,10.0,1,36.9,726100.0,1,Recurrente
+CLI-00908,71,M,Biobío,6,60100.0,Alimentos,Online,19,48.0,3.0,1,,451600.0,1,Recurrente
+CLI-00909,61,M,Metropolitana,2,117800.0,Electrónica,Online,9,53.0,,1,24.2,389400.0,1,Nuevo
+CLI-00910,22,F,Metropolitana,3,59800.0,Electrónica,Tienda física,19,,7.0,1,59.3,305300.0,1,Nuevo
+CLI-00911,47,F,Metropolitana,8,96600.0,Electrónica,Tienda física,40,14.0,6.0,1,71.2,730700.0,1,Recurrente
+CLI-00912,47,M,Metropolitana,12,65800.0,Deportes,Tienda física,34,28.0,,1,17.3,861900.0,1,Recurrente
+CLI-00913,34,M,Coquimbo,10,66000.0,Alimentos,Tienda física,18,11.0,5.0,1,34.2,748200.0,1,Recurrente
+CLI-00914,65,M,Metropolitana,10,81400.0,Electrónica,Online,63,24.0,2.0,0,27.4,769100.0,0,Recurrente
+CLI-00915,64,F,Araucanía,7,36200.0,Electrónica,Tienda física,57,36.0,5.0,1,2.1,255800.0,1,Recurrente
+CLI-00916,40,F,Araucanía,3,66500.0,Ropa,Online,15,19.0,5.0,1,44.9,304100.0,1,Nuevo
+CLI-00917,32,F,Metropolitana,7,25700.0,Deportes,Online,18,13.0,2.0,1,11.8,202800.0,1,Recurrente
+CLI-00918,54,M,Valparaíso,11,86100.0,Alimentos,Online,16,33.0,,1,20.7,990400.0,1,Recurrente
+CLI-00919,38,No especifica,Metropolitana,7,37400.0,Hogar,Tienda física,7,53.0,7.0,1,10.9,437000.0,1,Recurrente
+CLI-00920,31,F,Metropolitana,9,82800.0,Deportes,Tienda física,63,,8.0,1,7.6,787400.0,1,Recurrente
+CLI-00921,19,M,Metropolitana,9,64600.0,Deportes,Online,3,47.0,6.0,0,18.3,501300.0,1,Recurrente
+CLI-00922,28,M,Valparaíso,9,111400.0,Ropa,Tienda física,8,,5.0,0,12.7,939900.0,0,Recurrente
+CLI-00923,68,M,Metropolitana,9,107100.0,Alimentos,Online,6,32.0,5.0,0,43.1,849100.0,1,Recurrente
+CLI-00924,56,M,Valparaíso,4,56600.0,Alimentos,App móvil,79,15.0,9.0,1,14.8,339600.0,1,Nuevo
+CLI-00925,55,No especifica,Valparaíso,2,99300.0,Electrónica,Tienda física,3,57.0,5.0,1,22.0,341800.0,1,Nuevo
+CLI-00926,51,F,Metropolitana,8,26300.0,Electrónica,Online,50,11.0,9.0,1,4.6,348300.0,1,Recurrente
+CLI-00927,55,F,Biobío,7,110500.0,Deportes,App móvil,3,23.0,7.0,1,1.6,795300.0,1,Recurrente
+CLI-00928,67,M,Biobío,7,26300.0,Ropa,Online,70,59.0,10.0,0,58.1,327500.0,1,Recurrente
+CLI-00929,51,M,Metropolitana,5,88400.0,Alimentos,Tienda física,110,5.0,7.0,1,21.0,508600.0,1,Recurrente
+CLI-00930,35,F,Metropolitana,13,76900.0,Ropa,Tienda física,31,56.0,5.0,1,33.1,1006200.0,1,Recurrente
+CLI-00931,47,M,Biobío,7,11700.0,Hogar,Online,74,22.0,7.0,1,33.6,208400.0,0,Recurrente
+CLI-00932,32,F,Metropolitana,7,70900.0,Alimentos,Tienda física,56,42.0,8.0,0,28.9,550900.0,1,Recurrente
+CLI-00933,44,No especifica,Biobío,8,133500.0,Electrónica,Online,72,18.0,8.0,1,54.3,1092000.0,1,Recurrente
+CLI-00934,68,F,Metropolitana,7,77100.0,Deportes,App móvil,66,7.0,7.0,0,5.3,421900.0,0,Recurrente
+CLI-00935,51,F,Metropolitana,6,65100.0,Ropa,Online,11,33.0,2.0,1,77.2,425700.0,1,Recurrente
+CLI-00936,69,M,Metropolitana,4,135800.0,Electrónica,Online,32,3.0,8.0,0,24.4,486500.0,1,Nuevo
+CLI-00937,55,M,Metropolitana,9,76000.0,Deportes,Tienda física,146,28.0,10.0,1,8.7,787200.0,1,Recurrente
+CLI-00938,50,M,Valparaíso,9,80200.0,Electrónica,Online,19,1.0,10.0,0,36.1,702500.0,1,Recurrente
+CLI-00939,41,F,Metropolitana,6,54500.0,Alimentos,Tienda física,159,49.0,8.0,1,38.5,486900.0,1,Recurrente
+CLI-00940,32,M,Biobío,5,63700.0,Ropa,App móvil,40,47.0,1.0,1,44.1,446200.0,1,Recurrente
+CLI-00941,47,M,Araucanía,7,43800.0,Hogar,Tienda física,28,37.0,4.0,0,35.3,376400.0,1,Recurrente
+CLI-00942,59,F,Valparaíso,7,57500.0,Electrónica,Online,49,22.0,9.0,1,18.9,510300.0,1,Recurrente
+CLI-00943,68,M,Biobío,13,54700.0,Ropa,Tienda física,77,48.0,9.0,0,23.5,739700.0,1,Recurrente
+CLI-00944,34,M,Metropolitana,6,38600.0,Alimentos,App móvil,23,44.0,10.0,1,24.2,392600.0,1,Recurrente
+CLI-00945,22,M,Metropolitana,1,73700.0,Electrónica,Online,2,19.0,7.0,1,52.7,232100.0,1,Nuevo
+CLI-00946,46,No especifica,Biobío,7,231100.0,Alimentos,Tienda física,56,14.0,9.0,1,11.3,1502300.0,1,Recurrente
+CLI-00947,21,F,Metropolitana,5,81200.0,Hogar,Online,141,3.0,9.0,1,,447700.0,1,Recurrente
+CLI-00948,27,F,Valparaíso,5,101900.0,Hogar,App móvil,45,19.0,8.0,0,12.5,476100.0,1,Recurrente
+CLI-00949,34,M,Metropolitana,3,89700.0,Deportes,Tienda física,10,33.0,9.0,0,46.5,305100.0,1,Nuevo
+CLI-00950,27,No especifica,Valparaíso,12,53100.0,Deportes,App móvil,13,21.0,4.0,1,58.9,691300.0,1,Recurrente
+CLI-00951,34,F,Araucanía,4,114900.0,Deportes,App móvil,109,1.0,8.0,1,0.7,561300.0,1,Recurrente
+CLI-00952,37,M,Araucanía,5,56000.0,Alimentos,Online,1,26.0,,1,49.9,381000.0,1,Recurrente
+CLI-00953,41,F,Biobío,10,143000.0,Deportes,Online,36,10.0,4.0,0,4.6,1323400.0,1,Recurrente
+CLI-00954,22,M,Biobío,3,76000.0,Ropa,Online,8,35.0,8.0,1,44.9,349100.0,1,Nuevo
+CLI-00955,51,F,Valparaíso,8,75600.0,Alimentos,Online,15,13.0,6.0,1,12.1,640300.0,1,Recurrente
+CLI-00956,23,F,Valparaíso,11,65800.0,Alimentos,Tienda física,17,,9.0,1,41.5,756000.0,1,Recurrente
+CLI-00957,70,M,Metropolitana,7,83000.0,Deportes,Tienda física,12,43.0,8.0,1,26.7,646500.0,1,Recurrente
+CLI-00958,19,No especifica,Metropolitana,7,130800.0,Deportes,Online,71,6.0,10.0,0,,820500.0,0,Recurrente
+CLI-00959,30,F,Valparaíso,7,63500.0,Alimentos,Tienda física,467,35.0,8.0,1,8.4,530700.0,1,Recurrente
+CLI-00960,60,F,Coquimbo,8,99800.0,Hogar,Tienda física,20,16.0,7.0,1,17.1,777600.0,1,Recurrente
+CLI-00961,60,M,Metropolitana,4,47700.0,Hogar,Online,28,41.0,1.0,0,53.0,191800.0,0,Nuevo
+CLI-00962,65,M,Valparaíso,5,92200.0,Deportes,Online,105,8.0,9.0,1,8.4,524100.0,0,Recurrente
+CLI-00963,28,M,Valparaíso,9,79600.0,Hogar,Tienda física,53,59.0,7.0,0,28.9,702500.0,1,Recurrente
+CLI-00964,68,F,Valparaíso,5,47500.0,Ropa,Tienda física,3,3.0,8.0,1,38.4,306000.0,1,Recurrente
+CLI-00965,64,M,Biobío,8,97400.0,Ropa,App móvil,2,5.0,4.0,1,,799100.0,1,Recurrente
+CLI-00966,40,F,Metropolitana,7,75800.0,Ropa,Online,38,21.0,9.0,0,14.7,468700.0,1,Recurrente
+CLI-00967,33,F,Valparaíso,5,70400.0,Alimentos,Tienda física,99,31.0,7.0,0,48.1,389000.0,0,Recurrente
+CLI-00968,48,M,Araucanía,4,30800.0,Alimentos,Tienda física,18,,10.0,1,12.6,256000.0,1,Nuevo
+CLI-00969,28,F,Valparaíso,9,64500.0,Alimentos,Online,13,37.0,8.0,1,47.3,666300.0,1,Recurrente
+CLI-00970,71,M,Metropolitana,9,146800.0,Alimentos,Online,63,19.0,,1,46.8,1209000.0,0,Recurrente
+CLI-00971,33,No especifica,Biobío,5,109500.0,Alimentos,Online,42,37.0,7.0,1,30.8,608100.0,1,Recurrente
+CLI-00972,25,F,Araucanía,4,75100.0,Deportes,Online,38,53.0,9.0,0,24.4,375700.0,1,Nuevo
+CLI-00973,21,M,Metropolitana,7,202000.0,Hogar,Online,8,20.0,9.0,0,52.2,1254700.0,1,Recurrente
+CLI-00974,57,M,Biobío,10,152700.0,Deportes,Tienda física,9,52.0,7.0,0,22.1,1349300.0,1,Recurrente
+CLI-00975,21,M,Araucanía,9,208500.0,Hogar,Tienda física,15,2.0,10.0,1,10.8,1719300.0,1,VIP
+CLI-00976,42,F,Valparaíso,10,46100.0,Deportes,Tienda física,11,57.0,5.0,1,3.9,559500.0,1,Recurrente
+CLI-00977,20,F,Coquimbo,6,59300.0,Ropa,Online,161,,6.0,1,59.5,442700.0,1,Recurrente
+CLI-00978,49,F,Biobío,6,26100.0,Electrónica,Tienda física,1,33.0,8.0,1,25.3,326800.0,1,Recurrente
+CLI-00979,20,M,Biobío,7,34600.0,Alimentos,Tienda física,617,53.0,5.0,1,6.6,378600.0,1,Recurrente
+CLI-00980,44,M,Biobío,5,40600.0,Electrónica,App móvil,33,50.0,7.0,0,23.5,280700.0,1,Recurrente
+CLI-00981,46,M,Metropolitana,5,129500.0,Electrónica,App móvil,18,42.0,8.0,0,51.4,672400.0,1,Recurrente
+CLI-00982,49,F,Metropolitana,5,130800.0,Ropa,Tienda física,99,6.0,8.0,0,29.8,597500.0,1,Recurrente
+CLI-00983,67,F,Valparaíso,4,94400.0,Electrónica,Tienda física,50,7.0,4.0,0,30.3,365600.0,1,Nuevo
+CLI-00984,68,M,Metropolitana,2,14000.0,Electrónica,Online,289,44.0,,1,23.8,154000.0,0,Nuevo
+CLI-00985,36,M,Metropolitana,5,49400.0,Ropa,Online,9,18.0,7.0,1,8.1,329700.0,1,Recurrente
+CLI-00986,38,F,Araucanía,6,45000.0,Hogar,App móvil,5,43.0,7.0,0,22.8,367500.0,1,Recurrente
+CLI-00987,22,F,Araucanía,9,34900.0,Deportes,Tienda física,7,54.0,9.0,1,19.7,487500.0,1,Recurrente
+CLI-00988,35,F,Valparaíso,9,133300.0,Electrónica,Tienda física,15,29.0,5.0,1,25.0,1184600.0,1,Recurrente
+CLI-00989,45,F,Araucanía,8,75500.0,Alimentos,App móvil,25,19.0,8.0,1,58.4,629600.0,1,Recurrente
+CLI-00990,59,M,Biobío,5,38300.0,Ropa,Tienda física,90,25.0,8.0,1,24.3,267100.0,0,Recurrente
+CLI-00991,39,M,Metropolitana,4,74200.0,Electrónica,Online,16,4.0,8.0,1,57.0,348300.0,1,Nuevo
+CLI-00992,38,F,Metropolitana,8,80900.0,Hogar,Online,112,51.0,7.0,0,21.3,649400.0,1,Recurrente
+CLI-00993,23,F,Valparaíso,4,89500.0,Hogar,Online,28,13.0,6.0,0,26.8,365800.0,1,Nuevo
+CLI-00994,18,M,Biobío,9,71800.0,Alimentos,Tienda física,47,32.0,6.0,1,29.3,745200.0,0,Recurrente
+CLI-00995,22,F,Metropolitana,4,66100.0,Electrónica,Tienda física,14,27.0,8.0,0,42.9,261000.0,1,Nuevo
+CLI-00996,58,F,Biobío,8,33900.0,Alimentos,App móvil,8,51.0,7.0,1,,389700.0,1,Recurrente
+CLI-00997,29,F,Metropolitana,9,65000.0,Hogar,Tienda física,92,34.0,6.0,0,7.6,617000.0,0,Recurrente
+CLI-00998,43,F,Biobío,8,67200.0,Hogar,Online,6,28.0,8.0,1,,562900.0,1,Recurrente
+CLI-00999,63,M,Araucanía,8,53700.0,Deportes,Online,67,9.0,9.0,1,14.2,507500.0,1,Recurrente
+CLI-01000,51,F,Biobío,6,52000.0,Hogar,Tienda física,40,8.0,3.0,0,32.1,232100.0,1,Recurrente
+CLI-01001,66,F,Coquimbo,8,55500.0,Ropa,App móvil,89,21.0,,1,37.2,522200.0,1,Recurrente
+CLI-01002,31,F,Araucanía,6,75500.0,Deportes,Online,57,46.0,3.0,0,29.6,514200.0,1,Recurrente
+CLI-01003,43,F,Coquimbo,5,32400.0,Alimentos,App móvil,15,30.0,7.0,0,6.9,225200.0,1,Recurrente
+CLI-01004,62,F,Coquimbo,5,43300.0,Hogar,Online,39,29.0,7.0,1,24.0,373600.0,1,Recurrente
+CLI-01005,44,M,Araucanía,6,80900.0,Ropa,Online,1,9.0,4.0,1,49.1,539800.0,1,Recurrente
+CLI-01006,26,F,Biobío,6,87500.0,Deportes,App móvil,30,13.0,10.0,1,51.9,607700.0,1,Recurrente
+CLI-01007,43,F,Metropolitana,8,122300.0,Ropa,Online,5,18.0,7.0,1,12.7,919300.0,1,Recurrente
+CLI-01008,64,F,Valparaíso,8,226400.0,Deportes,Tienda física,26,38.0,4.0,0,34.2,1667100.0,1,Recurrente
+CLI-01009,39,F,Valparaíso,12,93800.0,Deportes,Online,6,55.0,8.0,0,45.5,1111700.0,1,Recurrente
+CLI-01010,64,F,Metropolitana,8,37500.0,Deportes,App móvil,141,22.0,8.0,0,18.5,299000.0,1,Recurrente
+CLI-01011,47,F,Metropolitana,7,122900.0,Alimentos,App móvil,34,31.0,10.0,0,20.3,864400.0,0,Recurrente
+CLI-01012,60,F,Coquimbo,9,48800.0,Deportes,App móvil,110,35.0,7.0,1,30.7,562200.0,1,Recurrente
+CLI-01013,65,M,Araucanía,9,46700.0,Deportes,Online,2,42.0,5.0,1,,532300.0,1,Recurrente
+CLI-01014,34,M,Araucanía,7,33000.0,Ropa,Online,46,,3.0,0,25.9,268100.0,1,Recurrente
+CLI-01015,43,F,Metropolitana,4,97100.0,Deportes,Tienda física,17,10.0,8.0,1,32.0,459100.0,1,Nuevo
+CLI-01016,53,F,Metropolitana,5,68400.0,Alimentos,Online,26,9.0,8.0,1,60.3,473700.0,1,Recurrente
+CLI-01017,18,M,Metropolitana,6,121000.0,Ropa,Tienda física,93,,10.0,0,18.8,708300.0,1,Recurrente
+CLI-01018,25,M,Metropolitana,6,44700.0,Deportes,Tienda física,177,44.0,8.0,1,4.1,414900.0,1,Recurrente
+CLI-01019,66,F,Metropolitana,3,31700.0,Ropa,Online,13,56.0,10.0,1,30.6,327700.0,1,Nuevo
+CLI-01020,52,M,Metropolitana,11,124900.0,Alimentos,Tienda física,134,40.0,10.0,1,11.6,1380700.0,0,Recurrente
+CLI-01021,69,M,Coquimbo,6,1351680.0,Ropa,App móvil,53,24.0,7.0,0,31.6,709600.0,1,Recurrente
+CLI-01022,32,M,Biobío,11,48400.0,Alimentos,App móvil,137,41.0,4.0,1,23.1,584200.0,1,Recurrente
+CLI-01023,64,M,Metropolitana,6,54700.0,Hogar,Online,38,49.0,5.0,1,35.3,418100.0,1,Recurrente
+CLI-01024,39,M,Metropolitana,2,88700.0,Deportes,Online,146,8.0,,0,28.9,203700.0,0,Nuevo
+CLI-01025,31,M,Valparaíso,9,40400.0,Alimentos,Online,101,50.0,7.0,0,29.4,389600.0,1,Recurrente
+CLI-01026,43,M,Metropolitana,6,27000.0,Deportes,Online,7,20.0,4.0,1,19.0,250200.0,1,Recurrente
+CLI-01027,45,F,Coquimbo,12,61000.0,Alimentos,Online,17,17.0,6.0,1,24.6,745600.0,1,Recurrente
+CLI-01028,40,F,Metropolitana,7,67500.0,Electrónica,App móvil,13,28.0,6.0,1,25.8,556400.0,1,Recurrente
+CLI-01029,31,F,Metropolitana,9,97100.0,Electrónica,Online,39,6.0,1.0,0,15.8,747200.0,1,Recurrente
+CLI-01030,41,M,Metropolitana,4,86100.0,Electrónica,Online,74,,6.0,0,43.7,402200.0,0,Nuevo
+CLI-01031,19,M,Metropolitana,5,1605448.0,Alimentos,Online,65,33.0,4.0,1,33.4,463900.0,1,Recurrente
+CLI-01032,62,F,Valparaíso,4,68100.0,Deportes,Online,59,28.0,,0,32.7,255700.0,1,Nuevo
+CLI-01033,43,M,Biobío,4,32100.0,Electrónica,Online,22,53.0,5.0,1,37.3,258200.0,1,Nuevo
+CLI-01034,31,F,Biobío,7,58000.0,Deportes,Tienda física,7,57.0,9.0,0,10.5,428000.0,1,Recurrente
+CLI-01035,68,F,Metropolitana,10,92100.0,Alimentos,Tienda física,11,1.0,3.0,0,18.6,800700.0,1,Recurrente
+CLI-01036,24,F,Valparaíso,6,74000.0,Deportes,Online,61,,9.0,0,10.2,459600.0,1,Recurrente
+CLI-01037,20,M,Valparaíso,5,264500.0,Deportes,Online,8,,8.0,1,52.4,1267600.0,1,Recurrente
+CLI-01038,64,M,Araucanía,5,95200.0,Electrónica,Tienda física,12,35.0,7.0,1,11.0,522100.0,1,Recurrente
+CLI-01039,40,F,Metropolitana,7,40800.0,Ropa,Online,25,24.0,7.0,1,45.8,392000.0,1,Recurrente
+CLI-01040,63,M,Metropolitana,5,88900.0,Hogar,Online,4,6.0,6.0,1,29.6,522000.0,1,Recurrente
+CLI-01041,60,F,Valparaíso,7,127300.0,Alimentos,App móvil,11,7.0,4.0,1,49.9,844700.0,1,Recurrente
+CLI-01042,64,F,Valparaíso,10,28800.0,Alimentos,Tienda física,8,9.0,8.0,0,25.5,293000.0,1,Recurrente
+CLI-01043,62,No especifica,Valparaíso,4,803914.0,Alimentos,Tienda física,137,37.0,10.0,1,34.3,701500.0,1,Recurrente
+CLI-01044,35,M,Metropolitana,6,122600.0,Hogar,App móvil,10,16.0,10.0,0,23.2,689900.0,1,Recurrente
+CLI-01045,55,F,Valparaíso,12,154500.0,Ropa,Tienda física,90,34.0,8.0,1,18.0,1789600.0,1,VIP
+CLI-01046,52,F,Araucanía,9,144400.0,Deportes,App móvil,6,35.0,7.0,1,45.4,1336600.0,1,Recurrente
+CLI-01047,68,M,Valparaíso,11,74000.0,Alimentos,App móvil,92,35.0,7.0,1,5.6,835500.0,0,Recurrente
+CLI-01048,32,M,Coquimbo,4,47400.0,Deportes,Online,42,20.0,,0,39.8,209800.0,1,Nuevo
+CLI-01049,42,F,Valparaíso,4,95600.0,Electrónica,App móvil,86,58.0,9.0,1,14.6,532600.0,1,Recurrente
+CLI-01050,54,M,Coquimbo,8,64100.0,Electrónica,Online,91,23.0,6.0,1,18.8,577100.0,0,Recurrente
+CLI-01051,45,M,Araucanía,5,45200.0,Electrónica,Online,41,60.0,10.0,1,9.7,414500.0,1,Recurrente
+CLI-01052,27,M,Metropolitana,4,44300.0,Alimentos,App móvil,113,42.0,6.0,0,41.3,227300.0,1,Nuevo
+CLI-01053,56,F,Araucanía,5,146000.0,Hogar,App móvil,40,54.0,7.0,1,13.9,794800.0,1,Recurrente
+CLI-01054,34,F,Metropolitana,7,58700.0,Alimentos,Tienda física,57,35.0,10.0,0,42.2,454500.0,1,Recurrente
+CLI-01055,56,F,Coquimbo,5,53900.0,Electrónica,Online,25,47.0,10.0,1,18.2,422700.0,1,Recurrente
+CLI-01056,39,M,Valparaíso,10,57100.0,Electrónica,Tienda física,111,46.0,8.0,1,45.4,646100.0,0,Recurrente
+CLI-01057,43,M,Metropolitana,6,103600.0,Alimentos,Tienda física,79,,6.0,1,50.5,669700.0,1,Recurrente
+CLI-01058,61,F,Valparaíso,7,167700.0,Hogar,Online,9,4.0,5.0,0,30.0,1031400.0,0,Recurrente
+CLI-01059,42,F,Coquimbo,6,43900.0,Hogar,App móvil,39,10.0,3.0,1,47.3,248100.0,1,Recurrente
+CLI-01060,34,M,Metropolitana,5,148300.0,Deportes,Online,103,,8.0,0,14.7,720200.0,1,Recurrente
+CLI-01061,30,F,Valparaíso,6,100700.0,Ropa,Online,71,11.0,7.0,1,36.6,668900.0,0,Recurrente
+CLI-01062,37,No especifica,Biobío,6,43200.0,Electrónica,Online,445,40.0,7.0,1,16.0,370200.0,1,Recurrente
+CLI-01063,42,F,Araucanía,7,95300.0,Hogar,Online,12,55.0,7.0,1,50.5,725700.0,1,Recurrente
+CLI-01064,21,F,Metropolitana,5,63300.0,Electrónica,Tienda física,21,55.0,7.0,1,58.3,427800.0,1,Recurrente
+CLI-01065,27,No especifica,Metropolitana,8,165600.0,Ropa,Online,32,9.0,7.0,0,78.0,1181700.0,1,Recurrente
+CLI-01066,20,M,Metropolitana,6,44100.0,Electrónica,Tienda física,12,40.0,10.0,1,27.5,373300.0,1,Recurrente
+CLI-01067,58,F,Valparaíso,6,100300.0,Hogar,Online,23,12.0,2.0,0,18.4,543100.0,1,Recurrente
+CLI-01068,62,No especifica,Valparaíso,7,31200.0,Deportes,Tienda física,35,17.0,9.0,1,22.0,335800.0,1,Recurrente
+CLI-01069,35,M,Coquimbo,10,67300.0,Alimentos,Tienda física,10,32.0,6.0,0,41.8,600400.0,1,Recurrente
+CLI-01070,64,F,Metropolitana,4,147200.0,Alimentos,Online,14,23.0,8.0,1,30.5,676400.0,1,Recurrente
+CLI-01071,53,F,Biobío,7,152700.0,Hogar,Tienda física,7,15.0,10.0,0,13.5,1014100.0,1,Recurrente
+CLI-01072,64,F,Metropolitana,8,40500.0,Hogar,Tienda física,57,51.0,6.0,0,44.4,374100.0,1,Recurrente
+CLI-01073,39,F,Metropolitana,6,26500.0,Ropa,Tienda física,21,28.0,3.0,1,44.4,264900.0,1,Recurrente
+CLI-01074,51,No especifica,Valparaíso,11,63000.0,Electrónica,Tienda física,12,52.0,5.0,1,33.0,741400.0,1,Recurrente
+CLI-01075,64,F,Valparaíso,9,98700.0,Ropa,App móvil,32,38.0,5.0,1,6.7,891800.0,1,Recurrente
+CLI-01076,25,M,Biobío,5,50000.0,Alimentos,App móvil,4,5.0,8.0,1,34.4,325500.0,1,Recurrente
+CLI-01077,57,F,Coquimbo,7,49700.0,Electrónica,Online,116,40.0,3.0,0,18.2,381000.0,0,Recurrente
+CLI-01078,66,M,Valparaíso,11,106900.0,Ropa,Tienda física,16,18.0,3.0,0,14.0,1053300.0,1,Recurrente
+CLI-01079,61,M,Coquimbo,8,33400.0,Alimentos,Online,98,53.0,8.0,1,29.4,351600.0,0,Recurrente
+CLI-01080,36,F,Araucanía,3,70200.0,Electrónica,Online,31,21.0,7.0,1,26.0,274800.0,1,Nuevo
+CLI-01081,59,F,Valparaíso,6,92600.0,Deportes,Online,86,15.0,7.0,1,30.3,580400.0,0,Recurrente
+CLI-01082,58,M,Araucanía,6,46400.0,Deportes,App móvil,13,3.0,7.0,0,42.1,261300.0,1,Recurrente
+CLI-01083,54,No especifica,Valparaíso,4,46100.0,Ropa,Tienda física,9,46.0,8.0,0,17.1,264900.0,1,Nuevo
+CLI-01084,23,F,Metropolitana,6,185700.0,Hogar,Online,86,26.0,4.0,1,18.0,1062100.0,1,Recurrente
+CLI-01085,69,F,Biobío,5,125400.0,Electrónica,Online,11,15.0,7.0,0,40.3,598500.0,1,Recurrente
+CLI-01086,43,M,Metropolitana,9,48300.0,Ropa,App móvil,62,45.0,,1,18.0,596400.0,0,Recurrente
+CLI-01087,51,No especifica,Valparaíso,10,33500.0,Hogar,Online,20,53.0,6.0,1,53.5,440900.0,0,Recurrente
+CLI-01088,62,No especifica,Biobío,9,52000.0,Hogar,Online,63,20.0,8.0,1,48.1,514300.0,1,Recurrente
+CLI-01089,23,F,Metropolitana,6,92900.0,Electrónica,App móvil,108,59.0,9.0,0,51.3,555800.0,1,Recurrente
+CLI-01090,54,M,Metropolitana,8,68100.0,Electrónica,Tienda física,180,,9.0,0,27.0,502200.0,0,Recurrente
+CLI-01091,50,M,Coquimbo,8,41700.0,Hogar,Online,21,26.0,8.0,0,,371400.0,1,Recurrente
+CLI-01092,70,M,Valparaíso,8,97200.0,Alimentos,Tienda física,21,,8.0,1,11.4,852900.0,1,Recurrente
+CLI-01093,39,M,Metropolitana,10,35300.0,Ropa,App móvil,180,23.0,,1,32.4,471500.0,1,Recurrente
+CLI-01094,38,M,Biobío,7,86600.0,Electrónica,App móvil,89,49.0,8.0,0,32.4,582600.0,0,Recurrente
+CLI-01095,23,No especifica,Valparaíso,6,190700.0,Hogar,Online,3,51.0,7.0,0,66.5,1057300.0,1,Recurrente
+CLI-01096,23,F,Valparaíso,10,78200.0,Alimentos,Online,39,25.0,4.0,0,15.6,703300.0,0,Recurrente
+CLI-01097,65,M,Coquimbo,7,80300.0,Deportes,Online,9,4.0,6.0,1,33.3,644100.0,1,Recurrente
+CLI-01098,21,M,Biobío,6,43300.0,Hogar,Tienda física,231,52.0,5.0,1,35.1,397100.0,0,Recurrente
+CLI-01099,47,M,Metropolitana,11,62900.0,Alimentos,Tienda física,7,10.0,6.0,1,61.6,713400.0,1,Recurrente
+CLI-01100,28,M,Araucanía,8,53300.0,Deportes,Online,37,22.0,7.0,1,30.9,512200.0,1,Recurrente
+CLI-01101,47,M,Araucanía,5,79900.0,Alimentos,Tienda física,50,3.0,10.0,1,3.0,460300.0,1,Recurrente
+CLI-01102,48,M,Metropolitana,9,51600.0,Electrónica,Tienda física,125,19.0,10.0,1,20.4,559600.0,1,Recurrente
+CLI-01103,41,F,Metropolitana,10,54100.0,Hogar,Tienda física,85,31.0,8.0,1,12.5,602700.0,0,Recurrente
+CLI-01104,26,No especifica,Metropolitana,5,121300.0,Deportes,App móvil,13,9.0,10.0,1,44.6,699200.0,1,Recurrente
+CLI-01105,20,M,Biobío,7,72800.0,Alimentos,Tienda física,39,29.0,10.0,0,13.8,491800.0,1,Recurrente
+CLI-01106,68,M,Valparaíso,5,103400.0,Deportes,Online,139,37.0,9.0,1,3.1,614500.0,1,Recurrente
+CLI-01107,48,F,Valparaíso,9,206600.0,Ropa,Tienda física,546,46.0,3.0,1,23.6,1750800.0,0,VIP
+CLI-01108,57,M,Coquimbo,6,83400.0,Hogar,App móvil,53,7.0,7.0,0,13.5,466300.0,1,Recurrente
+CLI-01109,54,M,Biobío,3,180500.0,Electrónica,Online,64,53.0,,0,9.7,562700.0,1,Recurrente
+CLI-01110,53,F,Metropolitana,9,74400.0,Deportes,App móvil,18,38.0,4.0,0,46.6,628700.0,1,Recurrente
+CLI-01111,41,M,Metropolitana,8,102500.0,Alimentos,Online,59,24.0,9.0,0,39.8,743400.0,1,Recurrente
+CLI-01112,48,F,Metropolitana,10,123500.0,Deportes,Online,12,8.0,4.0,0,17.6,1131400.0,1,Recurrente
+CLI-01113,23,F,Metropolitana,7,61500.0,Alimentos,Online,26,34.0,6.0,1,5.9,506000.0,1,Recurrente
+CLI-01114,19,M,Biobío,4,93800.0,Deportes,App móvil,100,59.0,3.0,0,40.5,365600.0,1,Nuevo
+CLI-01115,37,M,Araucanía,10,59800.0,Electrónica,Tienda física,1,57.0,,0,17.2,590000.0,1,Recurrente
+CLI-01116,45,F,Metropolitana,7,89500.0,Electrónica,Online,25,26.0,8.0,1,21.7,723600.0,1,Recurrente
+CLI-01117,28,M,Valparaíso,7,49000.0,Hogar,App móvil,14,60.0,8.0,1,7.1,551900.0,1,Recurrente
+CLI-01118,21,M,Biobío,6,38800.0,Electrónica,Tienda física,10,28.0,6.0,0,19.0,272600.0,1,Recurrente
+CLI-01119,32,F,Metropolitana,7,46800.0,Deportes,App móvil,83,28.0,8.0,1,6.5,455800.0,1,Recurrente
+CLI-01120,23,F,Metropolitana,7,63500.0,Deportes,Online,54,46.0,8.0,1,,608400.0,1,Recurrente
+CLI-01121,71,M,Valparaíso,9,75000.0,Electrónica,Online,6,54.0,8.0,1,63.5,729700.0,1,Recurrente
+CLI-01122,66,F,Metropolitana,8,122300.0,Ropa,Tienda física,31,7.0,6.0,0,28.5,881800.0,0,Recurrente
+CLI-01123,47,M,Coquimbo,5,180500.0,Deportes,Tienda física,29,3.0,3.0,1,15.6,920500.0,1,Recurrente
+CLI-01124,55,F,Metropolitana,7,1650090.0,Hogar,Tienda física,7,52.0,2.0,1,39.0,506600.0,0,Recurrente
+CLI-01125,68,F,Metropolitana,4,39700.0,Ropa,Tienda física,73,22.0,8.0,1,47.5,273200.0,1,Nuevo
+CLI-01126,19,F,Valparaíso,8,141100.0,Electrónica,Tienda física,21,55.0,6.0,0,33.8,1066300.0,1,Recurrente
+CLI-01127,32,F,Coquimbo,7,115900.0,Alimentos,Online,65,38.0,,0,43.7,811100.0,0,Recurrente
+CLI-01128,28,No especifica,Metropolitana,5,61900.0,Deportes,Tienda física,10,,5.0,0,18.5,356200.0,1,Recurrente
+CLI-01129,25,M,Metropolitana,8,74700.0,Alimentos,Online,18,46.0,8.0,0,17.0,575400.0,1,Recurrente
+CLI-01130,43,F,Metropolitana,3,1812783.0,Hogar,Online,5,44.0,8.0,0,24.6,239900.0,1,Nuevo
+CLI-01131,68,M,Metropolitana,7,142100.0,Ropa,Online,7,18.0,7.0,0,26.9,875000.0,1,Recurrente
+CLI-01132,62,M,Metropolitana,6,84200.0,Alimentos,Tienda física,97,12.0,8.0,1,10.7,541800.0,1,Recurrente
+CLI-01133,61,M,Valparaíso,7,56300.0,Hogar,App móvil,6,31.0,4.0,0,4.5,378200.0,1,Recurrente
+CLI-01134,22,No especifica,Metropolitana,14,88000.0,Alimentos,Online,5,39.0,6.0,0,14.1,1123400.0,1,Recurrente
+CLI-01135,23,No especifica,Metropolitana,6,90300.0,Alimentos,Online,127,5.0,6.0,1,56.8,551200.0,1,Recurrente
+CLI-01136,43,M,Araucanía,9,153300.0,Hogar,Online,47,44.0,6.0,0,24.7,1267900.0,0,Recurrente
+CLI-01137,71,M,Metropolitana,11,116900.0,Deportes,App móvil,5,41.0,9.0,1,15.2,1256800.0,1,Recurrente
+CLI-01138,21,F,Metropolitana,4,31600.0,Alimentos,Tienda física,161,29.0,8.0,1,,286800.0,1,Nuevo
+CLI-01139,36,M,Metropolitana,3,128100.0,Hogar,App móvil,8,43.0,8.0,1,35.7,499500.0,1,Nuevo
+CLI-01140,37,M,Coquimbo,7,50200.0,Alimentos,App móvil,66,36.0,,1,44.5,442300.0,1,Recurrente
+CLI-01141,50,F,Metropolitana,12,133600.0,Deportes,Online,2,,5.0,1,11.2,1481100.0,1,Recurrente
+CLI-01142,37,F,Araucanía,10,26600.0,Hogar,Online,45,58.0,5.0,1,26.1,444500.0,1,Recurrente
+CLI-01143,66,No especifica,Biobío,10,124500.0,Alimentos,Tienda física,36,44.0,8.0,1,33.0,1257500.0,1,Recurrente
+CLI-01144,29,M,Metropolitana,7,87500.0,Electrónica,Online,11,18.0,6.0,1,37.4,609400.0,1,Recurrente
+CLI-01145,64,M,Coquimbo,6,101600.0,Deportes,Online,47,7.0,7.0,0,56.8,546600.0,1,Recurrente
+CLI-01146,18,F,Metropolitana,11,124500.0,Alimentos,Online,44,23.0,8.0,1,29.6,1314600.0,1,Recurrente
+CLI-01147,43,F,Metropolitana,6,68300.0,Ropa,Tienda física,73,33.0,10.0,1,34.9,452600.0,1,Recurrente
+CLI-01148,31,F,Araucanía,15,54600.0,Hogar,Tienda física,94,59.0,4.0,1,13.1,879800.0,1,Recurrente
+CLI-01149,55,F,Biobío,12,74600.0,Alimentos,Online,33,45.0,3.0,1,49.7,884500.0,1,Recurrente
+CLI-01150,54,M,Valparaíso,5,48800.0,Deportes,Tienda física,31,16.0,5.0,0,56.1,229600.0,1,Recurrente
+CLI-01151,28,F,Metropolitana,3,72600.0,Deportes,Online,44,37.0,8.0,0,12.9,248500.0,1,Nuevo
+CLI-01152,53,M,Valparaíso,10,47000.0,Ropa,Tienda física,59,51.0,5.0,1,8.0,603500.0,1,Recurrente
+CLI-01153,30,M,Biobío,6,99900.0,Ropa,Tienda física,459,25.0,8.0,0,38.0,597800.0,1,Recurrente
+CLI-01154,60,F,Metropolitana,10,68400.0,Alimentos,Online,32,9.0,8.0,0,48.0,618700.0,1,Recurrente
+CLI-01155,20,M,Metropolitana,7,120700.0,Electrónica,Tienda física,40,55.0,6.0,1,31.0,877300.0,1,Recurrente
+CLI-01156,50,M,Metropolitana,4,48900.0,Deportes,Tienda física,201,28.0,3.0,1,43.1,299800.0,1,Nuevo
+CLI-01157,23,F,Metropolitana,6,53000.0,Electrónica,Online,40,,6.0,0,40.8,359000.0,1,Recurrente
+CLI-01158,67,F,Araucanía,11,120300.0,Electrónica,Online,12,12.0,5.0,1,10.5,1236500.0,1,Recurrente
+CLI-01159,27,F,Metropolitana,9,42000.0,Alimentos,App móvil,40,18.0,5.0,0,13.3,312000.0,1,Recurrente
+CLI-01160,22,M,Coquimbo,4,34300.0,Hogar,Online,78,27.0,7.0,1,46.9,269100.0,1,Nuevo
+CLI-01161,40,F,Metropolitana,3,53100.0,Hogar,Tienda física,88,26.0,8.0,0,50.8,214800.0,1,Nuevo
+CLI-01162,27,M,Biobío,5,101000.0,Hogar,App móvil,73,56.0,3.0,1,40.5,602500.0,1,Recurrente
+CLI-01163,61,M,Metropolitana,4,68400.0,Ropa,Online,99,26.0,7.0,1,61.0,377600.0,1,Nuevo
+CLI-01164,19,No especifica,Metropolitana,9,131200.0,Deportes,Online,19,10.0,,0,,1044800.0,1,Recurrente
+CLI-01165,30,F,Metropolitana,7,90700.0,Ropa,App móvil,32,58.0,8.0,1,34.4,699900.0,1,Recurrente
+CLI-01166,57,F,Metropolitana,7,137200.0,Deportes,Online,69,17.0,9.0,1,52.9,994500.0,0,Recurrente
+CLI-01167,19,M,Valparaíso,5,97200.0,Deportes,Tienda física,14,51.0,9.0,0,8.7,503600.0,1,Recurrente
+CLI-01168,37,F,Coquimbo,6,22500.0,Deportes,Tienda física,21,32.0,6.0,1,14.1,255400.0,1,Recurrente
+CLI-01169,18,F,Biobío,9,79600.0,Alimentos,Tienda física,81,24.0,7.0,1,35.1,764500.0,1,Recurrente
+CLI-01170,54,F,Metropolitana,6,46900.0,Hogar,App móvil,67,43.0,9.0,0,47.8,342100.0,1,Recurrente
+CLI-01171,26,F,Metropolitana,7,80200.0,Ropa,App móvil,160,48.0,3.0,1,49.3,677100.0,0,Recurrente
+CLI-01172,34,M,Metropolitana,10,30800.0,Ropa,Tienda física,249,8.0,8.0,1,27.5,430700.0,1,Recurrente
+CLI-01173,26,M,Valparaíso,5,205600.0,Alimentos,App móvil,13,30.0,9.0,1,39.3,1020000.0,1,Recurrente
+CLI-01174,28,F,Biobío,5,38600.0,Deportes,App móvil,104,26.0,6.0,1,20.7,364600.0,1,Recurrente
+CLI-01175,32,M,Coquimbo,7,106000.0,Hogar,App móvil,5,24.0,7.0,0,15.3,723000.0,1,Recurrente
+CLI-01176,41,M,Metropolitana,9,72300.0,Electrónica,Tienda física,56,,8.0,1,15.5,709400.0,1,Recurrente
+CLI-01177,55,No especifica,Valparaíso,6,38900.0,Electrónica,Online,12,15.0,3.0,0,19.2,211500.0,1,Recurrente
+CLI-01178,52,F,Valparaíso,5,70800.0,Alimentos,Tienda física,17,28.0,,1,26.6,442600.0,1,Recurrente
+CLI-01179,47,F,Biobío,7,140600.0,Hogar,Online,132,11.0,6.0,1,2.9,902300.0,1,Recurrente
+CLI-01180,48,F,Valparaíso,9,59800.0,Electrónica,Online,14,39.0,1.0,1,20.3,605600.0,1,Recurrente
+CLI-01181,66,F,Biobío,6,87900.0,Electrónica,Online,51,2.0,5.0,1,21.4,516100.0,1,Recurrente
+CLI-01182,22,M,Biobío,7,132000.0,Ropa,App móvil,9,51.0,6.0,1,24.0,971200.0,1,Recurrente
+CLI-01183,61,M,Metropolitana,7,92800.0,Hogar,Online,5,9.0,5.0,1,32.9,653600.0,1,Recurrente
+CLI-01184,67,M,Biobío,3,95100.0,Electrónica,Tienda física,19,50.0,,1,23.5,426300.0,1,Nuevo
+CLI-01185,31,M,Metropolitana,13,32300.0,Ropa,Tienda física,45,45.0,7.0,1,38.6,507400.0,1,Recurrente
+CLI-01186,70,F,Biobío,9,87600.0,Hogar,Online,13,23.0,2.0,0,15.8,686100.0,1,Recurrente
+CLI-01187,28,M,Metropolitana,8,76700.0,Deportes,Tienda física,17,33.0,6.0,1,29.6,693200.0,1,Recurrente
+CLI-01188,26,F,Valparaíso,7,149900.0,Hogar,Tienda física,56,19.0,1.0,1,44.8,980900.0,1,Recurrente
+CLI-01189,51,M,Coquimbo,8,222900.0,Alimentos,App móvil,5,13.0,6.0,0,,1534300.0,1,Recurrente
+CLI-01190,29,M,Araucanía,8,84500.0,Ropa,Online,27,14.0,5.0,1,15.1,664900.0,1,Recurrente
+CLI-01191,52,M,Araucanía,11,197900.0,Deportes,Online,128,32.0,8.0,1,36.5,2034400.0,0,VIP
+CLI-01192,52,M,Valparaíso,4,60100.0,Ropa,Tienda física,23,49.0,6.0,1,32.7,339600.0,1,Nuevo
+CLI-01193,18,M,Biobío,8,138900.0,Ropa,Online,26,22.0,6.0,1,46.2,1081100.0,1,Recurrente
+CLI-01194,57,M,Valparaíso,10,217500.0,Electrónica,Online,61,20.0,8.0,1,53.4,2059100.0,1,VIP
+CLI-01195,39,M,Araucanía,4,80700.0,Hogar,Online,68,33.0,7.0,0,30.3,328300.0,0,Nuevo
+CLI-01196,46,F,Metropolitana,18,97500.0,Ropa,Tienda física,67,5.0,7.0,1,13.8,1589300.0,0,VIP
+CLI-01197,25,M,Coquimbo,6,88300.0,Ropa,Online,277,20.0,9.0,1,54.8,631900.0,0,Recurrente
+CLI-01198,28,M,Coquimbo,6,46500.0,Alimentos,Tienda física,4,,5.0,1,14.8,323300.0,1,Recurrente
+CLI-01199,58,F,Biobío,7,99000.0,Alimentos,App móvil,182,27.0,10.0,0,15.5,704000.0,0,Recurrente
+CLI-01200,54,M,Metropolitana,4,138400.0,Alimentos,Tienda física,135,26.0,9.0,1,,615300.0,1,Recurrente
+CLI-01201,31,F,Metropolitana,6,91000.0,Ropa,Online,87,32.0,6.0,1,28.1,639600.0,1,Recurrente
+CLI-01202,47,F,Araucanía,7,136100.0,Deportes,Tienda física,28,30.0,9.0,0,16.8,903900.0,1,Recurrente
+CLI-01203,52,M,Metropolitana,5,78900.0,Hogar,Online,93,27.0,8.0,1,49.9,505000.0,1,Recurrente
+CLI-01204,38,F,Araucanía,3,82800.0,Ropa,Online,12,26.0,10.0,1,10.3,359100.0,1,Nuevo
+CLI-01205,54,M,Valparaíso,10,25800.0,Electrónica,Online,71,18.0,,1,21.2,349100.0,1,Recurrente
+CLI-01206,22,F,Metropolitana,6,31600.0,Deportes,Online,10,45.0,8.0,1,37.4,319500.0,1,Recurrente
+CLI-01207,36,M,Coquimbo,5,155000.0,Deportes,Tienda física,77,23.0,1.0,1,25.6,811200.0,0,Recurrente
+CLI-01208,31,F,Valparaíso,12,102200.0,Hogar,App móvil,43,44.0,7.0,0,51.7,1130400.0,1,Recurrente
+CLI-01209,43,M,Valparaíso,10,39000.0,Deportes,App móvil,5,47.0,5.0,1,16.0,551400.0,1,Recurrente
+CLI-01210,21,F,Valparaíso,8,42700.0,Hogar,Online,102,24.0,6.0,1,45.5,436100.0,0,Recurrente
+CLI-01211,42,F,Metropolitana,4,39100.0,Deportes,Tienda física,39,,10.0,1,17.8,262200.0,1,Nuevo
+CLI-01212,62,M,Biobío,6,75600.0,Hogar,Online,49,,3.0,1,47.2,523300.0,1,Recurrente
+CLI-01213,59,M,Metropolitana,7,107100.0,Alimentos,Tienda física,16,,,0,9.1,659900.0,1,Recurrente
+CLI-01214,42,F,Coquimbo,7,57400.0,Alimentos,Online,93,54.0,5.0,0,,438100.0,0,Recurrente
+CLI-01215,35,F,Araucanía,3,73800.0,Deportes,App móvil,36,43.0,1.0,0,12.3,242100.0,1,Nuevo
+CLI-01216,57,M,Metropolitana,8,75400.0,Deportes,App móvil,25,,7.0,0,20.8,565300.0,1,Recurrente
+CLI-01217,25,F,Biobío,7,54600.0,Hogar,Online,35,47.0,4.0,0,45.8,399500.0,1,Recurrente
+CLI-01218,56,No especifica,Valparaíso,8,94500.0,Hogar,Tienda física,55,,10.0,1,55.8,776800.0,1,Recurrente
+CLI-01219,57,F,Metropolitana,8,75200.0,Ropa,Tienda física,54,7.0,5.0,0,24.6,553400.0,1,Recurrente
+CLI-01220,31,M,Coquimbo,10,819556.0,Alimentos,Tienda física,20,39.0,5.0,1,36.2,978200.0,1,Recurrente
+CLI-01221,49,F,Metropolitana,8,107600.0,Ropa,Tienda física,22,22.0,2.0,1,10.9,829300.0,1,Recurrente
+CLI-01222,68,M,Metropolitana,4,20600.0,Ropa,Tienda física,38,41.0,6.0,0,24.1,135500.0,0,Nuevo
+CLI-01223,55,No especifica,Valparaíso,9,88500.0,Electrónica,App móvil,117,31.0,2.0,1,15.7,777100.0,1,Recurrente
+CLI-01224,50,F,Valparaíso,3,77900.0,Hogar,Tienda física,62,49.0,7.0,1,45.7,406500.0,0,Nuevo
+CLI-01225,40,M,Valparaíso,7,96900.0,Electrónica,Tienda física,23,13.0,7.0,0,15.7,573900.0,1,Recurrente
+CLI-01226,32,F,Biobío,5,141300.0,Electrónica,App móvil,19,41.0,3.0,1,27.5,725000.0,1,Recurrente
+CLI-01227,50,M,Valparaíso,6,76000.0,Ropa,App móvil,34,41.0,5.0,1,17.5,563100.0,1,Recurrente
+CLI-01228,42,No especifica,Valparaíso,12,23800.0,Electrónica,Online,92,52.0,9.0,0,,331200.0,1,Recurrente
+CLI-01229,34,No especifica,Metropolitana,6,49800.0,Hogar,Online,1,29.0,,1,31.1,383700.0,1,Recurrente
+CLI-01230,50,F,Metropolitana,7,206000.0,Ropa,Tienda física,56,28.0,7.0,1,,1394500.0,1,Recurrente
+CLI-01231,64,M,Metropolitana,7,57400.0,Hogar,App móvil,16,44.0,,1,24.0,446300.0,1,Recurrente
+CLI-01232,19,F,Metropolitana,9,56000.0,Deportes,Online,11,53.0,8.0,1,28.6,612900.0,1,Recurrente
+CLI-01233,31,M,Valparaíso,13,46600.0,Electrónica,Tienda física,1,19.0,8.0,0,34.9,561200.0,0,Recurrente
+CLI-01234,70,M,Metropolitana,7,51600.0,Ropa,Online,103,23.0,9.0,1,56.0,443700.0,1,Recurrente
+CLI-01235,57,F,Metropolitana,6,69500.0,Alimentos,Tienda física,110,47.0,5.0,1,37.4,547900.0,1,Recurrente
+CLI-01236,57,M,Metropolitana,6,15400.0,Hogar,App móvil,3,50.0,3.0,1,29.3,232900.0,1,Recurrente
+CLI-01237,68,M,Coquimbo,7,67800.0,Electrónica,Tienda física,34,8.0,6.0,0,64.9,408400.0,1,Recurrente
+CLI-01238,56,No especifica,Coquimbo,10,48200.0,Hogar,Tienda física,8,25.0,9.0,1,45.4,520300.0,1,Recurrente
+CLI-01239,68,M,Valparaíso,5,54000.0,Hogar,App móvil,64,38.0,3.0,1,34.9,368300.0,0,Recurrente
+CLI-01240,23,M,Coquimbo,6,86400.0,Deportes,Online,50,57.0,7.0,1,44.4,582700.0,1,Recurrente
+CLI-01241,23,No especifica,Biobío,12,52900.0,Hogar,App móvil,16,38.0,8.0,1,,741400.0,1,Recurrente
+CLI-01242,20,M,Valparaíso,7,92700.0,Deportes,Online,6,35.0,7.0,1,18.4,675400.0,1,Recurrente
+CLI-01243,24,F,Metropolitana,8,52000.0,Deportes,Tienda física,81,26.0,5.0,1,11.4,489400.0,0,Recurrente
+CLI-01244,68,No especifica,Biobío,5,105000.0,Deportes,Tienda física,51,3.0,6.0,1,17.3,501500.0,0,Recurrente
+CLI-01245,25,No especifica,Biobío,8,20500.0,Electrónica,Tienda física,1,,3.0,0,,99900.0,1,Recurrente
+CLI-01246,59,F,Valparaíso,10,65100.0,Hogar,App móvil,45,5.0,6.0,1,6.2,663100.0,0,Recurrente
+CLI-01247,69,M,Biobío,8,50700.0,Hogar,App móvil,75,20.0,2.0,0,13.3,474700.0,0,Recurrente
+CLI-01248,32,M,Valparaíso,4,888908.0,Deportes,App móvil,41,12.0,8.0,1,,328000.0,1,Nuevo
+CLI-01249,64,F,Biobío,6,76300.0,Hogar,Online,25,38.0,9.0,1,22.0,580400.0,1,Recurrente
+CLI-01250,46,F,Coquimbo,8,65700.0,Hogar,Online,40,16.0,8.0,0,23.3,491200.0,1,Recurrente
+CLI-01251,50,F,Metropolitana,10,39300.0,Deportes,Tienda física,44,37.0,8.0,1,29.3,529000.0,1,Recurrente
+CLI-01252,69,M,Biobío,7,38000.0,Alimentos,App móvil,46,38.0,7.0,1,24.2,383900.0,1,Recurrente
+CLI-01253,47,M,Valparaíso,8,36300.0,Alimentos,Tienda física,154,36.0,4.0,1,46.3,352600.0,0,Recurrente
+CLI-01254,56,M,Biobío,8,75500.0,Deportes,App móvil,9,,1.0,1,,646100.0,1,Recurrente
+CLI-01255,44,F,Biobío,5,98400.0,Electrónica,App móvil,44,29.0,6.0,1,4.0,509600.0,1,Recurrente
+CLI-01256,53,M,Metropolitana,4,42000.0,Hogar,Tienda física,10,35.0,8.0,1,16.7,278100.0,1,Nuevo
+CLI-01257,46,No especifica,Valparaíso,8,146900.0,Hogar,App móvil,11,49.0,10.0,1,28.9,1199200.0,1,Recurrente
+CLI-01258,55,F,Metropolitana,4,44100.0,Alimentos,App móvil,50,37.0,7.0,1,15.7,289700.0,1,Nuevo
+CLI-01259,50,M,Biobío,5,97800.0,Deportes,App móvil,112,54.0,6.0,0,39.8,497400.0,0,Recurrente
+CLI-01260,54,F,Valparaíso,8,37800.0,Electrónica,Tienda física,8,21.0,7.0,0,18.3,345400.0,1,Recurrente
+CLI-01261,44,M,Biobío,8,88300.0,Deportes,App móvil,148,21.0,7.0,0,17.0,645600.0,1,Recurrente
+CLI-01262,50,F,Metropolitana,9,135400.0,Alimentos,Online,18,28.0,8.0,1,38.2,1204800.0,1,Recurrente
+CLI-01263,21,F,Valparaíso,5,48700.0,Alimentos,Tienda física,23,6.0,,1,50.2,316300.0,1,Recurrente
+CLI-01264,39,F,Metropolitana,9,67600.0,Hogar,Online,8,20.0,9.0,1,38.2,693600.0,1,Recurrente
+CLI-01265,19,F,Araucanía,6,91000.0,Ropa,Online,44,60.0,8.0,1,8.3,695400.0,1,Recurrente
+CLI-01266,27,M,Coquimbo,6,93200.0,Electrónica,App móvil,41,36.0,7.0,1,23.7,574500.0,1,Recurrente
+CLI-01267,22,M,Coquimbo,6,132100.0,Electrónica,Tienda física,27,59.0,10.0,1,35.0,845000.0,1,Recurrente
+CLI-01268,27,F,Biobío,7,29100.0,Ropa,Online,30,13.0,8.0,1,36.9,301700.0,1,Recurrente
+CLI-01269,50,M,Biobío,3,67800.0,Alimentos,Online,44,40.0,7.0,1,4.2,315400.0,1,Nuevo
+CLI-01270,71,M,Metropolitana,4,39500.0,Deportes,App móvil,40,11.0,7.0,0,19.0,208200.0,1,Nuevo
+CLI-01271,55,M,Metropolitana,4,49500.0,Electrónica,App móvil,22,24.0,9.0,1,48.7,328700.0,1,Nuevo
+CLI-01272,30,F,Valparaíso,6,45000.0,Ropa,Online,97,60.0,7.0,1,32.3,388100.0,1,Recurrente
+CLI-01273,48,M,Biobío,7,69800.0,Hogar,App móvil,50,19.0,7.0,1,27.3,595600.0,1,Recurrente
+CLI-01274,64,F,Coquimbo,6,48000.0,Hogar,Online,11,23.0,6.0,1,,424400.0,1,Recurrente
+CLI-01275,53,No especifica,Metropolitana,3,58200.0,Alimentos,Tienda física,18,31.0,9.0,0,13.3,190700.0,1,Nuevo
+CLI-01276,62,M,Coquimbo,11,63000.0,Electrónica,Tienda física,70,37.0,7.0,1,20.4,730300.0,0,Recurrente
+CLI-01277,41,M,Biobío,8,84400.0,Deportes,App móvil,5,37.0,7.0,1,14.7,758400.0,1,Recurrente
+CLI-01278,69,M,Valparaíso,8,90700.0,Electrónica,App móvil,63,60.0,9.0,0,4.3,761600.0,0,Recurrente
+CLI-01279,32,F,Metropolitana,5,76800.0,Hogar,Online,21,3.0,10.0,1,27.3,502100.0,1,Recurrente
+CLI-01280,46,M,Metropolitana,2,66200.0,Electrónica,Tienda física,37,34.0,9.0,0,39.6,272500.0,0,Nuevo
+CLI-01281,25,M,Valparaíso,5,123300.0,Hogar,Online,15,29.0,3.0,1,10.3,666400.0,1,Recurrente
+CLI-01282,22,M,Biobío,8,43600.0,Ropa,Tienda física,194,3.0,7.0,0,4.0,373400.0,0,Recurrente
+CLI-01283,46,F,Metropolitana,6,109100.0,Ropa,Tienda física,107,15.0,6.0,1,45.4,764500.0,1,Recurrente
+CLI-01284,64,M,Valparaíso,7,26300.0,Hogar,Online,119,7.0,5.0,1,10.6,269400.0,1,Recurrente
+CLI-01285,21,F,Araucanía,7,59000.0,Deportes,Tienda física,10,3.0,9.0,0,27.7,376100.0,1,Recurrente
+CLI-01286,29,No especifica,Araucanía,7,91400.0,Deportes,Online,83,47.0,9.0,1,33.3,732900.0,1,Recurrente
+CLI-01287,62,M,Coquimbo,7,56800.0,Electrónica,Tienda física,35,43.0,7.0,1,14.4,552400.0,1,Recurrente
+CLI-01288,19,F,Metropolitana,6,111600.0,Hogar,Tienda física,56,,4.0,0,21.2,662800.0,0,Recurrente
+CLI-01289,44,M,Metropolitana,11,80700.0,Alimentos,Tienda física,12,45.0,1.0,0,32.2,817900.0,0,Recurrente
+CLI-01290,48,F,Biobío,8,91800.0,Deportes,App móvil,57,34.0,7.0,1,47.3,775100.0,1,Recurrente
+CLI-01291,68,F,Metropolitana,9,109000.0,Deportes,Online,111,20.0,,0,21.4,829600.0,1,Recurrente
+CLI-01292,68,F,Metropolitana,8,90800.0,Ropa,Tienda física,15,44.0,8.0,1,39.4,792600.0,1,Recurrente
+CLI-01293,53,M,Metropolitana,8,167800.0,Deportes,Tienda física,12,53.0,8.0,1,21.7,1289300.0,1,Recurrente
+CLI-01294,53,M,Metropolitana,7,56400.0,Deportes,Online,5,39.0,9.0,0,73.3,398200.0,1,Recurrente
+CLI-01295,43,M,Metropolitana,5,54000.0,Deportes,Online,14,33.0,5.0,1,27.4,381200.0,1,Recurrente
+CLI-01296,60,M,Metropolitana,8,112900.0,Hogar,App móvil,35,14.0,6.0,1,7.7,856200.0,1,Recurrente
+CLI-01297,44,M,Metropolitana,9,37200.0,Hogar,Tienda física,81,56.0,,1,29.0,487400.0,1,Recurrente
+CLI-01298,22,M,Metropolitana,8,60800.0,Ropa,Tienda física,15,42.0,,0,29.6,527300.0,1,Recurrente
+CLI-01299,37,M,Valparaíso,10,26600.0,Electrónica,Tienda física,44,,,1,13.4,331500.0,1,Recurrente
+CLI-01300,28,M,Valparaíso,7,171500.0,Deportes,App móvil,30,11.0,4.0,0,40.7,1036000.0,1,Recurrente
+CLI-01301,27,F,Biobío,5,73800.0,Electrónica,Online,16,54.0,9.0,0,15.8,380100.0,0,Recurrente
+CLI-01302,57,F,Metropolitana,10,30100.0,Hogar,App móvil,33,20.0,8.0,1,21.6,417700.0,1,Recurrente
+CLI-01303,55,M,Metropolitana,3,155100.0,Deportes,Online,9,30.0,9.0,0,14.0,431900.0,1,Nuevo
+CLI-01304,23,M,Valparaíso,4,206100.0,Electrónica,Tienda física,46,53.0,4.0,0,52.7,805300.0,1,Recurrente
+CLI-01305,25,M,Valparaíso,7,71100.0,Electrónica,Online,6,58.0,,0,10.1,541300.0,1,Recurrente
+CLI-01306,40,No especifica,Valparaíso,9,50900.0,Alimentos,App móvil,60,28.0,8.0,0,30.1,527800.0,1,Recurrente
+CLI-01307,64,M,Metropolitana,6,79400.0,Hogar,Tienda física,9,15.0,5.0,0,39.8,498100.0,0,Recurrente
+CLI-01308,43,F,Coquimbo,5,88100.0,Ropa,Tienda física,284,38.0,10.0,0,74.9,434400.0,1,Recurrente
+CLI-01309,63,No especifica,Metropolitana,5,31300.0,Ropa,Online,79,,7.0,0,32.7,282800.0,1,Recurrente
+CLI-01310,60,F,Valparaíso,8,47200.0,Alimentos,Tienda física,19,13.0,9.0,1,28.6,445500.0,1,Recurrente
+CLI-01311,29,F,Biobío,8,63400.0,Electrónica,Online,25,47.0,,0,29.2,508300.0,1,Recurrente
+CLI-01312,43,F,Valparaíso,10,56500.0,Alimentos,Tienda física,14,35.0,6.0,1,28.8,617000.0,1,Recurrente
+CLI-01313,30,No especifica,Metropolitana,10,159100.0,Alimentos,App móvil,66,47.0,7.0,1,31.2,1515100.0,1,VIP
+CLI-01314,57,F,Metropolitana,6,67900.0,Hogar,Tienda física,22,24.0,7.0,1,,554900.0,1,Recurrente
+CLI-01315,35,F,Biobío,6,23400.0,Deportes,Online,64,56.0,8.0,0,38.0,142100.0,1,Recurrente
+CLI-01316,42,F,Metropolitana,9,85800.0,Electrónica,App móvil,1,1.0,,1,7.4,833100.0,1,Recurrente
+CLI-01317,50,F,Metropolitana,5,71600.0,Ropa,App móvil,7,42.0,9.0,1,37.4,504600.0,1,Recurrente
+CLI-01318,64,F,Metropolitana,7,63700.0,Ropa,Tienda física,21,24.0,1.0,0,33.3,417800.0,1,Recurrente
+CLI-01319,57,M,Araucanía,5,25500.0,Alimentos,Tienda física,6,27.0,8.0,0,48.8,162800.0,1,Recurrente
+CLI-01320,60,M,Metropolitana,7,62200.0,Alimentos,App móvil,42,18.0,6.0,1,,498900.0,1,Recurrente
+CLI-01321,29,M,Coquimbo,8,80500.0,Alimentos,Tienda física,3,,5.0,1,32.4,747500.0,1,Recurrente
+CLI-01322,61,M,Valparaíso,8,165200.0,Electrónica,Tienda física,89,26.0,,1,,1308400.0,1,Recurrente
+CLI-01323,53,M,Coquimbo,6,53400.0,Alimentos,Tienda física,65,29.0,3.0,1,40.4,377200.0,0,Recurrente
+CLI-01324,65,M,Coquimbo,8,109900.0,Alimentos,Online,11,8.0,5.0,0,,805100.0,1,Recurrente
+CLI-01325,21,F,Valparaíso,8,60100.0,Deportes,App móvil,30,44.0,5.0,1,35.8,548800.0,1,Recurrente
+CLI-01326,22,M,Metropolitana,4,79100.0,Electrónica,Tienda física,28,26.0,7.0,0,23.1,329900.0,1,Nuevo
+CLI-01327,54,F,Metropolitana,6,94800.0,Hogar,Tienda física,59,5.0,6.0,1,23.9,638900.0,0,Recurrente
+CLI-01328,25,M,Metropolitana,9,215800.0,Hogar,Online,24,33.0,8.0,0,38.6,1754300.0,1,VIP
+CLI-01329,59,M,Biobío,7,132000.0,Deportes,Online,2,40.0,,0,8.5,824800.0,0,Recurrente
+CLI-01330,66,F,Metropolitana,8,41700.0,Ropa,Tienda física,15,,6.0,1,8.4,469600.0,1,Recurrente
+CLI-01331,45,F,Metropolitana,9,84100.0,Hogar,Tienda física,29,5.0,7.0,1,14.4,776900.0,1,Recurrente
+CLI-01332,48,M,Metropolitana,5,78400.0,Electrónica,Tienda física,166,49.0,5.0,0,13.5,421500.0,1,Recurrente
+CLI-01333,26,F,Coquimbo,8,90900.0,Ropa,Online,96,47.0,8.0,1,23.2,719000.0,1,Recurrente
+CLI-01334,71,F,Metropolitana,9,29600.0,Alimentos,Online,10,36.0,6.0,0,21.3,259000.0,1,Recurrente
+CLI-01335,68,M,Metropolitana,9,70000.0,Electrónica,Tienda física,58,13.0,4.0,1,4.3,597900.0,1,Recurrente
+CLI-01336,46,M,Metropolitana,7,46700.0,Ropa,Tienda física,125,17.0,4.0,1,23.9,379200.0,1,Recurrente
+CLI-01337,31,No especifica,Coquimbo,7,42700.0,Hogar,Online,1,13.0,6.0,1,41.1,383800.0,1,Recurrente
+CLI-01338,57,F,Valparaíso,7,109200.0,Alimentos,Online,58,25.0,8.0,1,25.5,784100.0,1,Recurrente
+CLI-01339,58,F,Metropolitana,8,151400.0,Alimentos,App móvil,28,58.0,2.0,0,20.5,1090500.0,1,Recurrente
+CLI-01340,39,F,Metropolitana,6,112800.0,Electrónica,Online,52,2.0,5.0,0,38.9,550400.0,1,Recurrente
+CLI-01341,28,M,Metropolitana,7,164500.0,Alimentos,App móvil,42,24.0,4.0,1,61.1,1070100.0,1,Recurrente
+CLI-01342,40,M,Metropolitana,2,61000.0,Ropa,Online,188,36.0,10.0,0,24.8,168200.0,1,Nuevo
+CLI-01343,18,M,Coquimbo,7,264600.0,Deportes,Tienda física,16,25.0,8.0,0,,1670800.0,0,Recurrente
+CLI-01344,63,F,Biobío,9,15900.0,Hogar,Online,70,34.0,,1,11.7,280400.0,1,Recurrente
+CLI-01345,54,F,Valparaíso,3,176600.0,Electrónica,App móvil,13,12.0,5.0,1,33.3,593200.0,1,Recurrente
+CLI-01346,38,F,Araucanía,6,75800.0,Deportes,Online,26,19.0,9.0,1,15.6,548200.0,1,Recurrente
+CLI-01347,43,M,Metropolitana,9,76600.0,Deportes,Online,167,50.0,5.0,0,36.5,695700.0,1,Recurrente
+CLI-01348,63,M,Biobío,4,18800.0,Electrónica,Online,66,42.0,10.0,0,8.7,123300.0,1,Nuevo
+CLI-01349,53,F,Araucanía,7,65700.0,Ropa,App móvil,18,30.0,6.0,0,24.1,497000.0,1,Recurrente
+CLI-01350,71,F,Metropolitana,8,47100.0,Hogar,App móvil,44,37.0,3.0,1,8.9,491100.0,1,Recurrente
+CLI-01351,40,F,Biobío,9,30700.0,Electrónica,Online,3,43.0,8.0,0,15.3,315200.0,1,Recurrente
+CLI-01352,18,M,Metropolitana,10,91000.0,Deportes,Online,14,1.0,8.0,1,14.9,923800.0,1,Recurrente
+CLI-01353,71,F,Metropolitana,10,124000.0,Deportes,Tienda física,58,60.0,10.0,0,11.7,1212500.0,1,Recurrente
+CLI-01354,68,M,Metropolitana,3,61400.0,Electrónica,App móvil,38,3.0,9.0,1,40.6,283600.0,1,Nuevo
+CLI-01355,57,No especifica,Metropolitana,5,48200.0,Deportes,Tienda física,29,49.0,7.0,1,8.8,394800.0,1,Recurrente
+CLI-01356,32,M,Biobío,7,76900.0,Electrónica,App móvil,53,26.0,8.0,0,16.6,513200.0,1,Recurrente
+CLI-01357,38,F,Coquimbo,10,50500.0,Electrónica,Online,23,15.0,,0,10.3,531800.0,1,Recurrente
+CLI-01358,64,M,Valparaíso,7,101700.0,Hogar,Online,2,46.0,7.0,0,6.3,681800.0,1,Recurrente
+CLI-01359,26,No especifica,Araucanía,7,49700.0,Electrónica,Online,27,56.0,6.0,1,53.5,482300.0,1,Recurrente
+CLI-01360,70,F,Araucanía,8,114700.0,Deportes,Tienda física,105,47.0,5.0,1,25.5,940100.0,1,Recurrente
+CLI-01361,26,M,Metropolitana,6,22200.0,Alimentos,Tienda física,88,48.0,6.0,1,31.5,263300.0,0,Recurrente
+CLI-01362,27,M,Valparaíso,7,69800.0,Hogar,Online,24,28.0,9.0,1,48.0,522800.0,1,Recurrente
+CLI-01363,69,M,Metropolitana,2,34000.0,Deportes,Online,2,4.0,6.0,1,28.9,199200.0,1,Nuevo
+CLI-01364,70,M,Biobío,11,62400.0,Deportes,Tienda física,46,,6.0,1,54.8,715200.0,1,Recurrente
+CLI-01365,43,No especifica,Coquimbo,9,59000.0,Hogar,Online,61,24.0,9.0,0,56.3,580100.0,1,Recurrente
+CLI-01366,58,M,Metropolitana,11,181500.0,Hogar,Online,16,57.0,2.0,1,57.3,1891900.0,1,VIP
+CLI-01367,52,F,Biobío,12,52900.0,Deportes,App móvil,30,40.0,,1,46.3,743700.0,1,Recurrente
+CLI-01368,69,F,Valparaíso,7,63000.0,Alimentos,Online,217,6.0,9.0,1,30.5,529100.0,1,Recurrente
+CLI-01369,42,F,Valparaíso,8,118600.0,Ropa,Online,39,16.0,,0,29.8,883300.0,1,Recurrente
+CLI-01370,43,M,Metropolitana,7,28700.0,Deportes,Tienda física,20,32.0,5.0,1,13.9,318900.0,1,Recurrente
+CLI-01371,28,M,Metropolitana,8,26400.0,Hogar,App móvil,45,30.0,7.0,1,5.9,355300.0,1,Recurrente
+CLI-01372,55,F,Metropolitana,3,38500.0,Electrónica,Tienda física,9,35.0,8.0,1,,246700.0,1,Nuevo
+CLI-01373,19,No especifica,Metropolitana,6,17000.0,Electrónica,Online,10,8.0,7.0,1,13.6,138000.0,1,Recurrente
+CLI-01374,24,M,Metropolitana,6,40600.0,Hogar,App móvil,117,5.0,1.0,1,9.2,319300.0,1,Recurrente
+CLI-01375,35,M,Valparaíso,5,87900.0,Hogar,Tienda física,13,,3.0,1,20.6,534900.0,1,Recurrente
+CLI-01376,44,F,Metropolitana,6,41200.0,Ropa,Online,17,12.0,8.0,1,47.7,304900.0,1,Recurrente
+CLI-01377,51,No especifica,Araucanía,8,130000.0,Hogar,Tienda física,36,25.0,6.0,1,14.9,1039400.0,1,Recurrente
+CLI-01378,44,M,Valparaíso,7,56900.0,Electrónica,Tienda física,104,33.0,9.0,1,12.4,518100.0,0,Recurrente
+CLI-01379,34,M,Biobío,5,79700.0,Alimentos,Tienda física,69,,8.0,0,59.6,457900.0,0,Recurrente
+CLI-01380,60,F,Metropolitana,8,104000.0,Hogar,App móvil,3,24.0,8.0,0,15.5,772800.0,0,Recurrente
+CLI-01381,61,M,Valparaíso,7,55900.0,Ropa,Tienda física,54,11.0,9.0,1,30.7,425100.0,1,Recurrente
+CLI-01382,68,M,Coquimbo,9,99900.0,Alimentos,App móvil,32,42.0,2.0,1,20.4,890100.0,0,Recurrente
+CLI-01383,71,F,Metropolitana,4,107200.0,Ropa,Tienda física,30,35.0,4.0,1,22.0,491900.0,1,Nuevo
+CLI-01384,41,No especifica,Metropolitana,10,194900.0,Alimentos,Online,53,40.0,8.0,1,33.9,1821100.0,1,VIP
+CLI-01385,42,M,Biobío,6,65500.0,Hogar,Tienda física,10,1.0,3.0,1,23.4,433900.0,1,Recurrente
+CLI-01386,24,F,Metropolitana,8,18800.0,Electrónica,Online,180,8.0,8.0,1,39.0,250300.0,0,Recurrente
+CLI-01387,69,F,Metropolitana,7,63700.0,Alimentos,Online,47,23.0,10.0,0,11.8,468500.0,0,Recurrente
+CLI-01388,23,F,Metropolitana,8,16000.0,Deportes,Tienda física,21,20.0,9.0,1,23.0,224900.0,1,Recurrente
+CLI-01389,70,F,Metropolitana,4,30600.0,Ropa,Tienda física,42,32.0,8.0,1,,273200.0,1,Nuevo
+CLI-01390,41,F,Valparaíso,9,114000.0,Alimentos,Online,11,11.0,9.0,0,8.3,907500.0,0,Recurrente
+CLI-01391,50,M,Metropolitana,9,72900.0,Ropa,Tienda física,46,7.0,,0,31.5,580000.0,1,Recurrente
+CLI-01392,66,F,Araucanía,11,211400.0,Electrónica,Online,2,58.0,7.0,1,32.9,2106300.0,1,VIP
+CLI-01393,46,F,Biobío,5,90000.0,Ropa,App móvil,19,30.0,7.0,1,62.0,561800.0,1,Recurrente
+CLI-01394,60,F,Biobío,5,46600.0,Ropa,Online,62,59.0,6.0,0,44.6,289700.0,1,Recurrente
+CLI-01395,39,F,Valparaíso,4,65000.0,Deportes,Tienda física,75,48.0,1.0,1,44.7,373800.0,0,Nuevo
+CLI-01396,43,M,Araucanía,9,66700.0,Ropa,Tienda física,14,39.0,9.0,1,19.1,657400.0,1,Recurrente
+CLI-01397,45,F,Metropolitana,10,35600.0,Alimentos,Tienda física,35,13.0,8.0,1,7.9,421400.0,1,Recurrente
+CLI-01398,67,F,Araucanía,10,74400.0,Ropa,Online,34,42.0,8.0,0,4.2,693800.0,1,Recurrente
+CLI-01399,38,M,Biobío,7,23000.0,Hogar,Tienda física,25,60.0,4.0,1,28.8,313600.0,1,Recurrente
+CLI-01400,66,F,Biobío,6,117400.0,Ropa,App móvil,12,49.0,6.0,0,8.0,704800.0,1,Recurrente
+CLI-01401,24,M,Valparaíso,7,71800.0,Hogar,Tienda física,55,3.0,10.0,0,16.4,450800.0,1,Recurrente
+CLI-01402,34,M,Metropolitana,10,40100.0,Ropa,Tienda física,14,7.0,8.0,0,51.8,393400.0,0,Recurrente
+CLI-01403,37,M,Metropolitana,3,20200.0,Ropa,Tienda física,109,43.0,8.0,1,11.9,215800.0,1,Nuevo
+CLI-01404,58,M,Biobío,9,45400.0,Alimentos,Online,34,13.0,10.0,0,31.1,418700.0,1,Recurrente
+CLI-01405,66,M,Metropolitana,5,63600.0,Hogar,Online,92,37.0,7.0,0,11.6,322700.0,0,Recurrente
+CLI-01406,37,F,Biobío,7,87500.0,Hogar,App móvil,16,25.0,8.0,0,11.5,604600.0,1,Recurrente
+CLI-01407,71,M,Metropolitana,2,138800.0,Deportes,App móvil,75,23.0,6.0,1,46.2,365200.0,1,Nuevo
+CLI-01408,39,F,Metropolitana,11,76700.0,Ropa,Tienda física,6,51.0,6.0,1,16.0,884200.0,1,Recurrente
+CLI-01409,45,F,Metropolitana,8,75900.0,Ropa,Tienda física,66,47.0,8.0,0,14.5,682700.0,0,Recurrente
+CLI-01410,57,F,Metropolitana,5,87700.0,Alimentos,Online,23,33.0,6.0,0,33.3,389500.0,1,Recurrente
+CLI-01411,66,F,Valparaíso,6,33000.0,Deportes,Online,29,5.0,7.0,1,11.1,305500.0,1,Recurrente
+CLI-01412,24,M,Metropolitana,7,41700.0,Deportes,Tienda física,9,32.0,6.0,0,8.6,329600.0,1,Recurrente
+CLI-01413,18,F,Coquimbo,6,70000.0,Alimentos,App móvil,1,30.0,4.0,0,7.7,431900.0,1,Recurrente
+CLI-01414,49,M,Valparaíso,6,29900.0,Hogar,Tienda física,50,31.0,7.0,0,49.7,242300.0,1,Recurrente
+CLI-01415,30,F,Metropolitana,6,107300.0,Electrónica,Online,40,,5.0,1,36.7,673600.0,1,Recurrente
+CLI-01416,47,No especifica,Biobío,8,31200.0,Alimentos,Online,44,42.0,,1,1.4,399800.0,1,Recurrente
+CLI-01417,40,M,Araucanía,7,17700.0,Hogar,Online,14,5.0,6.0,0,49.4,221900.0,1,Recurrente
+CLI-01418,68,M,Biobío,7,158500.0,Deportes,Tienda física,13,23.0,8.0,0,16.5,1005500.0,1,Recurrente
+CLI-01419,36,F,Metropolitana,5,43000.0,Alimentos,App móvil,80,1.0,5.0,1,54.9,283500.0,0,Recurrente
+CLI-01420,49,F,Araucanía,7,120700.0,Electrónica,App móvil,65,10.0,5.0,1,6.8,803200.0,1,Recurrente
+CLI-01421,47,F,Biobío,6,102400.0,Ropa,App móvil,19,50.0,6.0,1,32.3,667500.0,1,Recurrente
+CLI-01422,46,M,Metropolitana,8,103500.0,Alimentos,Tienda física,46,27.0,10.0,0,25.6,792900.0,1,Recurrente
+CLI-01423,66,F,Metropolitana,8,117200.0,Electrónica,Tienda física,519,54.0,6.0,1,59.9,982800.0,1,Recurrente
+CLI-01424,62,M,Valparaíso,5,35400.0,Electrónica,App móvil,99,8.0,9.0,0,8.7,201700.0,1,Recurrente
+CLI-01425,46,F,Metropolitana,9,170700.0,Alimentos,Tienda física,1,52.0,5.0,1,46.1,1492800.0,1,Recurrente
+CLI-01426,47,No especifica,Araucanía,6,68800.0,Hogar,App móvil,76,3.0,2.0,0,12.3,352500.0,1,Recurrente
+CLI-01427,33,F,Metropolitana,7,78300.0,Alimentos,Tienda física,20,19.0,9.0,0,54.7,608200.0,1,Recurrente
+CLI-01428,57,F,Coquimbo,5,81500.0,Deportes,Online,58,51.0,7.0,1,24.9,527200.0,1,Recurrente
+CLI-01429,36,M,Valparaíso,7,37800.0,Electrónica,Tienda física,21,2.0,7.0,1,24.8,362500.0,1,Recurrente
+CLI-01430,35,F,Metropolitana,6,48500.0,Electrónica,Online,42,49.0,6.0,1,,421000.0,1,Recurrente
+CLI-01431,18,F,Metropolitana,4,79400.0,Ropa,Online,47,31.0,3.0,0,15.7,304100.0,1,Nuevo
+CLI-01432,31,M,Valparaíso,8,150400.0,Electrónica,Online,24,48.0,7.0,1,22.7,1180100.0,1,Recurrente
+CLI-01433,68,F,Biobío,9,36500.0,Ropa,App móvil,33,53.0,9.0,1,,433400.0,1,Recurrente
+CLI-01434,64,M,Biobío,3,60500.0,Electrónica,Tienda física,59,10.0,4.0,1,28.3,214600.0,1,Nuevo
+CLI-01435,67,F,Metropolitana,7,70500.0,Electrónica,Online,30,53.0,10.0,1,10.4,641600.0,1,Recurrente
+CLI-01436,19,F,Metropolitana,6,78300.0,Alimentos,Online,1,16.0,6.0,0,27.7,430300.0,0,Recurrente
+CLI-01437,71,F,Metropolitana,7,138200.0,Alimentos,Tienda física,1,37.0,,1,7.4,979800.0,1,Recurrente
+CLI-01438,45,M,Biobío,2,34300.0,Deportes,Tienda física,49,20.0,3.0,0,53.0,143300.0,1,Nuevo
+CLI-01439,66,F,Metropolitana,7,77800.0,Hogar,Tienda física,85,3.0,7.0,1,9.3,616600.0,0,Recurrente
+CLI-01440,67,F,Metropolitana,5,98700.0,Deportes,Tienda física,70,60.0,4.0,1,40.5,596000.0,1,Recurrente
+CLI-01441,47,No especifica,Valparaíso,8,121600.0,Electrónica,Tienda física,17,35.0,2.0,1,44.8,952600.0,1,Recurrente
+CLI-01442,55,M,Coquimbo,5,77400.0,Deportes,Online,29,34.0,10.0,0,40.2,415100.0,1,Recurrente
+CLI-01443,68,M,Metropolitana,7,51300.0,Alimentos,Tienda física,13,21.0,8.0,0,23.2,436500.0,1,Recurrente
+CLI-01444,21,F,Metropolitana,8,41100.0,Electrónica,Online,204,36.0,8.0,1,69.0,447900.0,1,Recurrente
+CLI-01445,18,M,Biobío,4,67000.0,Electrónica,Online,14,32.0,3.0,0,43.7,371000.0,0,Nuevo
+CLI-01446,25,F,Valparaíso,10,27200.0,Deportes,Online,25,54.0,10.0,1,,387000.0,1,Recurrente
+CLI-01447,46,F,Metropolitana,6,89100.0,Ropa,Tienda física,52,18.0,7.0,1,39.6,592400.0,1,Recurrente
+CLI-01448,56,F,Coquimbo,6,105500.0,Hogar,App móvil,94,34.0,9.0,0,25.0,658800.0,0,Recurrente
+CLI-01449,20,F,Araucanía,11,150200.0,Deportes,Tienda física,3,56.0,1.0,0,22.2,1509000.0,1,VIP
+CLI-01450,49,F,Metropolitana,7,57700.0,Deportes,Tienda física,17,38.0,6.0,1,7.1,517900.0,1,Recurrente
+CLI-01451,27,M,Metropolitana,7,96800.0,Hogar,Tienda física,38,3.0,10.0,0,64.5,611300.0,1,Recurrente
+CLI-01452,27,M,Valparaíso,8,129500.0,Electrónica,Online,44,53.0,7.0,1,34.1,1019800.0,1,Recurrente
+CLI-01453,36,M,Biobío,4,85400.0,Electrónica,Online,4,3.0,9.0,1,7.3,413600.0,1,Nuevo
+CLI-01454,63,M,Metropolitana,4,93300.0,Ropa,App móvil,50,27.0,6.0,0,27.3,410900.0,1,Nuevo
+CLI-01455,51,F,Biobío,7,93400.0,Deportes,Online,34,2.0,7.0,1,27.7,724100.0,1,Recurrente
+CLI-01456,50,F,Valparaíso,3,44800.0,Hogar,Tienda física,80,3.0,9.0,1,,246200.0,1,Nuevo
+CLI-01457,40,F,Metropolitana,13,91800.0,Deportes,Online,12,17.0,8.0,1,6.6,1151800.0,1,Recurrente
+CLI-01458,45,F,Biobío,8,59600.0,Alimentos,App móvil,10,46.0,8.0,1,37.1,586700.0,1,Recurrente
+CLI-01459,49,No especifica,Coquimbo,6,166000.0,Deportes,App móvil,71,39.0,,1,36.6,1005000.0,1,Recurrente
+CLI-01460,67,F,Metropolitana,6,29300.0,Deportes,Online,55,54.0,4.0,0,26.9,269800.0,1,Recurrente
+CLI-01461,24,F,Metropolitana,8,147200.0,Alimentos,Tienda física,71,,5.0,1,21.2,1158500.0,0,Recurrente
+CLI-01462,46,F,Metropolitana,8,73700.0,Alimentos,Online,69,38.0,7.0,0,21.6,578200.0,0,Recurrente
+CLI-01463,25,M,Araucanía,8,63300.0,Hogar,Tienda física,5,40.0,9.0,1,55.6,617300.0,1,Recurrente
+CLI-01464,18,M,Coquimbo,7,95300.0,Electrónica,Online,15,19.0,6.0,0,53.7,600900.0,1,Recurrente
+CLI-01465,20,M,Metropolitana,4,30700.0,Ropa,Online,14,19.0,7.0,1,23.9,214600.0,1,Nuevo
+CLI-01466,41,No especifica,Biobío,8,48700.0,Alimentos,Online,123,44.0,9.0,0,34.2,471100.0,1,Recurrente
+CLI-01467,40,F,Valparaíso,7,43600.0,Electrónica,App móvil,31,5.0,5.0,1,,369700.0,1,Recurrente
+CLI-01468,25,M,Valparaíso,5,54500.0,Hogar,App móvil,6,5.0,9.0,1,27.2,389300.0,1,Recurrente
+CLI-01469,71,F,Metropolitana,9,173000.0,Deportes,Online,16,14.0,10.0,1,12.7,1491000.0,1,Recurrente
+CLI-01470,64,F,Metropolitana,4,25000.0,Hogar,Tienda física,93,27.0,2.0,1,12.3,166100.0,1,Nuevo
+CLI-01471,54,M,Metropolitana,6,122700.0,Hogar,Online,85,49.0,,1,24.0,760000.0,1,Recurrente
+CLI-01472,20,M,Valparaíso,4,42000.0,Alimentos,Online,104,48.0,3.0,0,34.5,217300.0,1,Nuevo
+CLI-01473,68,F,Metropolitana,4,67600.0,Ropa,App móvil,23,36.0,8.0,1,9.4,385800.0,1,Nuevo
+CLI-01474,50,M,Coquimbo,7,86900.0,Alimentos,Online,47,57.0,5.0,1,21.1,697800.0,1,Recurrente
+CLI-01475,45,M,Metropolitana,7,30000.0,Deportes,Tienda física,15,40.0,8.0,1,13.8,352100.0,1,Recurrente
+CLI-01476,64,F,Metropolitana,4,39500.0,Alimentos,Tienda física,9,35.0,7.0,1,43.8,314900.0,1,Nuevo
+CLI-01477,25,F,Valparaíso,8,57500.0,Deportes,Online,1,21.0,9.0,0,18.8,459900.0,0,Recurrente
+CLI-01478,51,F,Biobío,5,1885048.0,Alimentos,Tienda física,12,5.0,9.0,1,25.1,342600.0,1,Recurrente
+CLI-01479,52,M,Metropolitana,10,114000.0,Ropa,App móvil,42,55.0,10.0,0,39.3,1041900.0,1,Recurrente
+CLI-01480,49,M,Metropolitana,6,90100.0,Electrónica,Tienda física,106,24.0,5.0,1,19.5,575300.0,1,Recurrente
+CLI-01481,41,F,Coquimbo,7,27200.0,Ropa,Online,7,57.0,5.0,0,22.6,238700.0,1,Recurrente
+CLI-01482,31,F,Metropolitana,4,53100.0,Alimentos,App móvil,113,39.0,,0,43.5,224000.0,1,Nuevo
+CLI-01483,49,F,Metropolitana,11,67300.0,Hogar,App móvil,20,50.0,7.0,1,18.2,793100.0,1,Recurrente
+CLI-01484,63,M,Araucanía,5,83100.0,Electrónica,Online,26,24.0,7.0,1,49.9,515000.0,1,Recurrente
+CLI-01485,60,F,Metropolitana,6,62500.0,Hogar,Online,21,,10.0,1,21.7,549900.0,1,Recurrente
+CLI-01486,33,M,Valparaíso,7,91600.0,Ropa,Online,24,43.0,9.0,0,1.8,601100.0,1,Recurrente
+CLI-01487,21,M,Metropolitana,4,50300.0,Electrónica,Online,14,46.0,4.0,1,24.6,320200.0,1,Nuevo
+CLI-01488,69,M,Metropolitana,12,95600.0,Alimentos,Tienda física,54,50.0,9.0,1,4.1,1134100.0,1,Recurrente
+CLI-01489,54,M,Metropolitana,10,127600.0,Hogar,Online,64,13.0,5.0,0,,1085000.0,0,Recurrente
+CLI-01490,71,F,Metropolitana,10,122100.0,Alimentos,Online,78,38.0,,0,45.3,1082600.0,0,Recurrente
+CLI-01491,38,F,Metropolitana,6,82200.0,Deportes,Online,19,45.0,9.0,0,39.2,486600.0,1,Recurrente
+CLI-01492,31,M,Metropolitana,10,70400.0,Electrónica,Tienda física,66,58.0,10.0,1,17.4,805000.0,0,Recurrente
+CLI-01493,48,F,Biobío,6,97500.0,Hogar,Tienda física,46,1.0,3.0,1,20.0,588600.0,1,Recurrente
+CLI-01494,65,M,Metropolitana,5,75900.0,Ropa,Tienda física,143,43.0,9.0,1,34.8,490200.0,1,Recurrente
+CLI-01495,35,F,Metropolitana,11,81500.0,Ropa,Online,25,39.0,9.0,0,23.5,863100.0,1,Recurrente
+CLI-01496,24,No especifica,Araucanía,9,84200.0,Ropa,Tienda física,220,10.0,4.0,0,11.0,633200.0,1,Recurrente
+CLI-01497,27,M,Biobío,4,141500.0,Ropa,Online,61,2.0,6.0,1,7.6,563100.0,0,Recurrente
+CLI-01498,24,F,Metropolitana,6,54000.0,Hogar,App móvil,68,16.0,8.0,1,42.8,425300.0,1,Recurrente
+CLI-01499,50,M,Coquimbo,11,198300.0,Deportes,Online,2,37.0,9.0,1,25.4,1992800.0,1,VIP
+CLI-01500,40,M,Metropolitana,7,59100.0,Ropa,Online,31,16.0,6.0,1,6.8,419600.0,1,Recurrente
